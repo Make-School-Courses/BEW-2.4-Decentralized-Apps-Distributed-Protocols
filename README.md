@@ -2,7 +2,9 @@
 
 ## Course Description
 
-In this course, students will learn how to utilize a fresh, exciting new development paradigm that harnesses the power of peer-to-peer applications and distributed architectures. This course begins by demystifying common jargon in the modern-day blockchain ecosystem, then establishes best practices for developing consensus based products and services. Leveraging the familiar syntax of Node, students will learn how to write smart contracts, tokens, and more using the Truffle framework --- quickly enabling them to invent and produce the decentralized assets of thier dreams!
+In this course, students will learn how to utilize a fresh, exciting new development paradigm that harnesses the power of peer-to-peer applications and distributed architectures. This course begins by demystifying common jargon in the modern-day blockchain ecosystem, then establishes best practices for developing consensus based products and services. 
+
+Building upon the familiar syntax of Node, students will learn how to write smart contracts, tokens, and more using the Truffle framework --- quickly enabling them to invent and produce the decentralized assets of thier dreams!
 
 ### Why You Should Know This
 
