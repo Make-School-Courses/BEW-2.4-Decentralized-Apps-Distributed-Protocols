@@ -6,25 +6,11 @@ In this course, students will learn how to utilize a fresh, exciting new develop
 
 Building upon the familiar syntax of Node, students will learn how to write smart contracts, tokens, and other cryptographic assets using the Truffle framework --- quickly enabling them to invent and produce the decentralized holdings of thier dreams!
 
-### Why You Should Know This
-
-Explain why students should care to learn the material presented in this class. 
-
-## Course Specifics
-
-Weeks to Completion:  7 <br>
-Total Seat Hours:  37.5 hours <br>
-Total Out-of-Class Hours: 75 hours <br>
-Total Hours: 112.5 hours <br>
-Units:  3 units <br>
-Delivery Method:  Residential <br>
-Class Sessions:  14 classes, 7 labs 
-
 ## Prerequisites:  
 
 * [BEW 1.1](https://make.sc/bew1-1)<br>
 
-## Learning Objectives or Competencies (5-8)
+## Learning Outcomes
 
 Students by the end of the course will be able to ...
 
@@ -34,22 +20,9 @@ Students by the end of the course will be able to ...
 1. Design & Implement
 1. Master
 
-## Tutorials & Projects
+## Schedule
 
-- Link to all of the technical tutorials, projects, and course-level assignments (i.e. tutorials, contractor project, custom projects, etc)
-- Use a list
-
-## Evaluation
-
-To pass this course you must meet the following requirements:
-
-- No more than two no call no shows
-- No more than four excused absences
-- Make up all classwork from all absences
-- Finish all required tutorials and projects
-- Pass the final exam (summative assessment) >=80%
-
-## Lessons
+**NOTE:** Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This is to ensure that we cover the same material that we normally would in non-summer terms.
 
 Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
 
@@ -94,12 +67,35 @@ Should be ~13 planned lessons (7 weeks x 2 meetings per week -~1 holiday)
     - **In Class Activities**
     - **After Class**
 
+## Class Assignments
+
+### Tutorials
+
+- [Do Cool Stuff Tutorial]()
+
+### Projects
+
+- [Project Template - Use to build your own project spec](https://docs.google.com/document/d/1j4ualsYjrd-7ePdyP3KU03xrpg41k1AoSU0YKkx9_I8/edit?usp=sharing)
+    -   [Sample Project Rubric](Sample_Rubric.md)
+
+## Evaluation
+**[MAKE SPECIFIC TO YOUR COURSE SO IT IS SUPER CLEAR]**
+To pass this course you must meet the following requirements:
+
+- Complete all required assignments 
+- Pass all projects according to the associated project rubric
+- Pass the final summative assessment according to the rubric as specified in this class
+    - This will be further explained in the [study guide](ADD_STUDY_GUIDE_LNK)
+- Actively participate in class and abide by the attendance policy
+- Make up all classwork from all absences
+
 ## Make School Course Policies
 
-[Academic Honesty](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Academic-Honesty-and-Plagiarism.md)<br>
-[Accomodation Policy](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Accommodation-Policy.md)<br>
-[Diversity Statement](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Diversity-Statement.md)<br>
-[Evaluation Methods](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluation-Methods.md)
-<br>
-[Title IX Disclaimer](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Evaluations-Title-X-Disclaimer.md)<br>
-[Program Learning Outcomes](https://github.com/Product-College-Courses/Common-Syllabus-Sections/blob/master/Program-Learning-Outcomes.md)
+- [Program Learning Outcomes](https://make.sc/program-learning-outcomes)
+- [Grading System](https://make.sc/grading-system)
+- [Diversity and Inclusion Statement](https://make.sc/diversity-and-inclusion-statement)
+- [Academic Honesty](https://make.sc/academic-honesty-policy)
+- [Attendance Policy](https://make.sc/attendance-policy)
+- [Course Credit Policy](https://make.sc/course-credit-policy)
+- [Disability Services (Academic Accommodations)](https://make.sc/disability-services)
+- [Student Handbook](https://make.sc/student-handbook)
