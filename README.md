@@ -9,7 +9,6 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 ## Prerequisites
 
 - [BEW 1.2](https://make.sc/bew1.2)
-- [Prerequisite 2]()
 
 ## Learning Outcomes
 
