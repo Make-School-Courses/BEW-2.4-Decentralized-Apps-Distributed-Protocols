@@ -1,66 +1,44 @@
 # History of Cryptocurrency
 
-## Minute-by-Minute [OPTIONAL]
+### Table of Contents
 
-| **Elapsed** | **Time**  | **Activity**              |
-| ----------- | --------- | ------------------------- |
-| 0:00        | 0:05      | Objectives                |
-| 0:05        | 0:15      | Overview                  |
-| 0:20        | 0:45      | In Class Activity I       |
-| 1:05        | 0:10      | BREAK                     |
-| 1:15        | 0:45      | In Class Activity II      |
-| TOTAL       | 2:00      |                           |
-
-## Why you should know this or industry application (optional) (5 min)
-
-Explain why students should care to learn the material presented in this class.
+1. [Learning Objectives (5 min)](#learning-objectives-5-min)
+2. [Initial Exercise (10 min)](#initial-exercise-10-min)
+3. [Overview/TT I (20 min)](#overviewtt-i-20-min)
+4. [BREAK (10 min)](#break-10-min)
+5. [In Class Activity I (30 min)](#in-class-activity-i-30-min)
+6. [In Class Activity II (20 min)](#in-class-activity-ii-20-min)
+7. [Wrap Up](#wrap-up)
 
 ## Learning Objectives (5 min)
 
-1. Identify and describe
-2. Define
-3. Design
-4. Implement
+1. Identify and describe the events that lead to the existence of cryptocurrencies.
+2. Design and present a timeline of the events to the class.
 
-## Initial Exercise (15 min)
+## Initial Exercise (10 min)
 
-- Funny comic
-- Prime the Pump (e.g. think and jot, think pair share, etc)
-- Productivity Tip/Tool
-- Review of current event (e.g. tech news relevant to your track/topic)
-- Quiz on homework or topic(s) of past class
-- Concept Test
+### Warm Up
+
+- How many different cryptocurrencies exist?
+- What qualities do they possess that make them cryptocurrency?
 
 ## Overview/TT I (20 min)
 
-- Why learn this?
-- Industry examples of usage
-- Best practices
-- Personal anecdote
+## BREAK (10 min)
 
 ## In Class Activity I (30 min)
 
-- I do, We do, You do
-- Reading & Discussion Questions in small groups
-- Draw a picture/diagram
-- Complete Challenges solo or in pair
-- Q&A about tutorials
-- Pair up and code review
-- Pair program
-- Formative assessment
-- Form into groups
-- etc (get creative :D)
+### Crypto Timeline
 
-## Overview/TT II (optional) (20 min)
+1. Get into groups of three.
+2. Research the history of cryptocurrency.
+3. Make a timeline on the whiteboard that details the interesting events that you've learned about.
+4. Each group should be prepared to speak for about 5 minutes regarding their timeline's specific events.
 
-## In Class Activity II (optional) (30 min)
+## In Class Activity II (20 min)
 
-## Wrap Up (5 min)
+Each group will spend 5 minutes presenting their timelines, including specific events, to the class.
 
-- Continue working on your current tutorial
-- Complete reading
-- Complete challenges
+## Wrap Up
 
-## Additional Resources
-
-1. Links to additional readings and videos
+- Continue working on CryptoZombies!
