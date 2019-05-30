@@ -14,17 +14,19 @@
 ## Learning Objectives (5 min)
 
 1. Identify and describe the benefits and principles of the Ethereum Virtual Machine.
-2. Detail the events that lead to the existence of cryptocurrencies.
+2. Detail the events that contributed to the existence of cryptocurrencies.
 3. Design and present a timeline of the events to the class.
 
 ## Initial Exercise (10 min)
 
 ### Warm Up
 
-- What principles does the Ethereum Virtual Machine uphold?
-- What benefits does the Ethereum Virtual Machine provide?
+- What **principles** does the Ethereum Virtual Machine uphold?
+- What **benefits** does the Ethereum Virtual Machine provide?
 
 ## Overview/TT (20 min)
+
+Use the links below in Additional Resources to discuss and introduce the principles, benefits, and use cases of the EVM.
 
 ## BREAK (10 min)
 
