@@ -30,17 +30,17 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tu, May 28                        | [Lesson 1] |
-|  2 |  Th, May 30                       | [Lesson 2] |
-|  3 |  Tu, June 4                        | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
-|  4 |  Th, June 6                      | [Lesson 5] |
-|  5 |  Tu, June 11                       | [Lesson 6] |
-|  6 |  Th, June 13                      | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
-|  7 |  Tu, June 18                       | [Lesson 9] |
-|  8 |  Th, June 20                      | [Lesson 10] <br/> **/** <br/> [Lesson 11] |
-|  9 |  Tu, June 25                       | [Lesson 12] |
-| 10 |  Th, June 27                        | [Lesson 13] |
-| 11 |  Tu, July 2                       | Final Exams/Presentations |
+|  1 |  Tu, May 28                        | History of Ethereum |
+|  2 |  Th, May 30                       | Contracts + Solidarity (pt 1) |
+|  3 |  Tu, June 4                        | Contracts + Solidarity (pt 2) |
+|  4 |  Th, June 6                      | Mappings and Addresses |
+|  5 |  Tu, June 11                       | Tokens |
+|  6 |  Th, June 13                      | Gas |
+|  7 |  Tu, June 18                       | Testing Ethereum/dApps |
+|  8 |  Th, June 20                      | Payabillity |
+|  9 |  Tu, June 25                       | Web3.js (pt 1) |
+| 10 |  Th, June 27                        | Web3.js (pt 2) |
+| 11 |  Tu, July 2                       | Final Exam |
 
 [Lesson 1]: Lessons/Lesson1.md
 [Lesson 2]: Lessons/Lesson2.md
