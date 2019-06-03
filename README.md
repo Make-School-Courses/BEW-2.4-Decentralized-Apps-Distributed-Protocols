@@ -30,20 +30,20 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tu, May 28                        | History of Ethereum |
-|  2 |  Th, May 30                       | Contracts + Solidarity (pt 1) |
-|  3 |  Tu, June 4                        | Contracts + Solidarity (pt 2) |
-|  4 |  Th, June 6                      | Mappings and Addresses |
-|  5 |  Tu, June 11                       | Tokens |
-|  6 |  Th, June 13                      | Gas |
-|  7 |  Tu, June 18                       | Testing Ethereum/dApps |
-|  8 |  Th, June 20                      | Payabillity |
-|  9 |  Tu, June 25                       | Web3.js (pt 1) |
-| 10 |  Th, June 27                        | Web3.js (pt 2) |
+|  1 |  Tu, May 28                        | [ Complete the CryptoZombie Tutorial](https://cryptozombies.io/) |
+|  2 |  Th, May 30                       | [History of Cryptocurrency] |
+|  3 |  Tu, June 4                        | Contracts + Solidarity (pt 1) |
+|  4 |  Th, June 6                      | Contracts + Solidarity (pt 1)|
+|  5 |  Tu, June 11                       | Mappings and Addresses |
+|  6 |  Th, June 13                      | Tokens |
+|  7 |  Tu, June 18                       | Gas |
+|  8 |  Th, June 20                      | Testing Ethereum/dApps |
+|  9 |  Tu, June 25                       | Payabillity |
+| 10 |  Th, June 27                        | Web3.js |
 | 11 |  Tu, July 2                       | Final Exam |
 
 [Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
+[History of Cryptocurrency]: Lessons/Lesson2.md
 [Lesson 3]: Lessons/Lesson3.md
 [Lesson 4]: Lessons/Lesson4.md
 [Lesson 5]: Lessons/Lesson5.md
