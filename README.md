@@ -33,7 +33,7 @@ Students by the end of the course will be able to ...
 |  1 |  Tu, May 28                        | [ Complete the CryptoZombie Tutorial](https://cryptozombies.io/) |
 |  2 |  Th, May 30                       | [History of Cryptocurrency] |
 |  3 |  Tu, June 4                        | Contracts + Solidarity (pt 1) |
-|  4 |  Th, June 6                      | Contracts + Solidarity (pt 1)|
+|  4 |  Th, June 6                      | Contracts + Solidarity (pt 2)|
 |  5 |  Tu, June 11                       | Mappings and Addresses |
 |  6 |  Th, June 13                      | Tokens |
 |  7 |  Tu, June 18                       | Gas |
