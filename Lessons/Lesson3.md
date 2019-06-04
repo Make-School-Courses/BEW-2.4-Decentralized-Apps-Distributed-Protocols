@@ -14,6 +14,7 @@
 
 1. Introduce the components of a Solidity Smart Contract.
 2. Define the syntax used when implementing a Solidity smart contract.
+3. Practice smart contract theory by commenting an existing smart contract codebase.
 
 ## Initial Exercise (20 Minutes)
 
