@@ -12,13 +12,12 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 
 ## Learning Outcomes
 
-Students by the end of the course will be able to ...
+By the end of the course, you will be able to ...
 
-1. Identify & Describe
-2. Explain
-3. Compare & Contrast
-4. Design & Implement
-5. Practice
+1. Build a full-stack dApp that uses the Ethereum protocol
+1. Identify and describe different payable assets on the blockchain
+1. Develop contracts using the Solidity protocol
+1. Speak professionally on the use cases surrounding decentralized applications and protocols
 
 ## Schedule
 
@@ -30,20 +29,20 @@ Students by the end of the course will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tu, May 28                        | [Lesson 1] |
-|  2 |  Th, May 30                       | [Lesson 2] |
-|  3 |  Tu, June 4                        | [Lesson 3] <br/> **/** <br/> [Lesson 4] |
-|  4 |  Th, June 6                      | [Lesson 5] |
-|  5 |  Tu, June 11                       | [Lesson 6] |
-|  6 |  Th, June 13                      | [Lesson 7] <br/> **/** <br/> [Lesson 8] |
-|  7 |  Tu, June 18                       | [Lesson 9] |
-|  8 |  Th, June 20                      | [Lesson 10] <br/> **/** <br/> [Lesson 11] |
-|  9 |  Tu, June 25                       | [Lesson 12] |
-| 10 |  Th, June 27                        | [Lesson 13] |
-| 11 |  Tu, July 2                       | Final Exams/Presentations |
+|  1 |  Tu, May 28                        | [ Complete the CryptoZombie Tutorial](https://cryptozombies.io/) |
+|  2 |  Th, May 30                       | [History of Cryptocurrency] |
+|  3 |  Tu, June 4                        | Contracts + Solidity (pt 1) |
+|  4 |  Th, June 6                      | Contracts + Solidity (pt 2)|
+|  5 |  Tu, June 11                       | Mappings and Addresses |
+|  6 |  Th, June 13                      | Tokens & Payabillity |
+|  7 |  Tu, June 18                       | Gas |
+|  8 |  Th, June 20                      | Testing Ethereum/dApps |
+|  9 |  Tu, June 25                       | Web3.js (pt 1)|
+| 10 |  Th, June 27                        | Web3.js (pt 2) |
+| 11 |  Tu, July 2                       | Final Exam |
 
 [Lesson 1]: Lessons/Lesson1.md
-[Lesson 2]: Lessons/Lesson2.md
+[History of Cryptocurrency]: Lessons/Lesson2.md
 [Lesson 3]: Lessons/Lesson3.md
 [Lesson 4]: Lessons/Lesson4.md
 [Lesson 5]: Lessons/Lesson5.md
