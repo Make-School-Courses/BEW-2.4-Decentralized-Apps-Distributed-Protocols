@@ -2,29 +2,38 @@
 
 ### Table of Contents
 
+1. [Learning Objectives (5 Minutes)](#learning-objectives-5-minutes)
+2. [Initial Exercise (20 Minutes)](#initial-exercise-20-minutes)
+3. [TT (30 Minutes)](#tt-30-minutes)
+4. [BREAK (10 Minutes)](#break-10-minutes)
+5. [In Class Activity I (40 Minutes)](#in-class-activity-i-40-minutes)
+6. [Wrap Up / After Class](#wrap-up--after-class)
+7. [Additional Resources](#additional-resources)
+
 ## Learning Objectives (5 Minutes)
 
-1.
+1. Introduce the components of a Solidity Smart Contract.
 
-## Initial Exercise (15 Minutes)
+## Initial Exercise (20 Minutes)
 
 1. **Challenge 1**: What is the difference between *Ether* and *Etherium*?
 2. **Challenge 2**: What is an *unsigned integer*?
 3. **Challenge 3**: What is *Natspec*? How is it used? Write out an example using an unsigned integer!
 
-## TT (20 Minutes)
+## TT (30 Minutes)
 
 Go over the syntax and anatomy of an Etherium smart contract using the line-by-line comments [available here](https://learnxinyminutes.com/docs/solidity/).
 
-## In Class Activity I (XX Minutes)
-
 ## BREAK (10 Minutes)
 
-## In Class Activity II (XX Minutes)
+## In Class Activity I (40 Minutes)
 
-## Wrap Up (XX Minutes)
+1. Find a partner.
+2. Fill in as many blanks as you can WITHOUT your laptop open.
+3. Show the instructor when you've filled in everything you remember from today's lecture.
+4. The instructor will then provide you with a link where you can check your work and fill in any missing blanks on the worksheet!
 
-## After Class
+## Wrap Up / After Class
 
 Continue working on the CryptoZombies tutorial!
 
