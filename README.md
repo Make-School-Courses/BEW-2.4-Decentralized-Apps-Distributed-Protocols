@@ -12,13 +12,12 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 
 ## Learning Outcomes
 
-Students by the end of the course will be able to ...
+By the end of the course, you will be able to ...
 
-1. Identify & Describe
-2. Explain
-3. Compare & Contrast
-4. Design & Implement
-5. Practice
+1. Build a full-stack dApp that uses the Ethereum protocol
+1. Identify and describe different payable assets on the blockchain
+1. Develop contracts using the Solidity protocol
+1. Speak professionally on the use cases surrounding decentralized applications and protocols
 
 ## Schedule
 
@@ -32,14 +31,14 @@ Students by the end of the course will be able to ...
 |:-----:|:----------------------:|:---------------------------------------:|
 |  1 |  Tu, May 28                        | [ Complete the CryptoZombie Tutorial](https://cryptozombies.io/) |
 |  2 |  Th, May 30                       | [History of Cryptocurrency] |
-|  3 |  Tu, June 4                        | Contracts + Solidarity (pt 1) |
-|  4 |  Th, June 6                      | Contracts + Solidarity (pt 2)|
+|  3 |  Tu, June 4                        | Contracts + Solidity (pt 1) |
+|  4 |  Th, June 6                      | Contracts + Solidity (pt 2)|
 |  5 |  Tu, June 11                       | Mappings and Addresses |
-|  6 |  Th, June 13                      | Tokens |
+|  6 |  Th, June 13                      | Tokens & Payabillity |
 |  7 |  Tu, June 18                       | Gas |
 |  8 |  Th, June 20                      | Testing Ethereum/dApps |
-|  9 |  Tu, June 25                       | Payabillity |
-| 10 |  Th, June 27                        | Web3.js |
+|  9 |  Tu, June 25                       | Web3.js (pt 1)|
+| 10 |  Th, June 27                        | Web3.js (pt 2) |
 | 11 |  Tu, July 2                       | Final Exam |
 
 [Lesson 1]: Lessons/Lesson1.md
