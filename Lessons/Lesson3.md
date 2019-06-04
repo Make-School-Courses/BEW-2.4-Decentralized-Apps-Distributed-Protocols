@@ -13,8 +13,13 @@
 ## Learning Objectives (5 Minutes)
 
 1. Introduce the components of a Solidity Smart Contract.
+2. Define the syntax used when implementing a Solidity smart contract.
 
 ## Initial Exercise (20 Minutes)
+
+Answer the warm up questions below on mini-whiteboards.
+
+*You may answer the questions solo or in a pair.*
 
 1. **Challenge 1**: What is the difference between *Ether* and *Etherium*?
 2. **Challenge 2**: What is an *unsigned integer*?
@@ -29,7 +34,7 @@ Go over the syntax and anatomy of an Etherium smart contract using the line-by-l
 ## In Class Activity I (40 Minutes)
 
 1. Find a partner.
-2. Fill in as many blanks as you can WITHOUT your laptop open.
+2. Fill in as many blanks as you can together **WITHOUT** your laptops open.
 3. Show the instructor when you've filled in everything you remember from today's lecture.
 4. The instructor will then provide you with a link where you can check your work and fill in any missing blanks on the worksheet!
 
@@ -39,4 +44,5 @@ Continue working on the CryptoZombies tutorial!
 
 ## Additional Resources
 
-1. [Browser-Based Smart Contract Editor](https://remix.ethereum.org/)
+1. **[Browser-Based Smart Contract Editor](https://remix.ethereum.org/)**: Create, edit, and verify smart contracts online using this handy website.
+2. **[Solidity by Example](https://solidity.readthedocs.io/en/v0.4.24/solidity-by-example.html)**: Learn about smart contract implementations in the voting, blind auctions, safe remote purchase, and microchannel spaces.
