@@ -29,9 +29,9 @@ By the end of the course, you will be able to ...
 
 | Class |          Date          |                 Topics                  |
 |:-----:|:----------------------:|:---------------------------------------:|
-|  1 |  Tu, May 28                        | [ Complete the CryptoZombie Tutorial](https://cryptozombies.io/) |
+|  1 |  Tu, May 28                        | [ Start the CryptoZombie Tutorial](https://cryptozombies.io/) |
 |  2 |  Th, May 30                       | [History of Cryptocurrency] |
-|  3 |  Tu, June 4                        | Contracts + Solidity (pt 1) |
+|  3 |  Tu, June 4                        | [Contracts + Solidity (pt 1)] |
 |  4 |  Th, June 6                      | Contracts + Solidity (pt 2)|
 |  5 |  Tu, June 11                       | Mappings and Addresses |
 |  6 |  Th, June 13                      | Tokens & Payabillity |
@@ -43,7 +43,7 @@ By the end of the course, you will be able to ...
 
 [Lesson 1]: Lessons/Lesson1.md
 [History of Cryptocurrency]: Lessons/Lesson2.md
-[Lesson 3]: Lessons/Lesson3.md
+[Contracts + Solidity (pt 1)]: Lessons/Lesson3.md
 [Lesson 4]: Lessons/Lesson4.md
 [Lesson 5]: Lessons/Lesson5.md
 [Lesson 6]: Lessons/Lesson6.md
