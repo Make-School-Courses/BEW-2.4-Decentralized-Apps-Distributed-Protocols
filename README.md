@@ -44,7 +44,7 @@ By the end of the course, you will be able to ...
 [Lesson 1]: Lessons/Lesson1.md
 [History of Cryptocurrency]: Lessons/Lesson2.md
 [Contracts + Solidity (pt 1)]: Lessons/Lesson3.md
-[Lesson 4]: Lessons/Lesson4.md
+[Contracts + Solidity (pt 2)]: Lessons/Lesson4.md
 [Lesson 5]: Lessons/Lesson5.md
 [Lesson 6]: Lessons/Lesson6.md
 [Lesson 7]: Lessons/Lesson7.md
