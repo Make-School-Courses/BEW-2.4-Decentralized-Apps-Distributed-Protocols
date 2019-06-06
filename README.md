@@ -32,7 +32,7 @@ By the end of the course, you will be able to ...
 |  1 |  Tu, May 28                        | [ Start the CryptoZombie Tutorial](https://cryptozombies.io/) |
 |  2 |  Th, May 30                       | [History of Cryptocurrency] |
 |  3 |  Tu, June 4                        | [Contracts + Solidity (pt 1)] |
-|  4 |  Th, June 6                      | Contracts + Solidity (pt 2)|
+|  4 |  Th, June 6                      | [Contracts + Solidity (pt 2)]|
 |  5 |  Tu, June 11                       | Mappings and Addresses |
 |  6 |  Th, June 13                      | Tokens & Payabillity |
 |  7 |  Tu, June 18                       | Gas |
