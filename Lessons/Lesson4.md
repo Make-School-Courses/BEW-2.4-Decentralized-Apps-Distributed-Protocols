@@ -3,7 +3,7 @@
 ### Table of Contents
 
 1. [Learning Objectives (5 Minutes)](#learning-objectives-5-minutes)
-2. [TT (30 Minutes)](#tt-30-minutes)
+2. [TT (20 Minutes)](#tt-20-minutes)
 3. [In Class Activity I (15 Minutes)](#in-class-activity-i-15-minutes)
 4. [BREAK (10 Minutes)](#break-10-minutes)
 5. [In Class Activity II (60 Minutes)](#in-class-activity-ii-60-minutes)
@@ -16,7 +16,9 @@
 2. Set up a dApps development environment on your own computer.
 3. Practice smart contract development via the Ethereum Pet Shop tutorial.
 
-## TT (30 Minutes)
+## TT (20 Minutes)
+
+Go over the [How to Build a dApp](https://www.slideshare.net/Codemotion/faisal-abid-adventures-on-the-ethereum-blockchain-how-to-build-a-decentralized-app-codemotion-berlin-2018) slides.
 
 ## In Class Activity I (15 Minutes)
 
