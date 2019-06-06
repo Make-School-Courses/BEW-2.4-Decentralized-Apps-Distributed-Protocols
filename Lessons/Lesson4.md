@@ -2,6 +2,13 @@
 
 ### Table of Contents
 
+1. [Learning Objectives (5 Minutes)](#learning-objectives-5-minutes)
+2. [TT (30 Minutes)](#tt-30-minutes)
+3. [In Class Activity I (15 Minutes)](#in-class-activity-i-15-minutes)
+4. [BREAK (10 Minutes)](#break-10-minutes)
+5. [In Class Activity II (60 Minutes)](#in-class-activity-ii-60-minutes)
+6. [Wrap Up / After Class](#wrap-up--after-class)
+7. [Additional Resources](#additional-resources)
 
 ## Learning Objectives (5 Minutes)
 
@@ -9,7 +16,9 @@
 2. Set up a dApps development environment on your own computer.
 3. Practice smart contract development via the Ethereum Pet Shop tutorial.
 
-## Initial Exercise (15 Minutes)
+## TT (30 Minutes)
+
+## In Class Activity I (15 Minutes)
 
 ### Set Up Development Environment
 
@@ -29,11 +38,9 @@ Install Truffle globally using these steps. They contain everything you need to 
 
 **PROTIP**: **Smart contract changes must be manually recompiled and migrated.**
 
-## TT (30 Minutes)
-
 ## BREAK (10 Minutes)
 
-## In Class Activity I (60 Minutes)
+## In Class Activity II (60 Minutes)
 
 Get started with the Pet Shop tutorial [here](https://www.trufflesuite.com/tutorials/pet-shop).
 
@@ -43,6 +50,6 @@ If you've already completed the Pet Shop tutorial, please work on the Election t
 
 Continue working on the CryptoZombies tutorial!
 
-We'll work on the Pet Shop tutorial throughout the next week in class in order to practice concepts covered during our teacher talks.
+We'll work on the Pet Shop / Election tutorial throughout the next week in class in order to practice concepts covered during our teacher talks.
 
 ## Additional Resources
