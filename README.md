@@ -1,3 +1,7 @@
+<p align="center">
+   <img src="trading.png" height="200" alt="BEW 2.4 @ Make School">
+</p>
+
 # BEW 2.4 - Decentralized Apps & Distributed Protocols
 
 ## Course Description
