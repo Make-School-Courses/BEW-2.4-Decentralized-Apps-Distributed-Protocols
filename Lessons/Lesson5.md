@@ -41,7 +41,7 @@ Discuss the answers to the above questions. Allow each group to deliver their an
 
 ### Marketplace Mania (30 Minutes)
 
-Divide the class into 4 groups and assign them the following dApps marketplaces to research:
+Divide the class into 4 groups. Assign each a dApps marketplace from the list below:
 
 - rarebits.io
 - opensea.io
