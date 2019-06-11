@@ -9,7 +9,6 @@ In this tutorial we will be setting up a server that will host a static site on 
 
 This tutorial is intended for and tested on a **remote** server running Ubuntu 16.04. This server should be **properly secured** for production use. If you need assistance setting up a server, please read my tutorial [Setting Up a Basic Server with Ubuntu 16.04](https://medium.com/@mr_rigden/setting-up-a-basic-server-with-ubuntu-16-04-ea4969db1e6c)This tutorial also will assume that you have a basic familiarity with the Dark Web and you already have the Tor Browser.
 
-
 ### Table of Contents
 1. [Tor](#tor)
 2. [The Hidden Service](#the-hidden-service)
