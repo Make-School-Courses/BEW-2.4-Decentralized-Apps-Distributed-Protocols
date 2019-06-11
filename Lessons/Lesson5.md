@@ -11,7 +11,8 @@
 ## Learning Objectives (5 Minutes)
 
 1. Identify and describe the differences between fungible and non-fungible assets stored on a blockchain.
-2. Understand and access a
+2. Discover, research, and discuss distributed app stores.
+3. Prepare Introduce two platforms that support custom dApp deployment.
 
 ## In Class Activity I (45 Minutes)
 
@@ -28,7 +29,7 @@ Distribute small whiteboards and ask students to write down the answers for the 
 | Which ERC defines **fungible tokens**?      | Which ERC defines a **NFT**?                    |
 | Find the URL for the above standard         | Find the URL for the above  standard            |
 | **How many** tokens use this ERC?           | **How many** tokens use this ERC?               |
-| Provide **>=3 examples** these token IRL    | Provide **>=3 examples** these token IRL
+| Provide **>=3 examples** these tokens IRL   | Provide **>=3 examples** these tokens IRL       |
 
 
 ### Class Discussion (15 Minutes)
