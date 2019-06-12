@@ -42,12 +42,11 @@ Discuss the answers to the above questions. Allow each group to deliver their an
 
 ### Marketplace Mania (30 Minutes)
 
-Divide the class into 4 groups. Assign each a dApps marketplace from the list below:
+Divide the class into three groups. Assign each a dApps marketplace from the list below:
 
 - rarebits.io
 - opensea.io
 - odem.io
-- dether.io
 
 Each group should **answer the following questions** based on their assigned marketplace:
 
