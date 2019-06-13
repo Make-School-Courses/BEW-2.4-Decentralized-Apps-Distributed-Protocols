@@ -92,7 +92,7 @@ Create the initial architecture for your project during today's class.
 
 1. **Choose Your Own Adventure**: Solo or pair dApps project?
       1. **Pairs**: Generate ideas.
-2. Create a new GitHub repo and add it to the [Course Tracker](make.sc/trackbew2.4)
+2. Create a new GitHub repo and add it to the [Course Tracker](https://make.sc/trackbew2.4)
       1. Clone the repo locally and create an `example` branch.
       2. **Pairs**: Invite partner as a collaborator.
 3. Use the following [Guide to Writing and Testing Real World Contracts](https://hashnode.com/post/the-2018-guide-to-writing-and-testing-real-world-crowdsale-contracts-cjcs8dfes00apmdwthw03c2jq) to get set up with a project that will serve as the structure for your end-of-term project.
