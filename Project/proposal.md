@@ -2,8 +2,9 @@
 
 ## Instructions
 
+
 1. Create a [new GitHub repo](https://github.com/new).
-2. *(Optional)* Invite your partners as collaborators** *(up to three peers)* on GitHub.
+2. *(Optional)* **Invite your partners as collaborators** *(up to three peers)* on GitHub.
 3. **Create a `proposal.md` file in the root of your repository. Link it in your `README.md`**.
 4. Write **3 to 5 sentences** that tell me:
      - **Token**: **`ERC20`** or **`ERC721`**?
