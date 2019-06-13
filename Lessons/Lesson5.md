@@ -53,7 +53,6 @@ Each group should **answer the following questions** based on their assigned mar
 - What does this marketplace enable?
 - How do you deploy your own dApp to this marketplace?
 - What features does your marketplace have?
-- Find the **two most interesting tokens** sold on this marketplace.
 - How can you access this marketplace?
   - Do you need to install additional software?
   - How do you purchase something from this marketplace?

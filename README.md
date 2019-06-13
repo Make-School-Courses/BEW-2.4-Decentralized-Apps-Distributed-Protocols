@@ -82,6 +82,10 @@ To pass this course you must meet the following requirements:
 - Actively participate in class and abide by the attendance policy
 - Make up all classwork from all absences
 
+## Additional Resources
+
+https://medium.com/@i6mi6/the-ultimate-collection-of-ethereum-solidity-and-smart-contracts-interview-questions-ef610d250012
+
 ## Make School Course Policies
 
 - [Program Learning Outcomes](https://make.sc/program-learning-outcomes)
