@@ -1,5 +1,7 @@
 # Proposal: Custom Ðapp Project
 
+## Instructions
+
 1. Create a [new GitHub repo](https://github.com/new).
 2. *(Optional)* Invite your partners as collaborators** *(up to three peers)* on GitHub.
 3. **Create a `proposal.md` file in the root of your repository. Link it in your `README.md`**.
