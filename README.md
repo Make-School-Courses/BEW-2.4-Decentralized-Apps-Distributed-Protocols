@@ -31,26 +31,26 @@ By the end of the course, you will be able to ...
 
 **Class Times:** Tuesday and Thursday at 3:30–5:20pm (11 class sessions)
 
-| Class |    Date     |               Topics               |
-| :---: | :---------: | :--------------------------------: |
-|   1   | Tu, May 28  | [Start the CryptoZombies Tutorial] |
-|   2   | Th, May 30  |    [History of Cryptocurrency]     |
-|   3   | Tu, June 4  |   [Contracts + Solidity (pt 1)]    |
-|   4   | Th, June 6  |   [Contracts + Solidity (pt 2)]    |
-|   5   | Tu, June 11 |   [Tokens, Marketplaces, & You]    |
-|   6   | Th, June 13 |        Mappings & Addresses        |
-|   7   | Tu, June 18 |                Gas                 |
-|   8   | Th, June 20 |       Testing Ethereum/dApps       |
-|   9   | Tu, June 25 |           Web3.js (pt 1)           |
-|  10   | Th, June 27 |           Web3.js (pt 2)           |
-|  11   | Tu, July 2  |             Final Exam             |
+| Class |    Date     |                               Topics                               |
+| :---: | :---------: | :----------------------------------------------------------------: |
+|   1   | Tu, May 28  |                 [Start the CryptoZombies Tutorial]                 |
+|   2   | Th, May 30  |                    [History of Cryptocurrency]                     |
+|   3   | Tu, June 4  |                   [Contracts + Solidity (pt 1)]                    |
+|   4   | Th, June 6  |                   [Contracts + Solidity (pt 2)]                    |
+|   5   | Tu, June 11 |                   [Tokens, Marketplaces, & You]                    |
+|   6   | Th, June 13 | [ Architecting & Implementing Token Based Applications in Node.js] |
+|   7   | Tu, June 18 |                                Gas                                 |
+|   8   | Th, June 20 |                       Testing Ethereum/dApps                       |
+|   9   | Tu, June 25 |                           Web3.js (pt 1)                           |
+|  10   | Th, June 27 |                           Web3.js (pt 2)                           |
+|  11   | Tu, July 2  |                             Final Exam                             |
 
 [Lesson 1]: Lessons/Lesson1.md
 [History of Cryptocurrency]: Lessons/Lesson2.md
 [Contracts + Solidity (pt 1)]: Lessons/Lesson3.md
 [Contracts + Solidity (pt 2)]: Lessons/Lesson4.md
 [Tokens, Marketplaces, & You]: Lessons/Lesson5.md
-[Lesson 6]: Lessons/Lesson6.md
+[Architecting & Implementing Token Based Applications in Node.js]: Lessons/Lesson6.md
 [Lesson 7]: Lessons/Lesson7.md
 [Lesson 8]: Lessons/Lesson8.md
 [Lesson 9]: Lessons/Lesson9.md
