@@ -96,6 +96,7 @@ Create the initial architecture for your project during today's class.
       1. Clone the repo locally and create an `example` branch.
       2. **Pairs**: Invite partner as a collaborator.
 3. Use the following [Guide to Writing and Testing Real World Contracts](https://hashnode.com/post/the-2018-guide-to-writing-and-testing-real-world-crowdsale-contracts-cjcs8dfes00apmdwthw03c2jq) to get set up with a project that will serve as the structure for your end-of-term project.
+      1. Comment out `Migrations.sol` and the first migration in the migrations folder.
 4. **Stretch Challenge**: Invent and develop an `ERC721` token contract with the Truffle Suite.
 5. **Stretch Challenge**: Add OpenZeppelin
       1. Get it working within the `example` branch.
