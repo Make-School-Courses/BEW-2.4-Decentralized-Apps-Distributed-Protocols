@@ -5,9 +5,9 @@
 1. [🏆 [**5m**] Learning Objectives](#%F0%9F%8F%86-5m-Learning-Objectives)
 2. [🏁 [**15m**] Initial Exercise](#%F0%9F%8F%81-15m-Initial-Exercise)
 3. [📖 [**20m**] Overview: Test Networks](#%F0%9F%93%96-20m-Overview-Test-Networks)
-4. [💻 [**15m**] In Class Activity I](#%F0%9F%92%BB-15m-In-Class-Activity-I)
+4. [💻 [**35m**] In Class Activity I](#%F0%9F%92%BB-35m-In-Class-Activity-I)
 5. [🌴 [**10m**] BREAK](#%F0%9F%8C%B4-10m-BREAK)
-6. [💻 [**20m**] In Class Activity II](#%F0%9F%92%BB-20m-In-Class-Activity-II)
+6. [💻 [**20m**] Overview: ÐApps Contractor Project](#%F0%9F%92%BB-20m-Overview-%C3%90Apps-Contractor-Project)
 7. [📚 Resources & Credits](#%F0%9F%93%9A-Resources--Credits)
 
 ## 🏆 [**5m**] Learning Objectives
@@ -31,7 +31,7 @@ Alongside automated test cases, it’s important to run your ÐApp on a testnet 
 
 **Test networks, like Ganache, are personal blockchains for Ethereum development that run on your desktop.** Part of the Truffle Suite, Ganache simplifies ÐApp development by placing your contracts and transactions front and center. **Ganache is available for Windows, Mac and Linux, and you can [download it here](https://www.trufflesuite.com/ganache).**
 
-Using Ganache you can **quickly see how your application affects the blockchain**, and **introspect details** like your **accounts, balances, contract creations and gas costs**. You can also fine tune Ganache's advanced mining controls to better suit your needs.
+Using Ganache you can **quickly see how your application affects the blockchain**, and **introspect details** like your **accounts, balances, contract creations and gas costs**. You can also fine tune Ganache's advanced mining controls to better suit your needs. It's important to know that the **currency generated as a result of this cannot be spent or exchanged**.
 
 **Ganache, when launched, runs on `http://127.0.0.1:7545`**. It will display the first 10 accounts and the [mnemonic](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki) used to create those accounts. The mnemonic will persist across restarts of Ganache, though it can be changed to be randomly generated. You can also [input your own](https://www.trufflesuite.com/docs/ganache/using).
 
@@ -41,7 +41,6 @@ Ganache also has a **command-line interface** for those who aren't working from 
 
 ### Using Your Test Network
 
-  * How it works (how its ‘currency’ can’t be spent or exchanged)
   * Compiling scripts
   * Getting test currency via faucet
 
@@ -49,7 +48,7 @@ Ganache also has a **command-line interface** for those who aren't working from 
 
 Go over the documentation for using **[Truffle Develop and the Console]**.
 
-## 💻 [**15m**] In Class Activity I
+## 💻 [**35m**] In Class Activity I
 
 ### Defining a Test Blockchain for Your ÐApps Project
 
@@ -57,10 +56,19 @@ Go over the documentation for using **[Truffle Develop and the Console]**.
 2. [Link your final project](https://www.trufflesuite.com/docs/ganache/truffle-projects/linking-a-truffle-project) to the new Ganache workspace.
 3. Learn the practical applications of the [Contracts Page](https://www.trufflesuite.com/docs/ganache/truffle-projects/contracts-page), [Events Page](https://www.trufflesuite.com/docs/ganache/truffle-projects/events-page), and [Transactions Page](https://www.trufflesuite.com/docs/ganache/truffle-projects/decoded-transactions) in the Ganache UI.
 4. Review the [Ganache settings](https://www.trufflesuite.com/docs/ganache/reference/ganache-settings) in order to know what to customize in the future!
+5. Go through the [following tutorial](https://www.codementor.io/swader/developing-for-ethereum-getting-started-with-ganache-l6abwh62j) to reinforce your knowledge and set up MetaMask with Ganache.
 
 ## 🌴 [**10m**] BREAK
 
-## 💻 [**20m**] In Class Activity II
+## 💻 [**20m**] Overview: ÐApps Contractor Project
+
+Go over the following documents with the class:
+
+- [Proposal Instructions](Project/proposal.md)
+- [Project Requirements](Project/requirements.md)
+- [Grading Rubric](Project/rubric.md)
+- [Presentation Guidelines](Project/presentations.md)
+
 
 ## 📚 Resources & Credits
 

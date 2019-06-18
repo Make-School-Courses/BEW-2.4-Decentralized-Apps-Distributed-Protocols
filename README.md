@@ -56,9 +56,9 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 |   5   | Tu, June 11 | [Tokens, Marketplaces, & You]                      |
 |   6   | Th, June 13 | [Architecting Token Based Applications in Node.js] |
 |   7   | Tu, June 18 | [Test Networks]                                    |
-|   8   | Th, June 20 | [Sidechains]                                       |
-|   9   | Tu, June 25 | Web3.js (pt 1)                                     |
-|  10   | Th, June 27 | Web3.js (pt 2)                                     |
+|   8   | Th, June 20 | Sidechains                                         |
+|   9   | Tu, June 25 | Web3.js                                            |
+|  10   | Th, June 27 | Testing with Truffle                               |
 |  11   | Tu, July 2  | **[Final Presentations]**                          |
 
 **NOTE:** *Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This is to ensure that we cover the same material that we normally would in non-summer terms.*
@@ -70,7 +70,7 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 [Tokens, Marketplaces, & You]: Lessons/Lesson5.md
 [Architecting Token Based Applications in Node.js]: Lessons/Lesson6.md
 [Test Networks]: Lessons/Lesson7.md
-[Sidechains]: Lessons/Lesson8.md
+[Lesson 8]: Lessons/Lesson8.md
 [Lesson 9]: Lessons/Lesson9.md
 [Lesson 10]: Lessons/Lesson10.md
 [Lesson 11]: Lessons/Lesson11.md
