@@ -13,15 +13,9 @@
 |  ☑️   | Criteria                                                                    | Points |
 | :---: | --------------------------------------------------------------------------- | :----: |
 |       | ÐApp fulfills the written, submitted proposal                               |  `5`   |
-|       | Uses Solidity `>= v0.5.0` to define the Smart Contract                      |  `10`  |
+|       | Token adheres to `ERC-20` or `ERC-720` specifications                       |  `30`  |
+|       | Uses Solidity `>= v0.5.0` to define the Smart Contract                      |  `15`  |
 |       | [NatSpec] comments for all `class`, `interface`, and `function` definitions |  `10`  |
-|       |                                                                             |  `00`  |
-|       |                                                                             |  `00`  |
-|       |                                                                             |  `00`  |
-|       |                                                                             |  `00`  |
-|       |                                                                             |  `00`  |
-|       |                                                                             |  `00`  |
-|       |                                                                             |  `00`  |
-|       |                                                                             |  `00`  |
+|       | **TOTAL**                                                                   |  `60`  |
 
 [Natspec]: https://solidity.readthedocs.io/en/v0.5.9/natspec-format.html
