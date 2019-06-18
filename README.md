@@ -38,7 +38,7 @@ By the end of the course, you will be able to ...
 |   3   | Tu, June 4  |                   [Contracts + Solidity (pt 1)]                    |
 |   4   | Th, June 6  |                   [Contracts + Solidity (pt 2)]                    |
 |   5   | Tu, June 11 |                   [Tokens, Marketplaces, & You]                    |
-|   6   | Th, June 13 | [Architecting & Implementing Token Based Applications in Node.js] |
+|   6   | Th, June 13 | [Architecting Token Based Applications in Node.js] |
 |   7   | Tu, June 18 |                                [Test Networks & Sidechains]                                 |
 |   8   | Th, June 20 |                       [Testing a Smart Contract]                       |
 |   9   | Tu, June 25 |                           Web3.js (pt 1)                           |
@@ -50,7 +50,7 @@ By the end of the course, you will be able to ...
 [Contracts + Solidity (pt 1)]: Lessons/Lesson3.md
 [Contracts + Solidity (pt 2)]: Lessons/Lesson4.md
 [Tokens, Marketplaces, & You]: Lessons/Lesson5.md
-[Architecting & Implementing Token Based Applications in Node.js]: Lessons/Lesson6.md
+[Architecting Token Based Applications in Node.js]: Lessons/Lesson6.md
 [Test Networks & Sidechains]: Lessons/Lesson7.md
 [Testing a Smart Contract]: Lessons/Lesson8.md
 [Lesson 9]: Lessons/Lesson9.md
