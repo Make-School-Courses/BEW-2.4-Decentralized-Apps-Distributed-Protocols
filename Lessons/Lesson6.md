@@ -2,11 +2,11 @@
 
 ### ⏱ Agenda
 
-1. [🏆 **5m**: Learning Objectives](#%F0%9F%8F%86-5m-learning-objectives)
-2. [📖 **20m**: Overview](#%F0%9F%93%96-20m-overview)
-3. [🌴 **10m**: Break](#%F0%9F%8C%B4-10m-break)
-4. [💻 **60m**: In Class Activity](#%F0%9F%92%BB-60m-in-class-activity)
-5. [📚 Resources & Credits](#%F0%9F%93%9A-resources--credits)
+1. [🏆 **5m**: Learning Objectives](#%F0%9F%8F%86-5m-Learning-Objectives)
+2. [📖 **20m**: Overview](#%F0%9F%93%96-20m-Overview)
+3. [🌴 **10m**: Break](#%F0%9F%8C%B4-10m-Break)
+4. [💻 **60m**: In Class Activity](#%F0%9F%92%BB-60m-In-Class-Activity)
+5. [📚 Resources & Credits](#%F0%9F%93%9A-Resources--Credits)
 
 ## 🏆 **5m**: Learning Objectives
 

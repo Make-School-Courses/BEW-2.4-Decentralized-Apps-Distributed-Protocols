@@ -88,7 +88,7 @@ To pass this course you must meet the following requirements:
 
 ## Additional Resources
 
-* **[Smart Contract Developer Interview Questions](https://medium.com/@i6mi6/the-ultimate-collection-of-ethereum-solidity-and-smart-contracts-interview-questions-ef610d250012)**: You can use this collection of questions for interviews and as a cheatsheet to refresh your knowledge.
+Check out [these links](Resources/Links.md) to learn more!
 
 ## Make School Course Policies
 
