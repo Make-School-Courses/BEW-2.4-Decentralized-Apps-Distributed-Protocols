@@ -18,9 +18,9 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 
 By the end of the course, you will be able to ...
 
-1. Build a full-stack dApp that uses the Ethereum protocol
-1. Identify and describe different payable assets on the blockchain
 1. Develop contracts using the Solidity protocol
+1. Build a full-stack dApp using Truffle, Ganache, and Web3.js
+1. Identify and describe different token-based asset standards and use cases on the blockchain
 1. Speak professionally on the use cases surrounding decentralized applications and protocols
 
 ## Schedule
