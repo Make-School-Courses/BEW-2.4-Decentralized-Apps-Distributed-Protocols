@@ -3,23 +3,23 @@
 ### ⏱ Agenda
 
 1. [🏆 [**5m**] Learning Objectives](#%F0%9F%8F%86-5m-Learning-Objectives)
-2. [🏁 [**15m**] Initial Exercise](#%F0%9F%8F%81-15m-Initial-Exercise)
+2. [🏁 [**25m**] Initial Exercise](#%F0%9F%8F%81-25m-Initial-Exercise)
 3. [📖 [**20m**] Overview: Test Networks](#%F0%9F%93%96-20m-Overview-Test-Networks)
 4. [🌴 [**10m**] BREAK](#%F0%9F%8C%B4-10m-BREAK)
-5. [💻 [**35m**] In Class Activity I](#%F0%9F%92%BB-35m-In-Class-Activity-I)
-6. [📖 [**25m**] Overview: ÐApps Contractor Project](#%F0%9F%93%96-25m-Overview-%C3%90Apps-Contractor-Project)
+5. [💻 [**30m**] In Class Activity I](#%F0%9F%92%BB-30m-In-Class-Activity-I)
+6. [📖 [**15m**] Overview: ÐApps Contractor Project](#%F0%9F%93%96-15m-Overview-%C3%90Apps-Contractor-Project)
 7. [📚 Resources & Credits](#%F0%9F%93%9A-Resources--Credits)
 
 ## 🏆 [**5m**] Learning Objectives
 
-## 🏁 [**15m**] Initial Exercise
+## 🏁 [**25m**] Initial Exercise
 
 ### Class Activity Self Check
 
 1. Find a friend and open up your code from [last class period](Lesson6.md).
 2. Compare and contrast your progress with Edwin's completed example: https://github.com/edwintcloud/dApps_project/tree/example.
-3. Write down any unanswered questions you encounter.
-4. Follow up during Jaeson or Dani's office hours!
+3. Use the [Solidity Style Guide](https://solidity.readthedocs.io/en/v0.5.9/style-guide.html) to assist your code review. What could be improved in your code according to this guide?
+4. Write down any unanswered questions you encounter while reviewing the solution. Follow up during Jaeson or Dani's office hours!
 
 ## 📖 [**20m**] Overview: Test Networks
 
@@ -45,7 +45,7 @@ Go over the documentation for using **[Truffle Develop and the Console]**.
 
 ## 🌴 [**10m**] BREAK
 
-## 💻 [**35m**] In Class Activity I
+## 💻 [**30m**] In Class Activity I
 
 ### Defining a Test Blockchain for Your ÐApps Project
 
@@ -54,8 +54,9 @@ Go over the documentation for using **[Truffle Develop and the Console]**.
 3. Learn the practical applications of the [Contracts Page](https://www.trufflesuite.com/docs/ganache/truffle-projects/contracts-page), [Events Page](https://www.trufflesuite.com/docs/ganache/truffle-projects/events-page), and [Transactions Page](https://www.trufflesuite.com/docs/ganache/truffle-projects/decoded-transactions) in the Ganache UI.
 4. Review the [Ganache settings](https://www.trufflesuite.com/docs/ganache/reference/ganache-settings) in order to know what to customize in the future!
 5. Go through the [following tutorial](https://www.codementor.io/swader/developing-for-ethereum-getting-started-with-ganache-l6abwh62j) to reinforce your knowledge and set up MetaMask with Ganache.
+6. If you finish early, continue working on your final project.
 
-## 📖 [**25m**] Overview: ÐApps Contractor Project
+## 📖 [**15m**] Overview: ÐApps Contractor Project
 
 Go over the following documents with the class:
 
