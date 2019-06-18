@@ -50,7 +50,7 @@ Go over the documentation for using **[Truffle Develop and the Console]**.
 ### Defining a Test Blockchain for Your ÐApps Project
 
 1. [Create a new workspace](https://www.trufflesuite.com/docs/ganache/workspaces/creating-workspaces) in Ganache for your final project.
-2. [Link your final project](https://www.trufflesuite.com/docs/ganache/truffle-projects/linking-a-truffle-project) to the new Ganache workspace.
+2. [Link your project](https://www.trufflesuite.com/docs/ganache/truffle-projects/linking-a-truffle-project) to the new Ganache workspace.
 3. Learn the practical applications of the [Contracts Page](https://www.trufflesuite.com/docs/ganache/truffle-projects/contracts-page), [Events Page](https://www.trufflesuite.com/docs/ganache/truffle-projects/events-page), and [Transactions Page](https://www.trufflesuite.com/docs/ganache/truffle-projects/decoded-transactions) in the Ganache UI.
 4. Review the [Ganache settings](https://www.trufflesuite.com/docs/ganache/reference/ganache-settings) in order to know what to customize in the future!
 5. Go through the [following tutorial](https://www.codementor.io/swader/developing-for-ethereum-getting-started-with-ganache-l6abwh62j) to reinforce your knowledge and set up MetaMask with Ganache.
