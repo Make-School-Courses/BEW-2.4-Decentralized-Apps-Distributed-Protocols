@@ -73,6 +73,7 @@ By the end of the course, you will be able to ...
 - **[ÐApps Contractor Project](Project/requirements.md)**
     - [Proposal](Project/proposal.md)
     - [Rubric](Project/rubric.md)
+    - [Tips for Deployment](Resources/Tips.md)
 
 ## Evaluation
 
