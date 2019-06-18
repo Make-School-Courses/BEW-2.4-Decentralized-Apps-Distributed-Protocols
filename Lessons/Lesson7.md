@@ -20,11 +20,10 @@
 ### Class Activity Self Check
 
 1. Find a friend and open up your code from [last class period](Lesson6.md).
-2. Compare and contrast your progress with Edwin's completed example: https://github.com/edwintcloud/dApps_project/tree/example.
-3. Use the [Solidity Style Guide](https://solidity.readthedocs.io/en/v0.5.9/style-guide.html) to assist your code review.
+2. Use the [Solidity Style Guide](https://solidity.readthedocs.io/en/v0.5.9/style-guide.html) to assist your code review.
       1. What could be improved in your code according to this guide?
       2. Does the contract follow any [Common Patterns](https://solidity.readthedocs.io/en/v0.5.9/common-patterns.html)?
-4. Write down any unanswered questions you encounter while reviewing the solution. Follow up during Jaeson or Dani's office hours!
+3. Write down any unanswered questions you encounter while reviewing the solution. Follow up during Jaeson or Dani's office hours!
 
 ## 📖 [**20m**] Overview: Test Networks
 
