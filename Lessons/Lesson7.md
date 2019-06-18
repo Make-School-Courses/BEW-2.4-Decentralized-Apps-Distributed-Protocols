@@ -12,6 +12,9 @@
 
 ## 🏆 [**5m**] Learning Objectives
 
+1. Gain familiarity with UI and CLI tools that allow developers to define their own in-memory blockchain.
+2. Integrate Ganache, Truffle, and Metamask to create a fully-fledged ÐApps development environment.
+
 ## 🏁 [**25m**] Initial Exercise
 
 ### Class Activity Self Check
