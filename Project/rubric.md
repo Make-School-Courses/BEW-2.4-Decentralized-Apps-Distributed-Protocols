@@ -10,16 +10,18 @@
 
 ## Project Requirements
 
-|  ☑️   | Criteria                                 | Points |
-| :---: | ---------------------------------------- | :----: |
-|       | Fulfills the written, submitted proposal |  `10`  |
-|       | Tested smart contract                    |  `00`  |
-|       |                                          |  `00`  |
-|       |                                          |  `00`  |
-|       |                                          |  `00`  |
-|       |                                          |  `00`  |
-|       |                                          |  `00`  |
-|       |                                          |  `00`  |
-|       |                                          |  `00`  |
-|       |                                          |  `00`  |
-|       |                                          |  `00`  |
+|  ☑️   | Criteria                                                                    | Points |
+| :---: | --------------------------------------------------------------------------- | :----: |
+|       | ÐApp fulfills the written, submitted proposal                               |  `5`   |
+|       | Uses Solidity `>= v0.5.0` to define the Smart Contract                      |  `10`  |
+|       | [NatSpec] comments for all `class`, `interface`, and `function` definitions |  `10`  |
+|       |                                                                             |  `00`  |
+|       |                                                                             |  `00`  |
+|       |                                                                             |  `00`  |
+|       |                                                                             |  `00`  |
+|       |                                                                             |  `00`  |
+|       |                                                                             |  `00`  |
+|       |                                                                             |  `00`  |
+|       |                                                                             |  `00`  |
+
+[Natspec]: https://solidity.readthedocs.io/en/v0.5.9/natspec-format.html

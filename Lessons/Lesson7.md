@@ -1,68 +1,69 @@
-# 📜 Day 7: Test Networks & Sidechains
+# 📜 Day 7: Test Networks
 
 ### ⏱ Agenda
 
 1. [🏆 [**5m**] Learning Objectives](#%F0%9F%8F%86-5m-Learning-Objectives)
-2. [📖 [**20m**] Overview: Test Networks](#%F0%9F%93%96-20m-Overview-Test-Networks)
-3. [💻 [**20m**] In Class Activity I](#%F0%9F%92%BB-20m-In-Class-Activity-I)
-4. [🌴 [**10m**] BREAK](#%F0%9F%8C%B4-10m-BREAK)
-5. [📖 [**20m**] Overview: Sidechains](#%F0%9F%93%96-20m-Overview-Sidechains)
+2. [🏁 [**15m**] Initial Exercise](#%F0%9F%8F%81-15m-Initial-Exercise)
+3. [📖 [**20m**] Overview: Test Networks](#%F0%9F%93%96-20m-Overview-Test-Networks)
+4. [💻 [**15m**] In Class Activity I](#%F0%9F%92%BB-15m-In-Class-Activity-I)
+5. [🌴 [**10m**] BREAK](#%F0%9F%8C%B4-10m-BREAK)
 6. [💻 [**20m**] In Class Activity II](#%F0%9F%92%BB-20m-In-Class-Activity-II)
 7. [📚 Resources & Credits](#%F0%9F%93%9A-Resources--Credits)
 
 ## 🏆 [**5m**] Learning Objectives
 
+## 🏁 [**15m**] Initial Exercise
 
+### Class Activity Self Check
+
+1. Find a friend and open up your code from [last class period](Lesson6.md).
+2. Compare and contrast your progress with Edwin's completed example: https://github.com/edwintcloud/dApps_project/tree/example.
+3. Write down any unanswered questions you encounter.
+4. Follow up during Jaeson or Dani's office hours!
 
 ## 📖 [**20m**] Overview: Test Networks
 
-### What are Test Networks?
-
-Ganesh, like others, is a test network that runs your own personal blockchain on your computer! Other test networks are actually online, with fake currency that is ‘mined’ which you can use.
-
 ### Why You Should Know This
 
-Writing test cases is a great start, but normally it’s important to run your dApp on a test net before deploying it. Because deploying costs real money, it’s better to test on a ‘fake’ network first.
+Alongside automated test cases, it’s important to run your ÐApp on a testnet before deploying it: deploying costs real money; it’s better to test on a low-stakes, "fake" network first.
 
-### Setting Up Ganesh (CLI / Interface)
+### Getting Started with Test Networks
 
-  * Overview of how it works
-  * Installation
-  * Walkthrough
-  * Metamask
+**Test networks, like Ganache, are personal blockchains for Ethereum development that run on your desktop.** Part of the Truffle Suite, Ganache simplifies ÐApp development by placing your contracts and transactions front and center. **Ganache is available for Windows, Mac and Linux, and you can [download it here](https://www.trufflesuite.com/ganache).**
 
-### Using Truffle Develop
+Using Ganache you can **quickly see how your application affects the blockchain**, and **introspect details** like your **accounts, balances, contract creations and gas costs**. You can also fine tune Ganache's advanced mining controls to better suit your needs.
 
-  * Terminal commands
+**Ganache, when launched, runs on `http://127.0.0.1:7545`**. It will display the first 10 accounts and the [mnemonic](https://github.com/bitcoin/bips/blob/master/bip-0039.mediawiki) used to create those accounts. The mnemonic will persist across restarts of Ganache, though it can be changed to be randomly generated. You can also [input your own](https://www.trufflesuite.com/docs/ganache/using).
 
-### Using a Test Network
+Ganache also has a **command-line interface** for those who aren't working from a graphical environment. **Great for automated testing and continuous integration environments**, Ganache CLI runs headless and can be configured to serve all your development needs.
+
+**Ganache CLI processes transactions instantly instead of waiting for the default block time**, so you can test that your code works quickly. It also **tells you immediately when your smart contracts run into errors**, and integrates directly with Truffle to **reduce test runtime up to 90% compared to other clients**. Learn more about [Ganache CLI](https://github.com/trufflesuite/ganache-cli/).
+
+### Using Your Test Network
 
   * How it works (how its ‘currency’ can’t be spent or exchanged)
   * Compiling scripts
   * Getting test currency via faucet
 
----
+### Using Truffle Develop
 
+Go over the documentation for using **[Truffle Develop and the Console]**.
 
+## 💻 [**15m**] In Class Activity I
 
+### Defining a Test Blockchain for Your ÐApps Project
 
-## 💻 [**20m**] In Class Activity I
+1. [Create a new workspace](https://www.trufflesuite.com/docs/ganache/workspaces/creating-workspaces) in Ganache for your final project.
+2. [Link your final project](https://www.trufflesuite.com/docs/ganache/truffle-projects/linking-a-truffle-project) to the new Ganache workspace.
+3. Learn the practical applications of the [Contracts Page](https://www.trufflesuite.com/docs/ganache/truffle-projects/contracts-page), [Events Page](https://www.trufflesuite.com/docs/ganache/truffle-projects/events-page), and [Transactions Page](https://www.trufflesuite.com/docs/ganache/truffle-projects/decoded-transactions) in the Ganache UI.
+4. Review the [Ganache settings](https://www.trufflesuite.com/docs/ganache/reference/ganache-settings) in order to know what to customize in the future!
 
 ## 🌴 [**10m**] BREAK
-
-## 📖 [**20m**] Overview: Sidechains
-
-### What is the Loom Network and Plasma?
-
-Plasma does the hard work of integrating sidechains on the Mainnet for you, leaving you, the developer, to work on building your Ðapp. The Loom Network is a sidechain that has a collection of even smaller sidechains operating on it. The above image shows the network (right), with various Ðapp operating on smaller sidechains (the circles within the main loop). It runs on the mantra “1 Ðapp, 1 Sidechain”.
-
-### Why You Should Know This
-
-Ethereum is big and exciting, unfortunately it’s also somewhat slow and expensive. Ethereum has three goals: Security, Decentralized, Scalability. It’s priorities, however, place Security and Decentralization at the top. This is known as the Ethereum “Trilema”: the perception that one can’t have all three of these things, without sacrificing the benefits of at least one. Changes for scalability might mean compromising security, or making it more centralized. Something many Ethereum users believe would fundamentality go against what the technology stands for. So what can be done?
-
-Enter sidechains. The basic argument is that you don’t need the same level of security when say, changing the hair of your CryptoZombies, that you need for transferring millions of Ether. Sidechains do a whole lot of the work on a smaller, faster, cheaper chain, leaving only the major elements (such as transferring artifacts like an ERC721) for the Ethereum Mainnet. On top of this, many transactions this way can be “gas less”, meaning you don’t have to pay for it!
-
 
 ## 💻 [**20m**] In Class Activity II
 
 ## 📚 Resources & Credits
+
+- [**Truffle Develop Command Reference**](https://www.trufflesuite.com/docs/truffle/reference/truffle-commands): Describes every command available in the Truffle application.
+
+[Truffle Develop and the Console]: https://www.trufflesuite.com/docs/truffle/getting-started/using-truffle-develop-and-the-console

@@ -55,8 +55,8 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 |   4   | Th, June 6  | [Contracts + Solidity (pt 2)]                      |
 |   5   | Tu, June 11 | [Tokens, Marketplaces, & You]                      |
 |   6   | Th, June 13 | [Architecting Token Based Applications in Node.js] |
-|   7   | Tu, June 18 | [Test Networks & Sidechains]                       |
-|   8   | Th, June 20 | [Testing a Smart Contract]                         |
+|   7   | Tu, June 18 | [Test Networks]                                    |
+|   8   | Th, June 20 | [Sidechains]                                       |
 |   9   | Tu, June 25 | Web3.js (pt 1)                                     |
 |  10   | Th, June 27 | Web3.js (pt 2)                                     |
 |  11   | Tu, July 2  | **[Final Presentations]**                          |
@@ -69,8 +69,8 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 [Contracts + Solidity (pt 2)]: Lessons/Lesson4.md
 [Tokens, Marketplaces, & You]: Lessons/Lesson5.md
 [Architecting Token Based Applications in Node.js]: Lessons/Lesson6.md
-[Test Networks & Sidechains]: Lessons/Lesson7.md
-[Testing a Smart Contract]: Lessons/Lesson8.md
+[Test Networks]: Lessons/Lesson7.md
+[Sidechains]: Lessons/Lesson8.md
 [Lesson 9]: Lessons/Lesson9.md
 [Lesson 10]: Lessons/Lesson10.md
 [Lesson 11]: Lessons/Lesson11.md
