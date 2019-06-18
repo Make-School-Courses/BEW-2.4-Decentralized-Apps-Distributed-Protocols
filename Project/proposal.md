@@ -1,4 +1,4 @@
-# Proposal: Custom Ðapp Project
+# Proposal: ÐApps Contractor Project
 
 ## Instructions
 

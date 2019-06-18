@@ -64,12 +64,15 @@ By the end of the course, you will be able to ...
 
 ### Tutorials
 
-- [CryptoZombies](https://cryptozombies.io)
+- **[CryptoZombies](https://cryptozombies.io)**
+    - **Instructions**: Complete the **Solidity Path**, **Hands on Path**, and **Plasma Path** to pass the course.
+    - **Deliverable**: Slack a screenshot of the completed tutorials to the instructor. _**Screenshot must include your name and date!**_
 
-<!-- ### Projects
+### Projects
 
-- [Project Template - Use to build your own project spec](https://docs.google.com/document/d/1j4ualsYjrd-7ePdyP3KU03xrpg41k1AoSU0YKkx9_I8/edit?usp=sharing)
-    -   [Sample Project Rubric](Sample_Rubric.md) -->
+- **[ÐApps Contractor Project](Project/requirements.md)**
+    - [Proposal](Project/proposal.md)
+    - [Rubric](Project/rubric.md)
 
 ## Evaluation
 
