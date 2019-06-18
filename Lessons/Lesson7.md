@@ -39,11 +39,6 @@ Ganache also has a **command-line interface** for those who aren't working from 
 
 **Ganache CLI processes transactions instantly instead of waiting for the default block time**, so you can test that your code works quickly. It also **tells you immediately when your smart contracts run into errors**, and integrates directly with Truffle to **reduce test runtime up to 90% compared to other clients**. Learn more about [Ganache CLI](https://github.com/trufflesuite/ganache-cli/).
 
-### Using Your Test Network
-
-  * Compiling scripts
-  * Getting test currency via faucet
-
 ### Using Truffle Develop
 
 Go over the documentation for using **[Truffle Develop and the Console]**.
@@ -64,10 +59,10 @@ Go over the documentation for using **[Truffle Develop and the Console]**.
 
 Go over the following documents with the class:
 
-- [Proposal Instructions](Project/proposal.md)
-- [Project Requirements](Project/requirements.md)
-- [Grading Rubric](Project/rubric.md)
-- [Presentation Guidelines](Project/presentations.md)
+- [Proposal Instructions](/Project/proposal.md)
+- [Project Requirements](/Project/requirements.md)
+- [Grading Rubric](/Project/rubric.md)
+- [Presentation Guidelines](/Project/presentations.md)
 
 
 ## 📚 Resources & Credits
