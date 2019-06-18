@@ -5,9 +5,9 @@
 1. [🏆 [**5m**] Learning Objectives](#%F0%9F%8F%86-5m-Learning-Objectives)
 2. [🏁 [**15m**] Initial Exercise](#%F0%9F%8F%81-15m-Initial-Exercise)
 3. [📖 [**20m**] Overview: Test Networks](#%F0%9F%93%96-20m-Overview-Test-Networks)
-4. [💻 [**35m**] In Class Activity I](#%F0%9F%92%BB-35m-In-Class-Activity-I)
-5. [🌴 [**10m**] BREAK](#%F0%9F%8C%B4-10m-BREAK)
-6. [💻 [**20m**] Overview: ÐApps Contractor Project](#%F0%9F%92%BB-20m-Overview-%C3%90Apps-Contractor-Project)
+4. [🌴 [**10m**] BREAK](#%F0%9F%8C%B4-10m-BREAK)
+5. [💻 [**35m**] In Class Activity I](#%F0%9F%92%BB-35m-In-Class-Activity-I)
+6. [📖 [**25m**] Overview: ÐApps Contractor Project](#%F0%9F%93%96-25m-Overview-%C3%90Apps-Contractor-Project)
 7. [📚 Resources & Credits](#%F0%9F%93%9A-Resources--Credits)
 
 ## 🏆 [**5m**] Learning Objectives
@@ -43,6 +43,8 @@ Ganache also has a **command-line interface** for those who aren't working from 
 
 Go over the documentation for using **[Truffle Develop and the Console]**.
 
+## 🌴 [**10m**] BREAK
+
 ## 💻 [**35m**] In Class Activity I
 
 ### Defining a Test Blockchain for Your ÐApps Project
@@ -53,9 +55,7 @@ Go over the documentation for using **[Truffle Develop and the Console]**.
 4. Review the [Ganache settings](https://www.trufflesuite.com/docs/ganache/reference/ganache-settings) in order to know what to customize in the future!
 5. Go through the [following tutorial](https://www.codementor.io/swader/developing-for-ethereum-getting-started-with-ganache-l6abwh62j) to reinforce your knowledge and set up MetaMask with Ganache.
 
-## 🌴 [**10m**] BREAK
-
-## 💻 [**20m**] Overview: ÐApps Contractor Project
+## 📖 [**25m**] Overview: ÐApps Contractor Project
 
 Go over the following documents with the class:
 
@@ -64,6 +64,7 @@ Go over the following documents with the class:
 - [Grading Rubric](/Project/rubric.md)
 - [Presentation Guidelines](/Project/presentations.md)
 
+Allow for Q&A time from students.
 
 ## 📚 Resources & Credits
 
