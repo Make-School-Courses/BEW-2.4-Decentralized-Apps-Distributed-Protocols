@@ -58,7 +58,7 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 |   7   | Tu, June 18 | [Test Networks]                                    |
 |   8   | Th, June 20 | Sidechains                                         |
 |   9   | Tu, June 25 | Web3.js                                            |
-|  10   | Th, June 27 | Testing with Truffle                               |
+|  10   | Th, June 27 | Testing and Deploying with Truffle                 |
 |  11   | Tu, July 2  | **[Final Presentations]**                          |
 
 **NOTE:** *Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This is to ensure that we cover the same material that we normally would in non-summer terms.*
