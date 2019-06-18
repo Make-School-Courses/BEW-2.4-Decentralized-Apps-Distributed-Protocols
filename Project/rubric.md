@@ -13,4 +13,13 @@
 |  ☑️   | Criteria                                 | Points |
 | :---: | ---------------------------------------- | :----: |
 |       | Fulfills the written, submitted proposal |  `10`  |
-|       | Tested smart contract                    |        |
+|       | Tested smart contract                    |  `00`  |
+|       |                                          |  `00`  |
+|       |                                          |  `00`  |
+|       |                                          |  `00`  |
+|       |                                          |  `00`  |
+|       |                                          |  `00`  |
+|       |                                          |  `00`  |
+|       |                                          |  `00`  |
+|       |                                          |  `00`  |
+|       |                                          |  `00`  |

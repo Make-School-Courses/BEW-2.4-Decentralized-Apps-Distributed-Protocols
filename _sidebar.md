@@ -5,3 +5,4 @@
   - [Proposal Instructions](Project/proposal.md)
   - [Project Requirements](Project/requirements.md)
   - [Grading Rubric](Project/rubric.md)
+  - [Presentation Guidelines](Project/presentations.md)
