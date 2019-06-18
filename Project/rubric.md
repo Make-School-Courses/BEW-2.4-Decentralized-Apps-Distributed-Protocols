@@ -13,7 +13,7 @@
 |  ☑️   | Criteria                                                                    | Points |
 | :---: | --------------------------------------------------------------------------- | :----: |
 |       | ÐApp fulfills the written, submitted proposal                               |  `5`   |
-|       | Token adheres to `ERC-20` or `ERC-720` specifications                       |  `30`  |
+|       | Token adheres to `ERC-20` or `ERC-721` specification                        |  `30`  |
 |       | [NatSpec] comments for all `class`, `interface`, and `function` definitions |  `15`  |
 |       | Uses Solidity `>= v0.5.0` to define the Smart Contract                      |  `10`  |
 |       | Web3.js based UI that allows transactions to take place                     |  `10`  |
