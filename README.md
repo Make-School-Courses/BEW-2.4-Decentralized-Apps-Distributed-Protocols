@@ -88,7 +88,7 @@ To pass this course you must meet the following requirements:
 
 ## Additional Resources
 
-Check out [these links](Resources/Links.md) to learn more!
+Check out [this list of additional resources](Resources/AdditionalResources.md) to level up! Contains free eBooks, links, and videos for all learners.
 
 ## Make School Course Policies
 
