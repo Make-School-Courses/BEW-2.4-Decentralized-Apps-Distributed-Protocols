@@ -18,7 +18,7 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 
 By the end of the course, you will be able to ...
 
-1. Develop contracts using the Solidity protocol
+1. Develop Smart Contracts using the Solidity protocol
 1. Build a full-stack dApp using Truffle, Ganache, and Web3.js
 2. Identify and describe different standards for token-based assets and their specific use cases on the blockchain
 3. Speak professionally on the practical applications of decentralized applications and protocols
