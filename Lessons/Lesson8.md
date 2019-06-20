@@ -97,6 +97,7 @@ contract('YourContractName', async function (accounts) {
   - Start with [Using `assert()`, `require()`, `revert()` properly](https://consensys.github.io/smart-contract-best-practices/recommendations/#use-assert-require-revert-properly)
   - Scroll through the rest of the list and compare and contrast practices.
   - Finally, wrap up with the short list of [Token Specific Recommendations](https://consensys.github.io/smart-contract-best-practices/tokens/).
+  - Want more? Check out this article: [9 Tips on Getting Your Ethereum Smart Contract Right](https://medium.com/coinmonks/9-tips-on-getting-your-ethereum-smart-contract-right-4981a7d9883c)
 
 ## 📚 Resources & Credits
 
