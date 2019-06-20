@@ -67,12 +67,10 @@ contract('YourContractName', async function (accounts) {
         console.log(_ + tx.gasUsed + ' - Deploy YourContractName');
         token = await YourContractName.deployed();
 
-        console.log(_ + '-----------------------');
-        console.log(_ + totalGas.toFormat(0) + ' - Total Gas');
+        // Output how much gas was spent
         console.log(_ + '-----------------------');
         console.log(_ + totalGas.toFormat(0) + ' - Total Gas');
         done();
-
       }
       catch (error) {
         console.error(error);
