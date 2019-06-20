@@ -2,14 +2,14 @@
 
 ### ⏱ Agenda
 
-1. [🏆 Learning Objectives](#%F0%9F%8F%86-Learning-Objectives)
-2. [📖 [30m] Overview](#%F0%9F%93%96-30m-Overview)
-3. [💻 [30m] In Class Activity I](#%F0%9F%92%BB-30m-In-Class-Activity-I)
-4. [🌴 [10m] BREAK](#%F0%9F%8C%B4-10m-BREAK)
-5. [💻 [30m] In Class Activity II](#%F0%9F%92%BB-30m-In-Class-Activity-II)
+1. [📖 [30m] Overview](#%F0%9F%93%96-30m-Overview)
+2. [💻 [20m] In Class Activity I](#%F0%9F%92%BB-20m-In-Class-Activity-I)
+3. [🌴 [10m] BREAK](#%F0%9F%8C%B4-10m-BREAK)
+4. [💻 [35m] In Class Activity II](#%F0%9F%92%BB-35m-In-Class-Activity-II)
+5. [📖 [15m] Smart Contract Tips & Tricks](#%F0%9F%93%96-15m-Smart-Contract-Tips--Tricks)
 6. [📚 Resources & Credits](#%F0%9F%93%9A-Resources--Credits)
 
-## 🏆 Learning Objectives
+<!-- ## 🏆 Learning Objectives -->
 
 ## 📖 [30m] Overview
 
@@ -22,24 +22,23 @@ Go over the main points of the [droxey/rainbowcoin] project, including:
 - Creating and running migrations
 - Writing and running tests
 
-### Smart Contract Tips & Tricks
-
-## 💻 [30m] In Class Activity I
+## 💻 [20m] In Class Activity I
 
 ### Thinking it Through
 
 1. Create a file named `SmartContractNameTest.js` inside of the `test` folder in your project's root directory.
-2. In a comment block at the top of the file, write down what capabilities your project's smart contract should have. What does the contract do? **See the below example**:
+2. In a comment block at the top of the file, write down what capabilities your project's smart contract should have. What does the contract do? **See the below example for [OwnedToken]**:
    ```js
-   // 1.
+   // OwnedTokenTests.js
    //
-   //
+   // 1. Should allow only the owner to change the Token name.
+   // 2. Should transfer tokens to anyone except Token's current owner
    ```
 3. If you finish early, begin working on the second in class activity, where you'll work on implementing these using the Truffle testing framework.
 
 ## 🌴 [10m] BREAK
 
-## 💻 [30m] In Class Activity II
+## 💻 [35m] In Class Activity II
 
 ### Coding it Up
 
@@ -92,9 +91,18 @@ contract('YourContractName', async function (accounts) {
 });
 ```
 
+## 📖 [15m] Smart Contract Tips & Tricks
+
+- **Go through the list of [Smart Contract Best Practices] with students**:
+  - Start with [Using `assert()`, `require()`, `revert()` properly](https://consensys.github.io/smart-contract-best-practices/recommendations/#use-assert-require-revert-properly)
+  - Scroll through the rest of the list and compare and contrast practices.
+  - Finally, wrap up with the short list of [Token Specific Recommendations](https://consensys.github.io/smart-contract-best-practices/tokens/).
+
 ## 📚 Resources & Credits
 
 - **[droxey/rainbowcoin]**: The ERC-721 base token as reviewed in class today.
-
+- **[OwnedToken]**: ETHFiddle from example contract used in Activity I.
 
 [droxey/rainbowcoin]: https://github.com/droxey/rainbowcoin
+[OwnedToken]: https://ethfiddle.com/Cgoy9PMgWS
+[Smart Contract Best Practices]: https://consensys.github.io/smart-contract-best-practices/recommendations/
