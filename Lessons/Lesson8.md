@@ -1,25 +1,102 @@
-# 📜 Day 8: Sidechains
+# 📜 Day 8: Tying it All Together
 
-## ⏱ Agenda
+### ⏱ Agenda
+
+1. [🏆 Learning Objectives](#%F0%9F%8F%86-Learning-Objectives)
+2. [📖 [30m] Overview](#%F0%9F%93%96-30m-Overview)
+3. [💻 [30m] In Class Activity I](#%F0%9F%92%BB-30m-In-Class-Activity-I)
+4. [🌴 [10m] BREAK](#%F0%9F%8C%B4-10m-BREAK)
+5. [💻 [30m] In Class Activity II](#%F0%9F%92%BB-30m-In-Class-Activity-II)
+6. [📚 Resources & Credits](#%F0%9F%93%9A-Resources--Credits)
 
 ## 🏆 Learning Objectives
 
-## 📖 [**20m**] Overview: Sidechains
+## 📖 [30m] Overview
 
-### What is the Loom Network and Plasma?
+### Demo
 
-Plasma does the hard work of integrating sidechains on the Mainnet for you, leaving you, the developer, to work on building your Ðapp. The Loom Network is a sidechain that has a collection of even smaller sidechains operating on it. The above image shows the network (right), with various Ðapp operating on smaller sidechains (the circles within the main loop). It runs on the mantra “1 Ðapp, 1 Sidechain”.
+Go over the main points of the [droxey/rainbowcoin] project, including:
 
-### Why You Should Know This
+- Truffle boxes, project structure, architectural decisions, technologies used, bugs, truffle commands
+- Writing and compiling contracts (`RainbowCoin.sol`, `Migrations.sol`, `Metadata.sol`)
+- Creating and running migrations
+- Writing and running tests
 
-Ethereum is big and exciting, unfortunately it’s also somewhat slow and expensive. Ethereum has three goals: Security, Decentralized, Scalability. It’s priorities, however, place Security and Decentralization at the top. This is known as the Ethereum “Trilema”: the perception that one can’t have all three of these things, without sacrificing the benefits of at least one. Changes for scalability might mean compromising security, or making it more centralized. Something many Ethereum users believe would fundamentality go against what the technology stands for. So what can be done?
+### Smart Contract Tips & Tricks
 
-Enter sidechains. The basic argument is that you don’t need the same level of security when say, changing the hair of your CryptoZombies, that you need for transferring millions of Ether. Sidechains do a whole lot of the work on a smaller, faster, cheaper chain, leaving only the major elements (such as transferring artifacts like an ERC721) for the Ethereum Mainnet. On top of this, many transactions this way can be “gas less”, meaning you don’t have to pay for it!
+## 💻 [30m] In Class Activity I
 
-## 💻 In Class Activity
+### Thinking it Through
 
-## 🌴 BREAK
+1. Create a file named `SmartContractNameTest.js` inside of the `test` folder in your project's root directory.
+2. In a comment block at the top of the file, write down what capabilities your project's smart contract should have. What does the contract do? **See the below example**:
+   ```js
+   // 1.
+   //
+   //
+   ```
+3. If you finish early, begin working on the second in class activity, where you'll work on implementing these using the Truffle testing framework.
 
-## 🌃 After Class
+## 🌴 [10m] BREAK
+
+## 💻 [30m] In Class Activity II
+
+### Coding it Up
+
+**Challenge**: Implement each sentence as tests inside `test\SmartContractNameTest.js`.
+
+Use the example file below to help you get started.
+
+**Be sure to replace `YourContractName` with your project's contract name**!
+
+```js
+const YourContractName = artifacts.require('./YourContractName.sol');
+const _ = '        ';
+
+
+contract('YourContractName', async function (accounts) {
+  let token;
+
+  before(done => {
+    (async () => {
+      try {
+        // TODO: All setup steps belong here, including contract deployment.
+        token = await YourContractName.new();
+        var tx = await web3.eth.getTransactionReceipt(token.transactionHash);
+        totalGas = totalGas.plus(tx.gasUsed);
+        console.log(_ + tx.gasUsed + ' - Deploy YourContractName');
+        token = await YourContractName.deployed();
+
+        console.log(_ + '-----------------------');
+        console.log(_ + totalGas.toFormat(0) + ' - Total Gas');
+        console.log(_ + '-----------------------');
+        console.log(_ + totalGas.toFormat(0) + ' - Total Gas');
+        done();
+
+      }
+      catch (error) {
+        console.error(error);
+        done(false);
+      }
+    })();
+  });
+
+  describe('YourContractName.sol', function () {
+    it('Should always pass this canary test', async () => {
+      assert(true === true, 'this is true');
+    });
+
+    it("Should call another function on your deployed contract", async () => {
+      let instance = await YourContractName.deployed();
+      // TODO: Write the code here to call a contract function
+    });
+ });
+});
+```
 
 ## 📚 Resources & Credits
+
+- **[droxey/rainbowcoin]**: The ERC-721 base token as reviewed in class today.
+
+
+[droxey/rainbowcoin]: https://github.com/droxey/rainbowcoin
