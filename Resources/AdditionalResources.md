@@ -36,5 +36,7 @@
 
 ## 🔗 **Links**
 
+- **[SmartCheck](https://tool.smartdec.net/)**: SmartCheck automatically checks Smart Contracts for vulnerabilities and bad practices – it highlights them in the code and gives a detailed explanation of the problem.
+- **[List of Solidity Idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies)**: This is a list of things that have caused me to bang my head against a brick wall when coming across them in solidity, especially when starting out as a beginner.
 - **[Smart Contract Developer Interview Questions](https://medium.com/@i6mi6/the-ultimate-collection-of-ethereum-solidity-and-smart-contracts-interview-questions-ef610d250012)**: You can use this collection of questions for interviews and as a cheatsheet to refresh your knowledge.
 - **[ETH Gas Station](https://ethgasstation.info/)**: ETH Gas Station aims to increase the transparency of gas prices, transaction confirmation times, and miner policies on the Ethereum network.
