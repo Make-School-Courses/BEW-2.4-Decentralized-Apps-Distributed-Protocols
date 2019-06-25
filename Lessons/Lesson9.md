@@ -43,7 +43,7 @@ Thousands of users already use OpenSea to discover, purchase, and sell rare digi
 
 #### Initial Item Sales
 
-In addition to peer-to-peer trading, OpenSea can be used as a tool for the initial sale of your gaming items. Check out our section on running an initial item sale to learn how this is possible.
+In addition to peer-to-peer trading, OpenSea can be used as a tool for the initial sale of your gaming items.
 
 ## 💻 [60m] In Class Activity
 
