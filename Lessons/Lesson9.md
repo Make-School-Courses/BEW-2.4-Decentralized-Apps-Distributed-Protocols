@@ -47,7 +47,11 @@ In addition to peer-to-peer trading, OpenSea can be used as a tool for the initi
 
 ## 💻 [60m] In Class Activity
 
-**Complete parts 1 through 7 of the [OpenSea Developer Tutorial]**. _You may skip Step 6, which requires deployment to the main Ethereum network._
+Break students into [random groups of 2 to 3](https://www.randomlists.com/team-generator?items=Ali%0AAnsel%0AVincenzo%0AJamie%0ADrew%0ARyan%0AEdwin%0AJaeson%0AMakhmud%0ANolan%0AZurich%0AIkey%0AThomas%0AJayce%0ARaymond&grp=7).
+
+### Challenge
+
+**Complete parts 1 through 7 of the [OpenSea Developer Tutorial]**. _Step 6 is optional, which requires deployment to the main Ethereum network._
 
 ### Prerequisites
 
