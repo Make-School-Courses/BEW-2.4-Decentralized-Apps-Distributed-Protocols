@@ -47,19 +47,19 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 **Course Dates:** Tuesday, May 28 – Tuesday, July 2, 2019 (6 weeks)<br>
 **Class Times:** Tuesday and Thursday at 3:30–5:20pm (11 class sessions)
 
-| Class |    Date     | Topics                                             |
-| :---: | :---------: | -------------------------------------------------- |
-|   1   | Tu, May 28  | [Start the CryptoZombies Tutorial]                 |
-|   2   | Th, May 30  | [History of Cryptocurrency]                        |
-|   3   | Tu, June 4  | [Contracts + Solidity (pt 1)]                      |
-|   4   | Th, June 6  | [Contracts + Solidity (pt 2)]                      |
-|   5   | Tu, June 11 | [Tokens, Marketplaces, & You]                      |
-|   6   | Th, June 13 | [Architecting Token Based Applications in Node.js] |
-|   7   | Tu, June 18 | [Test Networks]                                    |
-|   8   | Th, June 20 | [Testing]                                          |
-|   9   | Tu, June 25 | Web3.js                                            |
-|  10   | Th, June 27 | Deploying with Truffle                             |
-|  11   | Tu, July 2  | **[Final Presentations]**                          |
+| Class |    Date     | Topics                                             | Assignments      |
+| :---: | :---------: | -------------------------------------------------- | : -------------: |
+|   1   | Tu, May 28  | [Start the CryptoZombies Tutorial]                 |                  |
+|   2   | Th, May 30  | [History of Cryptocurrency]                        |                  |
+|   3   | Tu, June 4  | [Contracts + Solidity (pt 1)]                      |                  |
+|   4   | Th, June 6  | [Contracts + Solidity (pt 2)]                      |                  |
+|   5   | Tu, June 11 | [Tokens, Marketplaces, & You]                      |                  |
+|   6   | Th, June 13 | [Architecting Token Based Applications in Node.js] |                  |
+|   7   | Tu, June 18 | [Test Networks]                                    |                  |
+|   8   | Th, June 20 | [Testing]                                          |                  |
+|   9   | Tu, June 25 | Web3.js                                            |                  |
+|  10   | Th, June 27 | Deploying with Truffle                             |                  |
+|  11   | Tu, July 2  | **[Final Presentations]**                          | Project Due: 7/4 |
 
 **NOTE:** *Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This is to ensure that we cover the same material that we normally would in non-summer terms.*
 
