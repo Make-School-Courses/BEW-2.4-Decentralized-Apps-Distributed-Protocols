@@ -1,8 +1,7 @@
 - **[📋 Syllabus](README.md)**
 - **[📚 Resources](Resources/AdditionalResources.md)**
 - **[📅 Lessons](README.md#Schedule)**
-- **📈 ÐApps Contractor Project**
+- **📈 ÐApps Contractor Project**: _Due 7/4 @ 5pm PST_
   - [Proposal Instructions](Project/proposal.md)
-  - [Project Requirements](Project/requirements.md)
   - [Grading Rubric](Project/rubric.md)
   - [Presentation Guidelines](Project/presentations.md)

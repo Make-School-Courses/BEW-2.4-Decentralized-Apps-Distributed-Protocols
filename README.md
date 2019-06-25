@@ -71,7 +71,7 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 [Architecting Token Based Applications in Node.js]: Lessons/Lesson6.md
 [Test Networks]: Lessons/Lesson7.md
 [Testing]: Lessons/Lesson8.md
-[Deploying with Truffle]: https://docs.opensea.io/docs/getting-started
+[Deploying with Truffle]: Lessons/Lesson9.md
 [Lesson 10]: Lessons/Lesson10.md
 [Lesson 11]: Lessons/Lesson11.md
 [Lesson 12]: Lessons/Lesson12.md
@@ -88,7 +88,7 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 
 ### Projects
 
-- **[ÐApps Contractor Project](Project/requirements.md)**
+- **[ÐApps Contractor Project](Project/requirements.md)**: **Due 7/4 @ 5pm PST**
     - [Proposal Instructions](Project/proposal.md)
     - [Grading Rubric](Project/rubric.md)
     - [Presentation Guidelines](Project/presentation.md)

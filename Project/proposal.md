@@ -10,6 +10,6 @@
      - **Use Case**: Justify why your project uses a blockchain. *(1-3 sentences)*
          - ***Examine***: Does the blockchain support a solution to your problem.
     - **Description**: Describe what you're going to create!
-    - **High Level Plan**: Add a high level plan that describes how you'll complete the project by the due date on **`July 5, 2019 @ 11:59PM PST`**.
+    - **High Level Plan**: Add a high level plan that describes how you'll complete the project by the due date on **`Due 7/4 @ 5pm PST`**.
 5. **Push your proposal document** to GitHub **by the end of the class period**.
 6. **Refresh the [tracker](https://make.sc/trackbew2.4).** Make sure the proposal button is green!
