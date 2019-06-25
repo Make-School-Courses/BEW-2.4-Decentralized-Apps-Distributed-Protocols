@@ -25,6 +25,26 @@ Today's class connects several topics discussed during our course, including:
 - Using a Faucet to receive testnet Ether.
 - Using a deployed Smart Contract in to facilitate distribution through a popular ÐApps marketplace called [OpenSea].
 
+### Why You Should Know This
+
+OpenSea provides a powerful marketplace for your ÐApp, allowing your items to be bought and sold quickly and easily. It allows you to focus on design, content and your users, while still having a full-featured marketplace for your project's digital assets.
+
+#### Supports Any Asset Type
+
+We'll support any asset type, as long as it's on the blockchain. Check out the [Dottabot Software License] project, as well as [Digital Art Chain] for a couple examples of non-game projects.
+
+#### Customization
+
+Your OpenSea storefront can be tailored exactly to your project, creating a fully customizable landing page and marketplace. If you're looking for even more customization that the native OpenSea marketplace, you can explore our white-label solution, as well as our OpenSea SDK for creating auctions directly inside your application.
+
+#### Liquidity & Discoverability
+
+Thousands of users already use OpenSea to discover, purchase, and sell rare digital items. By listing your game on OpenSea, you'll open up your items to a large user base of gamers, traders, and crypto enthusiasts. This increases both the liquidity of your items and the discoverability of your app.
+
+#### Initial Item Sales
+
+In addition to peer-to-peer trading, OpenSea can be used as a tool for the initial sale of your gaming items. Check out our section on running an initial item sale to learn how this is possible.
+
 ## 💻 [60m] In Class Activity
 
 **Complete parts 1 through 7 of the [OpenSea Developer Tutorial]**. _You may skip Step 6, which requires deployment to the main Ethereum network._
@@ -38,10 +58,13 @@ You'll need the following packages installed to complete today's in class activi
 
 ### Tips & Tricks
 
+*Check out the [OpenSea FAQs] if you get stuck!*
+
 1. Begin by cloning the [opensea-creatures] repo locally.
 2. Run `cp .env.sample .env` to copy the sample `.env` file.
 3. In `.env`, fill in your key for Infura in `INFURA_KEY`, your MetaMask mnemonic in `MNEMONIC`, etc. Use the instructions in the [opensea-creatures] repo to learn more!
 4. Use the exported constants when executing commands by running `source .env` in your active terminal window.
+5. In Step 2, you won't need to deploy a Metadata API; one has already been provided for you in the sample [opensea-creatures] project.
 
 ### Stretch Challenge
 
@@ -59,10 +82,20 @@ Ask for questions and highlight difficult areas in the tutorial experience.
 
 ## 📚 Resources & Credits
 
+- **[OpenSea Docs]**: Let your users freely trade your `ERC721` items by opening your own marketplace on OpenSea
+- **[OpenSea FAQs]**: .
 - **[OpenSea Developer Tutorial]**: Simple tutorial for a customizable marketplace for buying and selling on OpenSea.
 - **[opensea-creatures]**: This is a very simple sample `ERC721` for the purposes of demonstrating integration with the OpenSea marketplace. We include a script for minting the items.
+- **[Sample Node.js Metadata API]**: Use this repo to make an API for serving metadata about your tokens (`ERC721` or `ERC1155`) to marketplaces like OpenSea and other third parties. Metadata for each token can include an image, animation, attributes, scalar properties, boost properties, and more!
+- **[Sample Python Metadata API]**: This is a very simple sample Python Flask app for serving the `ERC721` metadata for the OpenSea creatures `ERC721` contracts, as specified in the OpenSea developer docs.
 
+[OpenSea FAQs]: https://docs.opensea.io/docs/frequently-asked-questions
+[OpenSea Docs]: https://docs.opensea.io/
 [OpenSea Developer Tutorial]: https://docs.opensea.io/docs/getting-started
 [opensea-creatures]: https://github.com/ProjectOpenSea/opensea-creatures
 [Node Version Manager]: https://github.com/nvm-sh/nvm#installation-and-update
 [OpenSea]: https://opensea.io
+[Sample Node.js Metadata API]: https://github.com/ProjectOpenSea/metadata-api-nodejs
+[Sample Python Metadata API]: https://github.com/ProjectOpenSea/metadata-api-python
+[Dottabot Software License]: https://opensea.io/category/dottabotlicense
+[Digital Art Chain]: https://opensea.io/category/digitalartchain
