@@ -57,7 +57,7 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 |   6   | Th, June 13 | [Architecting Token Based Applications in Node.js] |                  |
 |   7   | Tu, June 18 | [Test Networks]                                    |                  |
 |   8   | Th, June 20 | [Testing]                                          |                  |
-|   9   | Tu, June 25 | Deploying with Truffle                             |                  |
+|   9   | Tu, June 25 | [Deploying with Truffle]                             |                  |
 |  10   | Th, June 27 | Web3.js                                            |                  |
 |  11   | Tu, July 2  | **[Final Presentations]**                          | Project Due: 7/4 |
 
@@ -71,7 +71,7 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 [Architecting Token Based Applications in Node.js]: Lessons/Lesson6.md
 [Test Networks]: Lessons/Lesson7.md
 [Testing]: Lessons/Lesson8.md
-[Lesson 9]: Lessons/Lesson9.md
+[Deploying with Truffle]: https://docs.opensea.io/docs/getting-started
 [Lesson 10]: Lessons/Lesson10.md
 [Lesson 11]: Lessons/Lesson11.md
 [Lesson 12]: Lessons/Lesson12.md
