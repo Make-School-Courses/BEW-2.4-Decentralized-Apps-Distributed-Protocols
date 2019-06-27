@@ -58,7 +58,7 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 |   7   | Tu, June 18 | [Test Networks]                                    |                  |
 |   8   | Th, June 20 | [Testing]                                          |                  |
 |   9   | Tu, June 25 | [Deploying with Truffle]                             |                  |
-|  10   | Th, June 27 | Web3.js                                            |                  |
+|  10   | Th, June 27 | [Web3.js]                                            |                  |
 |  11   | Tu, July 2  | **[Final Presentations]**                          | Project Due: 7/4 |
 
 **NOTE:** *Due to the shorter summer sessions, for some class sessions you will see multiple topics covered. This is to ensure that we cover the same material that we normally would in non-summer terms.*
@@ -72,7 +72,7 @@ Building upon the familiar syntax of Node, students will learn how to write smar
 [Test Networks]: Lessons/Lesson7.md
 [Testing]: Lessons/Lesson8.md
 [Deploying with Truffle]: Lessons/Lesson9.md
-[Lesson 10]: Lessons/Lesson10.md
+[Web3.js]: https://www.zastrin.com/tutorials/build-an-ethereum-dapp-using-ethersjs
 [Lesson 11]: Lessons/Lesson11.md
 [Lesson 12]: Lessons/Lesson12.md
 [Lesson 13]: Lessons/Lesson13.md
