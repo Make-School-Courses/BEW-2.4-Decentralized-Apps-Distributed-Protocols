@@ -10,6 +10,8 @@
 - [Course Description](#course-description)
 - [Learning Outcomes](#learning-outcomes)
 - [Schedule](#schedule)
+- [**📆 Assignments**](#-assignments)
+- [Class Assignments](#class-assignments)
 - [Evaluation](#evaluation)
 - [Additional Resources](#additional-resources)
 - [Make School Course Policies](#make-school-course-policies)
@@ -86,23 +88,35 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |  13   |  Tue, Oct 6  |                     TBD                      |
 |  14   |  Thu, Oct 8  |             Final Presentations              |
 
-<!-- omit in toc -->
-### **📆 Deliverables & Due Dates**
+<!-- tabs:end -->
+
+## **📆 Assignments**
+
+## Class Assignments
+
+We will be using [Gradescope] this term, which allows us to provide fast and accurate feedback on your work. All assigned work will be submitted through [Gradescope], and assignment and exam grades will be returned through [Gradescope]. As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
+
+Your [Gradescope] login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
+
+### Tutorials
+
+- **Day 5**: Start **[CryptoZombies](https://cryptozombies.io)** tutorial
+  - **Complete** the **Solidity Path**
+  - **Complete** the **Hands on Path**.
+  - **_Plasma Path is optional._**
+- **Day 8**: Complete tutorial. Progress check-in with instructor.
+
+### Assignments
 
 - **Day 2**: Protocol Design Assignment
-- **Day 5**: Start tutorial
-  - **[CryptoZombies](https://cryptozombies.io)**: Complete the **Solidity Path** and the **Hands on Path**. _Plasma Path is optional._
-- **Day 8**: Complete tutorial. Progress check-in with instructor.
 - **Day 9**: Notary Assignment
 - **Day 14**: Present **[ÐApps Contractor Project](Project/requirements.md)**
-
-<!-- tabs:end -->
 
 ## Evaluation
 
 **To pass this course you must meet the following requirements**:
 
-- Complete all required assignments and quizzes.
+- Complete all required assignments, quizzes, and instructor 1 on 1s.
 - Pass the final project according to the associated project rubric.
 - Actively participate in class and abide by the attendance policy.
 - Make up all classwork from all absences.
@@ -136,3 +150,4 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 [Lesson 12]: Lessons/Lesson12.md
 [Lesson 13]: Lessons/Lesson13.md
 [Final Presentations]: Project/presentations.md
+[Gradescope]: https:/make.sc/bew2.4-gradescope
