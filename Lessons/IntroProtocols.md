@@ -8,11 +8,11 @@
 ## ⏱ Agenda
 
 - [[**05m**] 🏆 Objectives](#05m--objectives)
-- [[**30m**] 📖 Overview: Syllabus](#30m--overview-syllabus)
-- [[**30m**] 📖 Overview: Protocols](#30m--overview-protocols)
-- [[**00m**] 💻 Activity](#00m--activity)
+- [[**20m**] 👋 Welcome to Class](#20m--welcome-to-class)
+- [[**30m**] 📖 Overview: Network Protocols](#30m--overview-network-protocols)
 - [[**10m**] 🌴 BREAK](#10m--break)
-- [🌃 After Class](#-after-class)
+- [[**07m**] 📼 Watch Video: Packets, Routing, & Reliability](#07m--watch-video-packets-routing--reliability)
+- [[**45m**] 💻 Activity: Making a Reliable Internet](#45m--activity-making-a-reliable-internet)
 - [📚 Resources & Credits](#-resources--credits)
 
 <!-- > -->
