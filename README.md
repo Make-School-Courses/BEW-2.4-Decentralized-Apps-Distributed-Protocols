@@ -73,7 +73,7 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 | Class | Date         |                        Topics                         |
 | :---: | ------------ | :---------------------------------------------------: |
 |   1   | Thu, Aug 20  |               [Introduction to Protocols]               |
-|   2   | Tue, Aug 25  |       Fantastic Protocols & Wherees to Find Them        |
+|   2   | Tue, Aug 25  |       Fantastic Protocols & Where to Find Them        |
 |   3   | Thu, Aug 27  |      Blockchain: Distributed Consensus Protocol       |
 |   4   | Tue, Sept 1  | Quiz 1: Protocols / Lab: Start CryptoZombies Tutorial |
 |   5   | Thu, Sept 3  |                 How to Design a Token                 |
@@ -141,9 +141,6 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 [Testing]: Lessons/Lesson8.md
 [Deploying with Truffle]: Lessons/Lesson9.md
 [Web3.js]: https://www.zastrin.com/tutorials/build-an-ethereum-dapp-using-ethersjs
-[Lesson 11]: Lessons/Lesson11.md
-[Lesson 12]: Lessons/Lesson12.md
-[Lesson 13]: Lessons/Lesson13.md
 [Final Presentations]: Project/presentations.md
 [Gradescope]: https:/make.sc/bew2.4-gradescope
 [Introduction to Protocols]: Lessons/IntroProtocols.md
