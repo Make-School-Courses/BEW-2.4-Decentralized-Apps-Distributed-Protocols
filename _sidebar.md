@@ -1,3 +1,3 @@
 - **[📋 Syllabus](README.md)**
 - **[📅 Lessons](README.md#Schedule)**
-    - **Day 1**: [Intro to Protocols](Lessons/IntroProtocols.md)
+    - [Intro to Protocols](Lessons/IntroProtocols.md)
