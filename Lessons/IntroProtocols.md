@@ -112,8 +112,8 @@ Contain commands for specific applications.
 
 1. Join [Code.org Section](https://studio.code.org/join/RZFRVG)
 1. Begin working on **Lessons 8 through Lessons 11** in [Chapter 2: Inventing the Internet](https://studio.code.org/s/csp1-2018?section_id=2909525&viewAs=Student) in your breakout groups of 3 to 4.
-1. **Make sure you complete the activities!** What you learn through your experiments with the Internet Simulator will be utilized throughout this course.
-1. The instructor will check your progress on the Code.org dashboard and randomly visit your breakout rooms.
+1. **Make sure you complete the activities!** What you learn through your experiments with the Internet Simulator will be utilized throughout this course. Make sure you complete the reflection questions when asked.
+1. This activity earns you participation credit in the course. The instructor will check your progress on the Code.org dashboard and randomly visit your breakout rooms to verify your participation.
 
 <!-- > -->
 
