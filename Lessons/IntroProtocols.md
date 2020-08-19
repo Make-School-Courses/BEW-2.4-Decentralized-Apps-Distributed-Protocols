@@ -108,13 +108,12 @@ Contain commands for specific applications.
 
 <!-- > -->
 
-## [**45m**] 💻 Activity: Making a Reliable Internet
+## [**90m**] 💻 Activity: Code.org Lessons
 
 1. Join [Code.org Section](https://studio.code.org/join/RZFRVG)
-1. Navigate to [Packets Lesson on Code.org](https://studio.code.org/s/csp1-2018/stage/11/puzzle/1?viewAs=Student).
-1. Use the [Activity Guide](https://docs.google.com/document/d/13v27WVdqY23nqG9Rp-U4ypp_vsFAPaKhz37_KbbCbGI/edit) to complete the activity in your breakout group.
-1. Complete the lesson by answering the remaining four check for understanding questions.
-1. The instructor will be able to see your progress on Code.org.
+1. Begin working on **Lessons 8 through Lessons 11** in [Chapter 2: Inventing the Internet](https://studio.code.org/s/csp1-2018?section_id=2909525&viewAs=Student) in your breakout groups of 3 to 4.
+1. **Make sure you complete the activities!** What you learn through your experiments with the Internet Simulator will be utilized throughout this course.
+1. The instructor will check your progress on the Code.org dashboard and randomly visit your breakout rooms.
 
 <!-- > -->
 
