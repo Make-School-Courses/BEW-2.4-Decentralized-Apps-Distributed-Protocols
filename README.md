@@ -97,6 +97,7 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 ### Tutorials
 
 - **[CryptoZombies](https://cryptozombies.io)** is an interactive school that teaches you all things technical about blockchains! Learn to make smart contracts in Solidity by making your own crypto-collectibles game.
+  - You must choose the Solidity version of the tutorial. **DO NOT CHOOSE LIBRA**!
   - **Complete** the **Solidity Path** and the **Hands on Path**.
   - **_Plasma Path is optional._**
 
@@ -110,7 +111,7 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 
 **To pass this course you must meet the following requirements**:
 
-- Complete all required assignments, quizzes, and instructor 1 on 1s.
+- Complete all required tutorials, assignments, quizzes, and instructor 1 on 1s.
 - Pass the final project according to the associated project rubric.
 - Actively participate in class and abide by the attendance policy.
 - Make up all classwork from all absences.
