@@ -10,7 +10,6 @@
 - [Course Description](#course-description)
 - [Learning Outcomes](#learning-outcomes)
 - [Schedule](#schedule)
-- [**📆 Assignments**](#-assignments)
 - [Class Assignments](#class-assignments)
 - [Evaluation](#evaluation)
 - [Additional Resources](#additional-resources)
@@ -89,8 +88,6 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |  14   | Thu, Oct 8   |                  Final Presentations                  |
 
 <!-- tabs:end -->
-
-## **📆 Assignments**
 
 ## Class Assignments
 
