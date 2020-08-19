@@ -46,23 +46,23 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 **Course Dates:** Wednesday, August 19 through Wednesday, October 7, 2020  _(7 weeks)_<br>
 **Class Times:** Monday &amp; Wednesday from 2:30 to 5:15pm _(14 class sessions)_
 
-| Class |     Date     |                    Topics                    |
-| :---: | :----------: | :------------------------------------------: |
-|   1   | Wed, Aug 19  |     Centralization vs. Decentralization      |
-|   2   | Mon, Aug 24  |             What is a Protocol?              |
-|   3   | Wed, Aug 26  | Common Protocols: Knowledge and File Sharing |
-|   4   | Mon, Aug 31  | The Git Protocol: Decentralized Development  |
-|   5   | Wed, Sept 2  |              Quiz 1: Protocols               |
-|   -   | Mon, Sept 7  |           **Holiday - Labor Day**            |
-|   6   | Wed, Sept 9  |     Decentralized Consensus (Blockchain)     |
-|   7   | Mon, Sept 14 |       Introduction to Smart Contracts        |
-|   8   | Wed, Sept 16 |               Quiz 2: Ethereum               |
-|   9   | Mon, Sept 21 |          Developing Smart Contracts          |
-|  10   | Wed, Sept 23 |          Deploying Smart Contracts           |
-|  11   | Mon, Sept 28 |           Testing Smart Contracts            |
-|  12   | Wed, Sept 30 |           Quiz 3: Smart Contracts            |
-|  13   |  Mon, Oct 5  |                     TBD                      |
-|  14   |  Wed, Oct 7  |             Final Presentations              |
+| Class |     Date     |                        Topics                         |
+| :---: | :----------: | :---------------------------------------------------: |
+|   1   | Wed, Aug 19  |               [Introduction to Protocols]               |
+|   2   | Mon, Aug 24  |       Fantastic Protocols & Where to Find Them        |
+|   3   | Wed, Aug 26  |      Blockchain: Distributed Consensus Protocol       |
+|   4   | Mon, Aug 31  | Quiz 1: Protocols / Lab: Start CryptoZombies Tutorial |
+|   5   | Wed, Sept 2  |                 How to Design a Token                 |
+|   -   | Mon, Sept 7  |                **Holiday - Labor Day**                |
+|   6   | Wed, Sept 9  |               Introduction to Solidity                |
+|   7   | Mon, Sept 14 |                Writing Smart Contracts                |
+|   8   | Wed, Sept 16 |                     Metadata APIs                     |
+|   9   | Mon, Sept 21 |                          TBD                          |
+|  10   | Wed, Sept 23 |                Testing Smart Contracts                |
+|  11   | Mon, Sept 28 |       Benchmarking & Optimizing Smart Contracts       |
+|  12   | Wed, Sept 30 |           Deploying Smart Contracts & DApps           |
+|  13   |  Mon, Oct 5  |                        Lab Day                        |
+|  14   |  Wed, Oct 7  |                  Final Presentations                  |
 
 <!-- omit in toc -->
 ### **🅱️ Section B: Tuesday + Thursday**
@@ -70,23 +70,23 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 **Course Dates:** Thursday, August 20 through Tuesday, October 6, 2020 _(7 weeks)_<br>
 **Class Times:** Tuesday &amp; Thursday from 2:30 to 5:15pm _(14 class sessions)_
 
-| Class |     Date     |                    Topics                    |
-| :---: | ---------- | :------------------------------------------: |
-|   1   | Thu, Aug 20  |     Centralization vs. Decentralization      |
-|   2   | Tue, Aug 25  |             What is a Protocol?              |
-|   3   | Thu, Aug 27  | Common Protocols: Knowledge and File Sharing |
-|   4   | Tue, Sept 1  | The Git Protocol: Decentralized Development  |
-|   5   | Thu, Sept 3  |              Quiz 1: Protocols               |
-|   -   | Tue, Sept 8  |           **Holiday - Labor Day**            |
-|   6   | Thu, Sept 10 |     Decentralized Consensus (Blockchain)     |
-|   7   | Tue, Sept 15 |       Introduction to Smart Contracts        |
-|   8   | Thu, Sept 17 |               Quiz 2: Ethereum               |
-|  9   | Tue, Sept 22 |          Developing Smart Contracts          |
-|  10   | Thu, Sept 24 |          Deploying Smart Contracts           |
-|  11   | Tue, Sept 29 |           Testing Smart Contracts            |
-|  12   |  Thu, Oct 1  |           Quiz 3: Smart Contracts            |
-|  13   |  Tue, Oct 6  |                     TBD                      |
-|  14   |  Thu, Oct 8  |             Final Presentations              |
+| Class | Date         |                        Topics                         |
+| :---: | ------------ | :---------------------------------------------------: |
+|   1   | Thu, Aug 20  |               [Introduction to Protocols]               |
+|   2   | Tue, Aug 25  |       Fantastic Protocols & Wherees to Find Them        |
+|   3   | Thu, Aug 27  |      Blockchain: Distributed Consensus Protocol       |
+|   4   | Tue, Sept 1  | Quiz 1: Protocols / Lab: Start CryptoZombies Tutorial |
+|   5   | Thu, Sept 3  |                 How to Design a Token                 |
+|   -   | Tue, Sept 8  |                **Holiday - Labor Day**                |
+|   6   | Thu, Sept 10 |               Introduction to Solidity                |
+|   7   | Tue, Sept 15 |            Introduction to Smart Contracts            |
+|   8   | Thu, Sept 17 |                Writing Smart Contracts                |
+|   9   | Tue, Sept 22 |                     Metadata APIs                     |
+|  10   | Thu, Sept 24 |                          TBD                          |
+|  11   | Tue, Sept 29 |       Benchmarking & Optimizing Smart Contracts       |
+|  12   | Thu, Oct 1   |           Deploying Smart Contracts & DApps           |
+|  13   | Tue, Oct 6   |                        Lab Day                        |
+|  14   | Thu, Oct 8   |                  Final Presentations                  |
 
 <!-- tabs:end -->
 
@@ -94,23 +94,17 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 
 ## Class Assignments
 
-We will be using [Gradescope] this term, which allows us to provide fast and accurate feedback on your work. All assigned work will be submitted through [Gradescope], and assignment and exam grades will be returned through [Gradescope]. As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
-
-Your [Gradescope] login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
-
 ### Tutorials
 
-- **Day 5**: Start **[CryptoZombies](https://cryptozombies.io)** tutorial
-  - **Complete** the **Solidity Path**
-  - **Complete** the **Hands on Path**.
+- **[CryptoZombies](https://cryptozombies.io)** is an interactive school that teaches you all things technical about blockchains! Learn to make smart contracts in Solidity by making your own crypto-collectibles game.
+  - **Complete** the **Solidity Path** and the **Hands on Path**.
   - **_Plasma Path is optional._**
-- **Day 8**: Complete tutorial. Progress check-in with instructor.
 
 ### Assignments
 
-- **Day 2**: Protocol Design Assignment
-- **Day 9**: Notary Assignment
-- **Day 14**: Present **[ÐApps Contractor Project](Project/requirements.md)**
+We will be using [Gradescope] this term, which allows us to provide fast and accurate feedback on your work. All assigned work will be submitted through [Gradescope], and assignment and exam grades will be returned through [Gradescope]. As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
+
+Your [Gradescope] login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
 ## Evaluation
 
@@ -130,7 +124,7 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 - [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
 - [Grading System](https://make.sc/grading-system) - How grading is done at Make School
 - [Code of Conduct, Equity, and Inclusion](https://make.sc/code-of-conduct) - Learn about Diversity and Inclusion at Make School
-- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagerism, cheating, and other forms of academic misconduct
+- [Academic Honesty](https://make.sc/academic-honesty-policy) - Our policies around plagiarism, cheating, and other forms of academic misconduct
 - [Attendance Policy](https://make.sc/attendance-policy) - What we expect from you in terms of attendance for all classes at Make School
 - [Course Credit Policy](https://make.sc/course-credit-policy) - Our policy for how you obtain credit for your courses
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
@@ -151,3 +145,4 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 [Lesson 13]: Lessons/Lesson13.md
 [Final Presentations]: Project/presentations.md
 [Gradescope]: https:/make.sc/bew2.4-gradescope
+[Introduction to Protocols]: Lessons/IntroProtocols.md

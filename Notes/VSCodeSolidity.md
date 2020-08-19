@@ -18,22 +18,3 @@
       "avoid-sha3": "warn"
     }
     ```
-
-
-## Install Brownie
-
-```bash
-npm install -g ganache-cli
-python3 -m pip install --user pipx
-python3 -m pipx ensurepath
-pipx install eth-brownie
-```
-
-## Autograding Projects
-
-- [MythX: Developer Plan](https://dashboard.mythx.io/#/console)
-
-
-
-##
-
