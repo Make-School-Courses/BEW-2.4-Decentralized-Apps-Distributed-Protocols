@@ -130,6 +130,7 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
 
+[Gradescope]: https://make.sc/bew2.4-gradescope
 [Start the CryptoZombies Tutorial]: https://cryptozombies.io
 [History of Cryptocurrency]: Lessons/Lesson2.md
 [Contracts + Solidity (pt 1)]: Lessons/Lesson3.md
