@@ -113,7 +113,9 @@ Contain commands for specific applications.
 1. Join [Code.org Section](https://studio.code.org/join/RZFRVG)
 1. Begin working on **Lessons 8 through Lessons 11** in [Chapter 2: Inventing the Internet](https://studio.code.org/s/csp1-2018?section_id=2909525&viewAs=Student) in your breakout groups of 3 to 4.
 1. **Make sure you complete the activities!** What you learn through your experiments with the Internet Simulator will be utilized throughout this course. Make sure you complete the reflection questions when asked.
+   - Complete the **Lesson 9: Battleship activity** using [these instructions](https://docs.google.com/document/d/1r1r1JScAThVhJog9VJ-gbQx0zyxT3dXFLMEkp6m5Awg/edit) and [this game board](https://docs.google.com/document/d/1oKi5_35xB-6Np5stnbGq7MCKnRZVC5qCVUQmAJByrTI/edit).
 1. This activity earns you participation credit in the course. The instructor will check your progress on the Code.org dashboard and randomly visit your breakout rooms to verify your participation.
+1. Questions from each module's check for understanding may appear on [Quiz 1: Protocols](../Resources/StudyGuide.md).
 
 <!-- > -->
 
