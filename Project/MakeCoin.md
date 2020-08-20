@@ -7,7 +7,8 @@ Solo or pair project.
 
 ## Evaluation
 
- _**Must score `>= 70%` on the [MakeCoin Project] to pass the course.**_
+> [!DANGER]
+> Must score `>= 70%` on this project to pass the course.
 
 ### Rubric
 
