@@ -1,6 +1,7 @@
-<!-- Run this slideshow via the following command: -->
-<!-- reveal-md README.md -w -->
 # ⛓ Intro to Protocols
+
+> [!NOTE]
+> This plan is a work in progress. Please check back at the start of class for updates.
 
 <!-- > -->
 

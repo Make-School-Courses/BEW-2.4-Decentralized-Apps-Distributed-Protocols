@@ -48,14 +48,14 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 | Class |     Date     |                       Topics                       |
 | :---: | :----------: | :------------------------------------------------: |
 |   1   | Wed, Aug 19  |            [Introduction to Protocols]             |
-|   2   | Mon, Aug 24  |      Fantastic Protocols & Where to Find Them      |
+|   2   | Mon, Aug 24  |    [ Fantastic Protocols & Where to Find Them]     |
 |   3   | Wed, Aug 26  |     Blockchain: Distributed Consensus Protocol     |
 |   4   | Mon, Aug 31  | Protocols Quiz / Lab: Start CryptoZombies Tutorial |
 |   5   | Wed, Sept 2  |               How to Design a Token                |
 |   -   | Mon, Sept 7  |              **Holiday - Labor Day**               |
 |   6   | Wed, Sept 9  |             [Introduction to Solidity]             |
 |   7   | Mon, Sept 14 |             [Writing Smart Contracts]              |
-|   8   | Wed, Sept 16 |                   Metadata APIs                    |
+|   8   | Wed, Sept 16 |                   [Metadata APIs]                    |
 |   9   | Mon, Sept 21 |                        TBD                         |
 |  10   | Wed, Sept 23 |             [Testing Smart Contracts]              |
 |  11   | Mon, Sept 28 |            [Deploying Smart Contracts]             |
@@ -72,14 +72,14 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 | Class | Date         |                        Topics                         |
 | :---: | ------------ | :---------------------------------------------------: |
 |   1   | Thu, Aug 20  |              [Introduction to Protocols]              |
-|   2   | Tue, Aug 25  |       Fantastic Protocols & Where to Find Them        |
+|   2   | Tue, Aug 25  |      [Fantastic Protocols & Where to Find Them]       |
 |   3   | Thu, Aug 27  |      Blockchain: Distributed Consensus Protocol       |
 |   4   | Tue, Sept 1  | Quiz 1: Protocols / Lab: Start CryptoZombies Tutorial |
 |   5   | Thu, Sept 3  |                 How to Design a Token                 |
 |   -   | Tue, Sept 8  |                **Holiday - Labor Day**                |
 |   6   | Thu, Sept 10 |              [Introduction to Solidity]               |
 |   7   | Tue, Sept 15 |               [Writing Smart Contracts]               |
-|   8   | Thu, Sept 17 |                     Metadata APIs                     |
+|   8   | Thu, Sept 17 |                     [Metadata APIs]                     |
 |   9   | Tue, Sept 22 |                          TBD                          |
 |  10   | Thu, Sept 24 |               [Testing Smart Contracts]               |
 |  11   | Tue, Sept 29 |              [Deploying Smart Contracts]              |
@@ -150,6 +150,8 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 [Final Presentations]: Project/presentations.md
 [Gradescope]: https:/make.sc/bew2.4-gradescope
 [Introduction to Protocols]: Lessons/IntroProtocols.md
+[Fantastic Protocols & Where to Find Them]: Lessons/MoreProtocols.md
 [Deploying Smart Contracts]: Lessons/Deploy.md
 [Writing Smart Contracts]: Lessons/SmartContracts.md
-[Introduction to Solidity]: Lesssons/Solidity.md
+[Introduction to Solidity]: Lessons/Solidity.md
+[Metadata APIs]: Lessons/APIs.md

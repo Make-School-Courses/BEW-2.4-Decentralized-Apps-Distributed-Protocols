@@ -1,10 +1,11 @@
-# ⛓ Testing Smart Contracts
+# ⛓ Metadata APIs
 
 > [!NOTE]
 > This plan is a work in progress. Please check back at the start of class for updates.
 
 <!-- > -->
 
+<!-- omit in toc -->
 ## ⏱ Agenda {docsify-ignore}
 
 1. [[**00m**] 🏆 Objectives](#00m-%f0%9f%8f%86-objectives)
@@ -55,7 +56,7 @@ print("hello world!")
 
 <!-- > -->
 
-## [**10m**] 🌴 BREAK {docsify-ignore}
+## [**10m**] 🌴 BREAK {docsify-ignore} {docsify-ignore}
 
 <!-- > -->
 
@@ -67,6 +68,4 @@ print("hello world!")
 
 ## 📚 Resources & Credits
 
-- [Writing Unit Tests — Brownie 1.10.4 documentation](https://eth-brownie.readthedocs.io/en/stable/tests-pytest-intro.html)
-- [Coverage Evaluation — Brownie 1.10.4 documentation](https://eth-brownie.readthedocs.io/en/stable/tests-coverage.html)
-- [Pytest Fixtures Reference — Brownie 1.10.4 documentation](https://eth-brownie.readthedocs.io/en/stable/tests-pytest-fixtures.html)
+`TODO`

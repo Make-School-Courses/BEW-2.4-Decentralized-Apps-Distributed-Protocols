@@ -1,11 +1,7 @@
-<!-- Run this slideshow via the following command: -->
-<!-- reveal-md README.md -w -->
-
-
-<!-- .slide: data-background="./../Slides/images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 # ⛓ Introduction to Solidity
 
-<p align="center"><a href="https://make-school-courses.github.io/REPO_NAME/Slides/00-LESSON_NAME" title="Slides" target="_blank"><strong>Slides</strong></a></p>
+> [!NOTE]
+> This plan is a work in progress. Please check back at the start of class for updates.
 
 <!-- > -->
 
@@ -15,7 +11,7 @@
 1. [[**00m**] 🏆 Objectives](#00m-%f0%9f%8f%86-objectives)
 2. [[**00m**] 📖 Overview](#00m-%f0%9f%93%96-overview)
 4. [[**00m**] 💻 Activity](#00m-%f0%9f%92%bb-activity)
-5. [[**10m**] 🌴 BREAK {docsify-ignore}](#10m-%f0%9f%8c%b4-break)
+5. [[**10m**] 🌴 BREAK](#10m-%f0%9f%8c%b4-break)
 6. [🌃 After Class](#%f0%9f%8c%83-after-class)
 7. [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
 
