@@ -102,19 +102,23 @@ We will be using [Gradescope] this term, which allows us to provide fast and acc
 
 Your [Gradescope] login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
 
-### Quizzes
+### Assessments
 
 | Section | Quiz 1: Protocols ([Study Guide](Resources/StudyGuide.md#Quiz1)) | Quiz 2: Contracts ([Study Guide](Resources/StudyGuide.md#Quiz2)) |
 | ------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
 |       🅰️ |                        Monday, August 31                         |                        Monday, October 5                         |
 |       🅱️ |                       Tuesday, September 1                       |                        Tuesday, October 6                        |
 
+### Final Project
+
+[MakeCoin Project]: Design and mint your very own [ERC-20](https://docs.openzeppelin.com/contracts/3.x/er20)), [ERC-721](https://docs.openzeppelin.com/contracts/3.x/erc721), [ERC-777](https://docs.openzeppelin.com/contracts/3.x/erc777), or [ERC-1155](https://docs.openzeppelin.com/contracts/3.x/erc1155) assets, then use them in a custom, full-stack distributed application!
+
 ## Evaluation
 
 **To pass this course you must meet the following requirements**:
 
-- Complete all required [tutorials](#tutorials), [assignments](#assignments), [quizzes](#quizzes), and [projects](#final-project).
-- Score `> 36` points on the [MakeCoin Project], according to the [MakeCoin Rubric].
+- Complete all required [tutorials](#tutorials), [assignments](#assignments), [assessments](#assessments), and [projects](#final-project).
+- Score `>36` points on the [MakeCoin Project], according to the [MakeCoin Rubric].
 - Actively participate in class and abide by the attendance policy.
 - Make up all classwork from all absences.
 

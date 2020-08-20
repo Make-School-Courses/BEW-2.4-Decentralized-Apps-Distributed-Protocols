@@ -3,18 +3,18 @@
 > [!NOTE]
 > **Source**: [_Using OpenZeppelin Contracts with Python and Brownie_](https://medium.com/@iamdefinitelyahuman/using-openzeppelin-contracts-with-python-and-brownie-ff7053d63bbe).
 
-When building smart contracts, the importance of security cannot be overstated. We are writing code that cannot be altered once deployed, and that often handles significant sums of real\-world value. There is no margin for error!
+When building smart contracts, the importance of security cannot be overstated. We are writing code that cannot be altered once deployed, and that often handles significant sums of real-world value. There is no margin for error!
 
-[OpenZeppelin](https://openzeppelin.com/) has long recognized the need for security in this immutable world. Since 2016 they’ve actively maintained a library of smart contracts that other developers can use, a secure foundation upon which to build. Over the years, [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) has become the most popular Solidity library in the industry and helped to define many standards and best practices. It has seen over a million downloads and is incorporated into countless projects that are deployed on the Ethereum main\-net.
+[OpenZeppelin](https://openzeppelin.com/) has long recognized the need for security in this immutable world. Since 2016 they’ve actively maintained a library of smart contracts that other developers can use, a secure foundation upon which to build. Over the years, [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) has become the most popular Solidity library in the industry and helped to define many standards and best practices. It has seen over a million downloads and is incorporated into countless projects that are deployed on the Ethereum main-net.
 
 ## Using OpenZeppelin with Python and Brownie
 
-OpenZeppelin releases each version of their library on [NPM](https://www.npmjs.com/package/@openzeppelin/contracts) — useful if you’re a JavaScript aficionado, less so if you prefer Python. Until now, using OpenZeppelin as a Python developer required manually cloning the repo and copying the desired contracts into your project. Not an insurmountable challenge, but significantly more work than a one\-liner installation.
+OpenZeppelin releases each version of their library on [NPM](https://www.npmjs.com/package/@openzeppelin/contracts) — useful if you’re a JavaScript aficionado, less so if you prefer Python. Until now, using OpenZeppelin as a Python developer required manually cloning the repo and copying the desired contracts into your project. Not an insurmountable challenge, but significantly more work than a one-liner installation.
 
 With the newest release of [Brownie](https://github.com/iamdefinitelyahuman/brownie) comes the [Brownie Package Manager](https://eth-brownie.readthedocs.io/en/stable/package-manager.html). Now integration with existing libraries is quick and painless! For example, to install [OpenZeppelin Contracts](https://github.com/OpenZeppelin/openzeppelin-contracts):
 
 ```bash
-brownie pm install OpenZeppelin/openzeppelin\-contracts@3.0.0
+brownie pm install OpenZeppelin/openzeppelin-contracts@3.0.0
 ```
 
 That’s it! The installed package is now available for import within any of your projects:
@@ -22,9 +22,11 @@ That’s it! The installed package is now available for import within any of you
 ```solidity
 pragma solidity ^0.6.00;
 import "OpenZeppelin/openzeppelin-contracts@3.0.0/contracts/math/SafeMath.sol";
+
+
 contract Foo {
 }
-...
+```
 
 No copying files, no remapping import paths, no thought about namespace collisions… it *just works*.
 
@@ -40,7 +42,7 @@ Of course not every repository will work — particularly those that depend on o
 
 Any Brownie project stored on Github can work as a package. Simply make a [tagged release](https://help.github.com/en/github/administering-a-repository/managing-releases-in-a-repository) and it will be available for others to install. The package name is defined as:
 
-```
+```txt
 \[ORGANIZATION\]/\[REPOSITORY\]@\[VERSION\]
 ```
 
@@ -48,16 +50,5 @@ If your project relies on other packages, you must also declare those dependenci
 
 ```yaml
 dependencies:
-    - OpenZeppelin/openzeppelin-contracts@3.0.0
+ - OpenZeppelin/openzeppelin-contracts@3.0.0
 ```
-
-# To Learn More…
-
-[Brownie](https://github.com/iamdefinitelyahuman/brownie) `v1.7.0` is a big release with a ton of [new features](https://github.com/iamdefinitelyahuman/brownie/releases/tag/v1.7.0) and improvements! Watch for more articles soon outlining some of the cool things you can do, in both development and live environments. In the meantime you can follow the Brownie [Twitter account](https://twitter.com/BrownieEth), read our other [Medium articles](https://medium.com/@iamdefinitelyahuman), and join us on [Gitter](https://gitter.im/eth-brownie/community).
-
-And of course, if you haven’t tried Brownie yet…
-
-```bash
-pip install eth-brownie
-```
-

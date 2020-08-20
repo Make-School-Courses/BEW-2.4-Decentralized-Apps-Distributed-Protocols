@@ -50,6 +50,8 @@ else
     add_dotenv "GITHUB_TOKEN" ""
     add_dotenv "ETHERSCAN_TOKEN" ""
     add_dotenv "WEB3_INFURA_PROJECT_ID" ""
+
+    brownie pm install OpenZeppelin/openzeppelin-contracts@3.1.0
 fi
 
 # ----------------------------------- Exit ----------------------------------- #
