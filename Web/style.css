@@ -114,8 +114,10 @@ a.github-corner {
   font-size: 0.9rem;
 }
 
-#docsify-darklight-theme {}
-
 a:hover, #main>ul>li>a {
   text-decoration-style: dashed;
+}
+
+.markdown-section>:first-child {
+  display: none !important;
 }
