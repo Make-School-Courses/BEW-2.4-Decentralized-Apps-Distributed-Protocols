@@ -1,6 +1,6 @@
 <!-- Run this slideshow via the following command: -->
 <!-- reveal-md README.md -w -->
-# 📜 Day 1: Introduction to Protocols
+# ⛓ Intro to Protocols
 
 <!-- > -->
 
