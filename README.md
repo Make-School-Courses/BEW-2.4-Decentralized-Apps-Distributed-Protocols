@@ -111,13 +111,16 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 |       🅰️ |                        Monday, August 31                         |                        Monday, October 5                         |
 |       🅱️ |                       Tuesday, September 1                       |                        Tuesday, October 6                        |
 
+### Final Project
+
+Must score `>= 70%` on the [MakeCoin Project] rubric to pass the course.
 
 ## Evaluation
 
 **To pass this course you must meet the following requirements**:
 
-- Complete all required tutorials, assignments, quizzes, and instructor 1 on 1s.
-- Pass the final project according to the associated project rubric.
+- Complete all required [tutorials](#tutorials), [assignments](#assignments), [quizzes](#quizzes), and instructor 1 on 1s.
+- Pass the [MakeCoin Project] according to the associated project rubric.
 - Actively participate in class and abide by the attendance policy.
 - Make up all classwork from all absences.
 
@@ -155,3 +158,4 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 [Writing Smart Contracts]: Lessons/SmartContracts.md
 [Introduction to Solidity]: Lessons/Solidity.md
 [Metadata APIs]: Lessons/APIs.md
+[final project]: Project/MakeCoin.md
