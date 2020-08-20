@@ -5,15 +5,15 @@
 <!-- omit in toc -->
 ## ⏱ Agenda {docsify-ignore}
 
-- [[**05m**] 🏆 Objectives](#05m--objectives)
-- [[**20m**] 👋 Welcome to Class](#20m--welcome-to-class)
-- [[**30m**] 📖 Overview: Network Protocols](#30m--overview-network-protocols)
-- [[**10m**] 🌴 BREAK](#10m--break-docsify-ignore)
-- [[**05m**] 💻 Prep: Simulator Activities on Code.org](#05m--prep-simulator-activities-on-codeorg)
-- [[**30m**] 💻 Internet Simulator: Broadcast](#30m--internet-simulator-broadcast)
-- [[**35m**] 💻 Internet Simulator: Routers](#35m--internet-simulator-routers)
-- [[**35m**] 💻 Internet Simulator: Packets](#35m--internet-simulator-packets)
-- [📚 Resources & Credits](#-resources--credits)
+- [[**05m**] 🏆 Objectives](#05m-%f0%9f%8f%86-objectives)
+- [[**20m**] 👋 Welcome to Class](#20m-%f0%9f%91%8b-welcome-to-class)
+- [[**30m**] 📖 Overview: Network Protocols](#30m-%f0%9f%93%96-overview-network-protocols)
+- [[**10m**] 🌴 BREAK](#10m-%f0%9f%8c%b4-break-docsify-ignore)
+- [[**05m**] 💻 Prep: Simulator Activities on Code.org](#05m-%f0%9f%92%bb-prep-simulator-activities-on-codeorg)
+- [[**30m**] 💻 Internet Simulator: Broadcast](#30m-%f0%9f%92%bb-internet-simulator-broadcast)
+- [[**35m**] 💻 Internet Simulator: Routers](#35m-%f0%9f%92%bb-internet-simulator-routers)
+- [[**35m**] 💻 Internet Simulator: Packets](#35m-%f0%9f%92%bb-internet-simulator-packets)
+- [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
 
 <!-- > -->
 
