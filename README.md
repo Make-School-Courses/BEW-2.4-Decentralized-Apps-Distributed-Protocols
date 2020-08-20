@@ -158,4 +158,4 @@ Must score `>= 70%` on the [MakeCoin Project] rubric to pass the course.
 [Writing Smart Contracts]: Lessons/SmartContracts.md
 [Introduction to Solidity]: Lessons/Solidity.md
 [Metadata APIs]: Lessons/APIs.md
-[final project]: Project/MakeCoin.md
+[MakeCoin Project]: Project/MakeCoin.md
