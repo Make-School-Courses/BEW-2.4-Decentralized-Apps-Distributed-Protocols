@@ -46,7 +46,7 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 | Class |     Date     |                       Topics                       |
 | :---: | :----------: | :------------------------------------------------: |
 |   1   | Wed, Aug 19  |            [Introduction to Protocols]             |
-|   2   | Mon, Aug 24  |    [ Fantastic Protocols & Where to Find Them]     |
+|   2   | Mon, Aug 24  |    [Fantastic Protocols & Where to Find Them]      |
 |   3   | Wed, Aug 26  |     Blockchain: Distributed Consensus Protocol     |
 |   4   | Mon, Aug 31  | Protocols Quiz / Lab: Start CryptoZombies Tutorial |
 |   5   | Wed, Sept 2  |               How to Design a Token                |
