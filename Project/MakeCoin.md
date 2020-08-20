@@ -46,5 +46,4 @@ Additionally, the following criteria must be met:
 
 
 
-[Natspec]: https://solidity.readthedocs.io/en/v0.5.9/natspec-format.html
-|||||
+[NatSpec]: https://solidity.readthedocs.io/en/v0.5.9/natspec-format.html

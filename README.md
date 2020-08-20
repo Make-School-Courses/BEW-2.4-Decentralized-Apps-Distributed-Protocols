@@ -12,8 +12,6 @@
 - [Schedule](#schedule)
 - [Class Assignments](#class-assignments)
 - [Evaluation](#evaluation)
-- [Additional Resources](#additional-resources)
-- [Make School Course Policies](#make-school-course-policies)
 
 ## Course Description
 
@@ -111,23 +109,16 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 |       🅰️ |                        Monday, August 31                         |                        Monday, October 5                         |
 |       🅱️ |                       Tuesday, September 1                       |                        Tuesday, October 6                        |
 
-### Final Project
-
-Must score `>= 70%` on the [MakeCoin Project] rubric to pass the course.
-
 ## Evaluation
 
 **To pass this course you must meet the following requirements**:
 
-- Complete all required [tutorials](#tutorials), [assignments](#assignments), [quizzes](#quizzes), and instructor 1 on 1s.
-- Pass the [MakeCoin Project] according to the associated project rubric.
+- Complete all required [tutorials](#tutorials), [assignments](#assignments), [quizzes](#quizzes), and [projects](#final-project).
+- Pass the [MakeCoin Project] with a score of `>=70%` or higher, according to the associated [project rubric](Project/MakeCoin.md#Rubric).
 - Actively participate in class and abide by the attendance policy.
 - Make up all classwork from all absences.
 
-## Additional Resources
-
-**Check out [this list of resources](Resources/AdditionalResources.md)**! Contains free eBooks, links, and videos for all learners.
-
+<!-- omit in toc -->
 ## Make School Course Policies
 
 - [Program Learning Outcomes](https://make.sc/program-learning-outcomes) - What you will achieve after finishing Make School, all courses are designed around these outcomes.
