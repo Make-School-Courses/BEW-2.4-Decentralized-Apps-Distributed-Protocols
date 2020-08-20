@@ -118,6 +118,6 @@ a:hover, #main>ul>li>a {
   text-decoration-style: dashed;
 }
 
-.markdown-section>:first-child {
-  display: none !important;
+#main>h1:nth-child(1)[id] {
+  display: none;
 }
