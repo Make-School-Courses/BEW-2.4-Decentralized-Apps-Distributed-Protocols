@@ -1,4 +1,3 @@
-- **[Syllabus](README.md)**
-- **[Study Guide](Resources/StudyGuide.md)**
-- **[Lessons](README.md#Schedule)**
+- **Lessons**
   - [Intro to Protocols](Lessons/IntroProtocols.md)
+- **[Study Guide](Resources/StudyGuide.md)**
