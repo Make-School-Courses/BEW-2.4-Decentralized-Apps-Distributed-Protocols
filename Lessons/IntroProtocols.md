@@ -107,40 +107,40 @@ Contain commands for specific applications.
 1. **Students**: Join [Code.org Section](https://studio.code.org/join/RZFRVG).
 1. **Make sure you complete the activities!** What you learn through your experiments with the Internet Simulator will be utilized throughout this course. Make sure you complete the reflection questions when asked.
 1. This activity earns you participation credit in the course. The instructor will check your progress on the Code.org dashboard and randomly visit your breakout rooms to verify your participation.
-1. Questions from each module's check for understanding may appear on [Quiz 1: Protocols](../Resources/StudyGuide.md.
+1. Questions from each module's check for understanding may appear on [Quiz 1: Protocols](../Resources/StudyGuide.md).
 
 <!-- > -->
 
 ## [**30m**] 💻 Internet Simulator: Broadcast
 
-In groups of 5 to 6, complete the [The Need for Addressing](https://curriculum.code.org/csp-18/unit1/9/) module.
+In groups of 5 to 6, complete the [**The Need for Addressing**](https://studio.code.org/s/csp1-2018/stage/9/puzzle/1) module.
 
-When you reach the activity, use this [Activity Guide](https://docs.google.com/document/d/1r1r1JScAThVhJog9VJ-gbQx0zyxT3dXFLMEkp6m5Awg/edit) to get started.
+When you reach the activity, use this [**Activity Guide**](https://docs.google.com/document/d/1r1r1JScAThVhJog9VJ-gbQx0zyxT3dXFLMEkp6m5Awg/edit) to get started.
 
-Make sure you also grab a copy of the [Game Board](https://docs.google.com/document/d/1oKi5_35xB-6Np5stnbGq7MCKnRZVC5qCVUQmAJByrTI/edit)! You'll need it to complete the exercise.
+Make sure you also grab a copy of the [**Game Board**](https://docs.google.com/document/d/1oKi5_35xB-6Np5stnbGq7MCKnRZVC5qCVUQmAJByrTI/edit)! You'll need it to complete the exercise.
 
 <!-- > -->
 
 ## [**35m**] 💻 Internet Simulator: Routers
 
- In groups of 3 to 4, complete the [Routers and Redundancy](https://curriculum.code.org/csp-18/unit1/10/) module.
+ In groups of 3 to 4, complete the [**Routers and Redundancy**](https://studio.code.org/s/csp1-2018/stage/10/puzzle/1) module.
 
-When you reach the activity, use this [Activity Guide](https://docs.google.com/document/d/1XD3spnHFOzq8br2p-Wrm8S2aZ9WcGUfzMwWURgzIk24/edit) to get started.
+When you reach the activity, use this [**Activity Guide**](https://docs.google.com/document/d/1XD3spnHFOzq8br2p-Wrm8S2aZ9WcGUfzMwWURgzIk24/edit) to get started.
 
 <!-- > -->
 
 ## [**35m**] 💻 Internet Simulator: Packets
 
-In groups of 2 to 4, complete the **Packets and Making a Reliable Internet** module.
+In groups of 2 to 4, complete the **[Packets and Making a Reliable Internet](https://studio.code.org/s/csp1-2018/stage/11/puzzle/1)** module.
 
-When you reach the activity, use this [Activity Guide](https://docs.google.com/document/d/13v27WVdqY23nqG9Rp-U4ypp_vsFAPaKhz37_KbbCbGI/) to get started.
+When you reach the activity, use this [**Activity Guide**](https://docs.google.com/document/d/13v27WVdqY23nqG9Rp-U4ypp_vsFAPaKhz37_KbbCbGI/) to get started.
 
 <!-- > -->
 
 ## 📚 Resources & Credits
 
 - [**TechTerms**: Protocol Definition](https://techterms.com/definition/protocol)
-- [The Internet Is for Everyone](https://curriculum.code.org/csp-18/unit1/8/)
-- [The Need for Addressing](https://curriculum.code.org/csp-18/unit1/9/)
-- [Routers and Redundancy](https://curriculum.code.org/csp-18/unit1/10/)
-- [Packets and Making a Reliable Internet](https://curriculum.code.org/csp-18/unit1/11/)
+- [**Lesson Plan**: The Internet Is for Everyone](https://curriculum.code.org/csp-18/unit1/8/)
+- [**Lesson Plan**: The Need for Addressing](https://curriculum.code.org/csp-18/unit1/9/)
+- [**Lesson Plan**: Routers and Redundancy](https://curriculum.code.org/csp-18/unit1/10/)
+- [**Lesson Plan**: Packets and Making a Reliable Internet](https://curriculum.code.org/csp-18/unit1/11/)
