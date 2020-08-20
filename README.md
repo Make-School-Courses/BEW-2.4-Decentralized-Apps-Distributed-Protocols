@@ -114,7 +114,7 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 **To pass this course you must meet the following requirements**:
 
 - Complete all required [tutorials](#tutorials), [assignments](#assignments), [quizzes](#quizzes), and [projects](#final-project).
-- Pass the [MakeCoin Project] with a score of `>=70%` or higher, according to the associated [project rubric](Project/MakeCoin.md#Rubric).
+- Score `> 36` points on the [MakeCoin Project], according to the [MakeCoin Rubric].
 - Actively participate in class and abide by the attendance policy.
 - Make up all classwork from all absences.
 
@@ -150,3 +150,4 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 [Introduction to Solidity]: Lessons/Solidity.md
 [Metadata APIs]: Lessons/APIs.md
 [MakeCoin Project]: Project/MakeCoin.md
+[MakeCoin Rubric]: https://www.makeschool.com/rubrics/UnVicmljLTE5Mg==

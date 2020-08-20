@@ -1,29 +1,20 @@
-# MakeCoin Project
+# MakeCoin Project ([Rubric](https://www.makeschool.com/rubrics/UnVicmljLTE5Mg==))
 
 > [!NOTE]
 > This document is a work in progress.
 
-Solo or pair project.
+---
+
+`TODO`: Desciption. Solo or pair project.
 
 ## Evaluation
 
 > [!DANGER]
-> Must score `>= 70%` on this project to pass the course.
+> Must score `> 36` points on this project to pass the course.
 
 ### Rubric
 
-1. **Copy this Rubric**: to the root of your project's repository.
-2. **Finish a Requirement?** each row you complete it.
-3. **Self-Assess**: Determine your score while you work on the project!
-
-|   ☑️   | Criteria                                                            |
-| :---: | ------------------------------------------------------------------- |
-|       | Defines valid  `ERC-20`/ `ERC-721` token using Solidity `>= v0.7.0` |
-|       | One test written per smart contract function                        |
-|       | UI uses each function in smart contract                             |
-|       | [NatSpec] comments for `class`, `interface`, `function` definitions |
-|       | `>=10` commits for each participant                                 |
-
+You will be scored according to the [MakeCoin Rubric] located in your Student Dashboard.
 
 ### Presentation
 
@@ -44,3 +35,4 @@ Additionally, **the following criteria must be met**:
 
 
 [NatSpec]: https://solidity.readthedocs.io/en/v0.5.9/natspec-format.html
+[MakeCoin Rubric]: https://www.makeschool.com/rubrics/UnVicmljLTE5Mg==
