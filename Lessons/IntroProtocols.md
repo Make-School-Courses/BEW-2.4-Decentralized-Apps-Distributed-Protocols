@@ -9,8 +9,10 @@
 - [[**20m**] 👋 Welcome to Class](#20m--welcome-to-class)
 - [[**30m**] 📖 Overview: Network Protocols](#30m--overview-network-protocols)
 - [[**10m**] 🌴 BREAK](#10m--break-docsify-ignore)
-- [[**07m**] 📼 Watch Video: Packets, Routing, & Reliability](#07m--watch-video-packets-routing--reliability)
-- [[**60m**] 💻 Activity: Code.org Lessons](#60m--activity-codeorg-lessons)
+- [[**05m**] 💻 Prep: Simulator Activities on Code.org](#05m--prep-simulator-activities-on-codeorg)
+- [[**30m**] 💻 Internet Simulator: Broadcast](#30m--internet-simulator-broadcast)
+- [[**35m**] 💻 Internet Simulator: Routers](#35m--internet-simulator-routers)
+- [[**35m**] 💻 Internet Simulator: Packets](#35m--internet-simulator-packets)
 - [📚 Resources & Credits](#-resources--credits)
 
 <!-- > -->
@@ -100,25 +102,45 @@ Contain commands for specific applications.
 
 <!-- > -->
 
-## [**07m**] 📼 Watch Video: Packets, Routing, & Reliability
+## [**05m**] 💻 Prep: Simulator Activities on Code.org
 
-<p align="center">
-  <iframe height="480" src="https://www.youtube.com/embed/AYdF7b3nMto" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+1. **Students**: Join [Code.org Section](https://studio.code.org/join/RZFRVG).
+1. **Make sure you complete the activities!** What you learn through your experiments with the Internet Simulator will be utilized throughout this course. Make sure you complete the reflection questions when asked.
+1. This activity earns you participation credit in the course. The instructor will check your progress on the Code.org dashboard and randomly visit your breakout rooms to verify your participation.
+1. Questions from each module's check for understanding may appear on [Quiz 1: Protocols](../Resources/StudyGuide.md.
 
 <!-- > -->
 
-## [**60m**] 💻 Activity: Code.org Lessons
+## [**30m**] 💻 Internet Simulator: Broadcast
 
-1. Join [Code.org Section](https://studio.code.org/join/RZFRVG)
-1. Begin working on **Lessons 8 through Lessons 11** in [Chapter 2: Inventing the Internet](https://studio.code.org/s/csp1-2018?section_id=2909525&viewAs=Student) in your breakout groups of 3 to 4.
-1. **Make sure you complete the activities!** What you learn through your experiments with the Internet Simulator will be utilized throughout this course. Make sure you complete the reflection questions when asked.
-   - Complete the **Lesson 9: Battleship Activity** using [these instructions](https://docs.google.com/document/d/1r1r1JScAThVhJog9VJ-gbQx0zyxT3dXFLMEkp6m5Awg/edit) and [this game board](https://docs.google.com/document/d/1oKi5_35xB-6Np5stnbGq7MCKnRZVC5qCVUQmAJByrTI/edit).
-1. This activity earns you participation credit in the course. The instructor will check your progress on the Code.org dashboard and randomly visit your breakout rooms to verify your participation.
-1. Questions from each module's check for understanding may appear on [Quiz 1: Protocols](../Resources/StudyGuide.md).
+In groups of 5 to 6, complete the [The Need for Addressing](https://curriculum.code.org/csp-18/unit1/9/) module.
+
+When you reach the activity, use this [Activity Guide](https://docs.google.com/document/d/1r1r1JScAThVhJog9VJ-gbQx0zyxT3dXFLMEkp6m5Awg/edit) to get started.
+
+Make sure you also grab a copy of the [Game Board](https://docs.google.com/document/d/1oKi5_35xB-6Np5stnbGq7MCKnRZVC5qCVUQmAJByrTI/edit)! You'll need it to complete the exercise.
+
+<!-- > -->
+
+## [**35m**] 💻 Internet Simulator: Routers
+
+ In groups of 3 to 4, complete the [Routers and Redundancy](https://curriculum.code.org/csp-18/unit1/10/) module.
+
+When you reach the activity, use this [Activity Guide](https://docs.google.com/document/d/1XD3spnHFOzq8br2p-Wrm8S2aZ9WcGUfzMwWURgzIk24/edit) to get started.
+
+<!-- > -->
+
+## [**35m**] 💻 Internet Simulator: Packets
+
+In groups of 2 to 4, complete the **Packets and Making a Reliable Internet** module.
+
+When you reach the activity, use this [Activity Guide](https://docs.google.com/document/d/13v27WVdqY23nqG9Rp-U4ypp_vsFAPaKhz37_KbbCbGI/) to get started.
 
 <!-- > -->
 
 ## 📚 Resources & Credits
 
 - [**TechTerms**: Protocol Definition](https://techterms.com/definition/protocol)
+- [The Internet Is for Everyone](https://curriculum.code.org/csp-18/unit1/8/)
+- [The Need for Addressing](https://curriculum.code.org/csp-18/unit1/9/)
+- [Routers and Redundancy](https://curriculum.code.org/csp-18/unit1/10/)
+- [Packets and Making a Reliable Internet](https://curriculum.code.org/csp-18/unit1/11/)
