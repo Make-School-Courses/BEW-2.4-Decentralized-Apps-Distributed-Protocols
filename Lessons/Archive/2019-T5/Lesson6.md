@@ -1,6 +1,6 @@
 # 📜 Day 6: Architecting & Implementing Token Based Applications in Node.js
 
-### ⏱ Agenda
+## ⏱ Agenda {docsify-ignore}
 
 1. [🏆 **5m**: Learning Objectives](#%F0%9F%8F%86-5m-Learning-Objectives)
 2. [📖 **20m**: Overview](#%F0%9F%93%96-20m-Overview)

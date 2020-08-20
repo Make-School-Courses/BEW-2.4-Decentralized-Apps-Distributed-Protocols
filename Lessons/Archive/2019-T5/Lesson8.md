@@ -1,6 +1,6 @@
 # 📜 Day 8: Tying it All Together
 
-### ⏱ Agenda
+## ⏱ Agenda {docsify-ignore}
 
 1. [📖 [30m] Overview](#%F0%9F%93%96-30m-Overview)
 2. [💻 [20m] In Class Activity I](#%F0%9F%92%BB-20m-In-Class-Activity-I)

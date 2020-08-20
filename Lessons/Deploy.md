@@ -9,7 +9,8 @@
 
 <!-- > -->
 
-### ⏱ Agenda
+<!-- omit in toc -->
+## ⏱ Agenda {docsify-ignore}
 
 1. [[**00m**] 🏆 Objectives](#00m-%f0%9f%8f%86-objectives)
 2. [[**00m**] 📖 Overview](#00m-%f0%9f%93%96-overview)
@@ -59,7 +60,7 @@ print("hello world!")
 
 <!-- > -->
 
-## [**10m**] 🌴 BREAK
+## [**10m**] 🌴 BREAK {docsify-ignore}
 
 <!-- > -->
 

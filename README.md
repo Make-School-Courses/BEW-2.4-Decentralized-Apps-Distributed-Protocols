@@ -106,10 +106,10 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 
 ### Quizzes
 
-|       Section | Quiz 1: Protocols ([Study Guide](Resources/StudyGuide.md#Quiz1)) | Quiz 2: Contracts ([Study Guide](Resources/StudyGuide.md#Quiz2)) |
-| ------------: | :------------------------------------------------------------------------: | :--------------------------------------------------------------: |
-| **Section 🅰️** |                             Monday, August 31                              |                        Monday, October 5                         |
-| **Section 🅱️** |                            Tuesday, September 1                            |                        Tuesday, October 6                        |
+| Section | Quiz 1: Protocols ([Study Guide](Resources/StudyGuide.md#Quiz1)) | Quiz 2: Contracts ([Study Guide](Resources/StudyGuide.md#Quiz2)) |
+| ------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
+|       🅰️ |                        Monday, August 31                         |                        Monday, October 5                         |
+|       🅱️ |                       Tuesday, September 1                       |                        Tuesday, October 6                        |
 
 
 ## Evaluation

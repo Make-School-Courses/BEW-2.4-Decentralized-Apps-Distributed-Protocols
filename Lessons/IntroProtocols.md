@@ -5,14 +5,14 @@
 <!-- > -->
 
 <!-- omit in toc -->
-## ⏱ Agenda
+## ⏱ Agenda {docsify-ignore}
 
 - [[**05m**] 🏆 Objectives](#05m--objectives)
 - [[**20m**] 👋 Welcome to Class](#20m--welcome-to-class)
 - [[**30m**] 📖 Overview: Network Protocols](#30m--overview-network-protocols)
-- [[**10m**] 🌴 BREAK](#10m--break)
+- [[**10m**] 🌴 BREAK](#10m--break-docsify-ignore)
 - [[**07m**] 📼 Watch Video: Packets, Routing, & Reliability](#07m--watch-video-packets-routing--reliability)
-- [[**45m**] 💻 Activity: Making a Reliable Internet](#45m--activity-making-a-reliable-internet)
+- [[**60m**] 💻 Activity: Code.org Lessons](#60m--activity-codeorg-lessons)
 - [📚 Resources & Credits](#-resources--credits)
 
 <!-- > -->
@@ -98,7 +98,7 @@ Contain commands for specific applications.
 
 <!-- > -->
 
-## [**10m**] 🌴 BREAK
+## [**10m**] 🌴 BREAK {docsify-ignore}
 
 <!-- > -->
 
@@ -110,7 +110,7 @@ Contain commands for specific applications.
 
 <!-- > -->
 
-## [**90m**] 💻 Activity: Code.org Lessons
+## [**60m**] 💻 Activity: Code.org Lessons
 
 1. Join [Code.org Section](https://studio.code.org/join/RZFRVG)
 1. Begin working on **Lessons 8 through Lessons 11** in [Chapter 2: Inventing the Internet](https://studio.code.org/s/csp1-2018?section_id=2909525&viewAs=Student) in your breakout groups of 3 to 4.

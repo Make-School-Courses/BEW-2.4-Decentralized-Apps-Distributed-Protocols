@@ -1,6 +1,6 @@
 # 📜 Day 7: Test Networks
 
-### ⏱ Agenda
+## ⏱ Agenda {docsify-ignore}
 
 1. [🏆 [**5m**] Learning Objectives](#%F0%9F%8F%86-5m-Learning-Objectives)
 2. [🏁 [**25m**] Initial Exercise](#%F0%9F%8F%81-25m-Initial-Exercise)

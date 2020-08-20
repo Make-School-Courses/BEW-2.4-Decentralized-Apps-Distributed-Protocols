@@ -15,7 +15,7 @@
 1. [[**00m**] 🏆 Objectives](#00m-%f0%9f%8f%86-objectives)
 2. [[**00m**] 📖 Overview](#00m-%f0%9f%93%96-overview)
 4. [[**00m**] 💻 Activity](#00m-%f0%9f%92%bb-activity)
-5. [[**10m**] 🌴 BREAK](#10m-%f0%9f%8c%b4-break)
+5. [[**10m**] 🌴 BREAK {docsify-ignore}](#10m-%f0%9f%8c%b4-break)
 6. [🌃 After Class](#%f0%9f%8c%83-after-class)
 7. [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
 
@@ -60,7 +60,7 @@ print("hello world!")
 
 <!-- > -->
 
-## [**10m**] 🌴 BREAK
+## [**10m**] 🌴 BREAK {docsify-ignore}
 
 <!-- > -->
 

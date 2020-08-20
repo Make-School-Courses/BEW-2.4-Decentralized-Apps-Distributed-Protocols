@@ -1,3 +1,2 @@
-- **Lessons**
-  - [Intro to Protocols](Lessons/IntroProtocols.md)
-- **[Study Guide](Resources/StudyGuide.md)**
+- [Day 1: Intro to Protocols](Lessons/IntroProtocols.md)
+- [Study Guide: Quiz 1 & 2](Resources/StudyGuide.md)
