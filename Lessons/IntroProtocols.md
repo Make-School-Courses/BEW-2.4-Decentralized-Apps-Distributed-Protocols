@@ -65,6 +65,8 @@ The rules of each protocol must describe...
 
 ### Four Categories
 
+![Network Layers](Assets/Layers.png)
+
 <!-- > -->
 
 #### :one: Link Layer&nbsp;&nbsp;&nbsp;&nbsp;[PPP](https://techterms.com/definition/ppp), [DSL](https://techterms.com/definition/dsl), [Wi-Fi](https://techterms.com/definition/wi-fi)
