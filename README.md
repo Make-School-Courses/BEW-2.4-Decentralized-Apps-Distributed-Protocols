@@ -43,23 +43,23 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 **Course Dates:** Wednesday, August 19 through Wednesday, October 7, 2020  _(7 weeks)_<br>
 **Class Times:** Monday &amp; Wednesday from 2:30 to 5:15pm _(14 class sessions)_
 
-| Class |     Date     |                       Topics                       |
-| :---: | :----------: | :------------------------------------------------: |
-|   1   | Wed, Aug 19  |            [Introduction to Protocols]             |
-|   2   | Mon, Aug 24  |    [Fantastic Protocols & Where to Find Them]      |
-|   3   | Wed, Aug 26  |     Blockchain: Distributed Consensus Protocol     |
-|   4   | Mon, Aug 31  | Protocols Quiz / Lab: Start CryptoZombies Tutorial |
-|   5   | Wed, Sept 2  |               How to Design a Token                |
-|   -   | Mon, Sept 7  |              **Holiday - Labor Day**               |
-|   6   | Wed, Sept 9  |             [Introduction to Solidity]             |
-|   7   | Mon, Sept 14 |             [Writing Smart Contracts]              |
-|   8   | Wed, Sept 16 |                   [Metadata APIs]                    |
-|   9   | Mon, Sept 21 |                        TBD                         |
-|  10   | Wed, Sept 23 |             [Testing Smart Contracts]              |
-|  11   | Mon, Sept 28 |            [Deploying Smart Contracts]             |
-|  12   | Wed, Sept 30 |     Benchmarking & Optimizing Smart Contracts      |
-|  13   |  Mon, Oct 5  |          Smart Contracts Quiz   / Lab Day          |
-|  14   |  Wed, Oct 7  |                Final Presentations                 |
+| Class |     Date     |                   Topics                   |
+| :---: | :----------: | :----------------------------------------: |
+|   1   | Wed, Aug 19  |        [Introduction to Protocols]         |
+|   2   | Mon, Aug 24  | [Fantastic Protocols & Where to Find Them] |
+|   3   | Wed, Aug 26  |                [Blockchain]                |
+|   4   | Mon, Aug 31  |    Protocols Quiz / Lab: Start Tutorial    |
+|   5   | Wed, Sept 2  |           How to Design a Token            |
+|   -   | Mon, Sept 7  |          **Holiday - Labor Day**           |
+|   6   | Wed, Sept 9  |          [Ethereum] & [Solidity]           |
+|   7   | Mon, Sept 14 |      [Writing Smart Contracts]: Day 1      |
+|   8   | Wed, Sept 16 |      [Writing Smart Contracts]: Day 2      |
+|   9   | Mon, Sept 21 |   [Metadata APIs] / Smart Contracts Quiz   |
+|  10   | Wed, Sept 23 |    [Integrating Contracts in Web Apps]     |
+|  11   | Mon, Sept 28 |         [Testing Smart Contracts]          |
+|  12   | Wed, Sept 30 |        [Deploying Smart Contracts]         |
+|  13   |  Mon, Oct 5  |               Lab Day / TBD                |
+|  14   |  Wed, Oct 7  |            Final Presentations             |
 
 <!-- omit in toc -->
 ### **🅱️ Section B: Tuesday + Thursday**
@@ -67,23 +67,23 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 **Course Dates:** Thursday, August 20 through Tuesday, October 6, 2020 _(7 weeks)_<br>
 **Class Times:** Tuesday &amp; Thursday from 2:30 to 5:15pm _(14 class sessions)_
 
-| Class | Date         |                        Topics                         |
-| :---: | ------------ | :---------------------------------------------------: |
-|   1   | Thu, Aug 20  |              [Introduction to Protocols]              |
-|   2   | Tue, Aug 25  |      [Fantastic Protocols & Where to Find Them]       |
-|   3   | Thu, Aug 27  |      Blockchain: Distributed Consensus Protocol       |
-|   4   | Tue, Sept 1  | Quiz 1: Protocols / Lab: Start CryptoZombies Tutorial |
-|   5   | Thu, Sept 3  |                 How to Design a Token                 |
-|   -   | Tue, Sept 8  |                **Holiday - Labor Day**                |
-|   6   | Thu, Sept 10 |              [Introduction to Solidity]               |
-|   7   | Tue, Sept 15 |               [Writing Smart Contracts]               |
-|   8   | Thu, Sept 17 |                     [Metadata APIs]                     |
-|   9   | Tue, Sept 22 |                          TBD                          |
-|  10   | Thu, Sept 24 |               [Testing Smart Contracts]               |
-|  11   | Tue, Sept 29 |              [Deploying Smart Contracts]              |
-|  12   | Thu, Oct 1   |       Benchmarking & Optimizing Smart Contracts       |
-|  13   | Tue, Oct 6   |            Smart Contracts Quiz / Lab Day             |
-|  14   | Thu, Oct 8   |                  Final Presentations                  |
+| Class | Date         |                   Topics                   |
+| :---: | ------------ | :----------------------------------------: |
+|   1   | Thu, Aug 20  |        [Introduction to Protocols]         |
+|   2   | Tue, Aug 25  | [Fantastic Protocols & Where to Find Them] |
+|   3   | Thu, Aug 27  |                [Blockchain]                |
+|   4   | Tue, Sept 1  |    Protocols Quiz / Lab: Start Tutorial    |
+|   5   | Thu, Sept 3  |           How to Design a Token            |
+|   -   | Tue, Sept 8  |          **Holiday - Labor Day**           |
+|   6   | Thu, Sept 10 |          [Ethereum] & [Solidity]           |
+|   7   | Tue, Sept 15 |      [Writing Smart Contracts]: Day 1      |
+|   8   | Thu, Sept 17 |      [Writing Smart Contracts]: Day 2      |
+|   9   | Tue, Sept 22 |   [Metadata APIs] / Smart Contracts Quiz   |
+|  10   | Thu, Sept 24 |    [Integrating Contracts in Web Apps]     |
+|  11   | Tue, Sept 29 |         [Testing Smart Contracts]          |
+|  12   | Thu, Oct 1   |        [Deploying Smart Contracts]         |
+|  13   | Tue, Oct 6   |               Lab Day / TBD                |
+|  14   | Thu, Oct 8   |            Final Presentations             |
 
 <!-- tabs:end -->
 
@@ -106,8 +106,8 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 
 | Section | Quiz 1: Protocols ([Study Guide](Resources/StudyGuide.md#Quiz1)) | Quiz 2: Contracts ([Study Guide](Resources/StudyGuide.md#Quiz2)) |
 | ------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|       🅰️ |                        Monday, August 31                         |                        Monday, October 5                         |
-|       🅱️ |                       Tuesday, September 1                       |                        Tuesday, October 6                        |
+|       🅰️ |                        Monday, August 31                         |                       Monday, September 21                       |
+|       🅱️ |                       Tuesday, September 1                       |                      Tuesday, September 22                       |
 
 ### Final Project
 
@@ -151,7 +151,11 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 [Fantastic Protocols & Where to Find Them]: Lessons/MoreProtocols.md
 [Deploying Smart Contracts]: Lessons/Deploy.md
 [Writing Smart Contracts]: Lessons/SmartContracts.md
-[Introduction to Solidity]: Lessons/Solidity.md
+[Solidity]: Lessons/Solidity.md
+[Ethereum]: Lessons/Ethereum.md
 [Metadata APIs]: Lessons/APIs.md
 [MakeCoin Project]: Project/MakeCoin.md
+[Testing Smart Contracts]: Lessons/Testing.md
 [MakeCoin Rubric]: https://www.makeschool.com/rubrics/UnVicmljLTE5Mg==
+[Integrating Contracts in Web Apps]: Lessons/DApps.md
+[Blockchain]: Lessons/Blockchain.md
