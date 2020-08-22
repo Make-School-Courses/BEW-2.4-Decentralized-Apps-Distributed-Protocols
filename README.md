@@ -49,13 +49,13 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |   2   | Mon, Aug 24  | [Fantastic Protocols & Where to Find Them] |
 |   3   | Wed, Aug 26  |                [Blockchain]                |
 |   4   | Mon, Aug 31  |    Protocols Quiz / Lab: Start Tutorial    |
-|   5   | Wed, Sept 2  |           How to Design a Token            |
+|   5   | Wed, Sept 2  |           [How to Design a Token]          |
 |   -   | Mon, Sept 7  |          **Holiday - Labor Day**           |
 |   6   | Wed, Sept 9  |          [Ethereum] & [Solidity]           |
 |   7   | Mon, Sept 14 |      [Writing Smart Contracts]: Day 1      |
 |   8   | Wed, Sept 16 |      [Writing Smart Contracts]: Day 2      |
 |   9   | Mon, Sept 21 |   [Metadata APIs] / Smart Contracts Quiz   |
-|  10   | Wed, Sept 23 |    [Integrating Contracts in Web Apps]     |
+|  10   | Wed, Sept 23 |    [Using Contracts in Web Apps]     |
 |  11   | Mon, Sept 28 |         [Testing Smart Contracts]          |
 |  12   | Wed, Sept 30 |        [Deploying Smart Contracts]         |
 |  13   |  Mon, Oct 5  |               Lab Day / TBD                |
@@ -73,13 +73,13 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |   2   | Tue, Aug 25  | [Fantastic Protocols & Where to Find Them] |
 |   3   | Thu, Aug 27  |                [Blockchain]                |
 |   4   | Tue, Sept 1  |    Protocols Quiz / Lab: Start Tutorial    |
-|   5   | Thu, Sept 3  |           How to Design a Token            |
+|   5   | Thu, Sept 3  |          [How to Design a Token]           |
 |   -   | Tue, Sept 8  |          **Holiday - Labor Day**           |
 |   6   | Thu, Sept 10 |          [Ethereum] & [Solidity]           |
 |   7   | Tue, Sept 15 |      [Writing Smart Contracts]: Day 1      |
 |   8   | Thu, Sept 17 |      [Writing Smart Contracts]: Day 2      |
 |   9   | Tue, Sept 22 |   [Metadata APIs] / Smart Contracts Quiz   |
-|  10   | Thu, Sept 24 |    [Integrating Contracts in Web Apps]     |
+|  10   | Thu, Sept 24 |    [Using Contracts in Web Apps]     |
 |  11   | Tue, Sept 29 |         [Testing Smart Contracts]          |
 |  12   | Thu, Oct 1   |        [Deploying Smart Contracts]         |
 |  13   | Tue, Oct 6   |               Lab Day / TBD                |
@@ -157,5 +157,5 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 [MakeCoin Project]: Project/MakeCoin.md
 [Testing Smart Contracts]: Lessons/Testing.md
 [MakeCoin Rubric]: https://www.makeschool.com/rubrics/UnVicmljLTE5Mg==
-[Integrating Contracts in Web Apps]: Lessons/DApps.md
+[Using Contracts in Web Apps]: Lessons/DApps.md
 [Blockchain]: Lessons/Blockchain.md
