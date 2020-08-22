@@ -159,3 +159,4 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 [MakeCoin Rubric]: https://www.makeschool.com/rubrics/UnVicmljLTE5Mg==
 [Using Contracts in Web Apps]: Lessons/DApps.md
 [Blockchain]: Lessons/Blockchain.md
+[How to Design a Token]: Lessons/NewToken.md
