@@ -1,35 +1,48 @@
-# MakeCoin Project ([Rubric](https://www.makeschool.com/rubrics/UnVicmljLTE5Mg==))
+# MakeCoin Project ([rubric](https://www.makeschool.com/rubrics/UnVicmljLTE5Mg==))
 
-Design and mint your very own [ERC-20](https://docs.openzeppelin.com/contracts/3.x/er20)), [ERC-721](https://docs.openzeppelin.com/contracts/3.x/erc721), [ERC-777](https://docs.openzeppelin.com/contracts/3.x/erc777), or [ERC-1155](https://docs.openzeppelin.com/contracts/3.x/erc1155) assets, then use them in a custom, full-stack distributed application!
+_Design and mint your very own [ERC-20](https://docs.openzeppelin.com/contracts/3.x/er20)), [ERC-721](https://docs.openzeppelin.com/contracts/3.x/erc721), [ERC-777](https://docs.openzeppelin.com/contracts/3.x/erc777), or [ERC-1155](https://docs.openzeppelin.com/contracts/3.x/erc1155) assets, then use them in a custom, full-stack distributed application!_
 
 > [!NOTE]
 > This document is a work in progress.
 
-## Project Details
+<!-- omit in toc -->
+## Project Information {docsify-ignore}
 
-`TODO`
+- [Getting Started](#getting-started)
+- [Deliverables](#deliverables)
+- [Evaluation](#evaluation)
 
-### Requirements
+## Getting Started
 
-- Smart contract written in Solidity.
-- Brownie used to compile and deploy smart contracts.
-- Metadata API written in Flask or Django.
+`TODO`: Introduce project.
 
-## Project Presentation
+### Ideas
 
-On the last day of the course, each team is required to deliver a presentation (6 - 9 mins) about their project.
+Here are some ideas to get you started:
 
-### Submission Guidelines
+- **Proof of Props**: `ERC20` token that represents a moment of gratitude shared between two people.
+- **Coder Cards**: `ERC721`  token that represents a card in trading card game for software engineers. Card rarity determined by GitHub profile statistics (# of stars, # of repos, # of closed issues, etc)
 
-1. **Every team member must participate** in the presentation.
-1. The presentation must be **pre-recorded** and submitted on Gradescope by the last day of class.
-1. The presentation should be **between `6` to `9` minutes** long.
-    - **Solo**: *`9` minute maximum*
-    - **Pair**: *`10` minute maximum*
+### Examples
 
-### What to Include
+`TODO`: Add examples.
 
-- **Your project's name, collaborators, and relevant project links**.
+## Deliverables
+
+> [!DANGER]
+> Both deliverables must be submitted to pass the project.
+
+### 1️⃣ Code
+
+Your codebase must be submitted on [Gradescope] no later than **Friday, October 10**<sup>th</sup> @ **11:59PM PST**.
+
+### 2️⃣ Demo
+
+On the last day of the course, each team is required to present a demonstration (6 - 9 mins) of their ÐApp.
+
+**_All presentations should include..._**
+
+- **The project's name, all collaborators, and relevant project links**.
 - **Discuss the architectural decisions** you made while creating and developing the project.
 - **Describe the Smart Contract you developed** and it's functionality.
 - **Demo of your ÐApp**, including how to acquire or trade the asset you created.
@@ -40,11 +53,12 @@ On the last day of the course, each team is required to deliver a presentation (
    1. Next steps for the project
    1. Each partner writes a custom shoutout for one another
 
-## Project Evaluation
+## Evaluation
 
 > [!DANGER]
 > Must score `>36` points on this project to pass the course.
 
-Both your project and presentation will be scored according to the [MakeCoin Rubric] located in your Student Dashboard.
+Both your project and presentation will be scored according to the MakeCoin [rubric] located in your Student Dashboard.
 
-[MakeCoin Rubric]: https://www.makeschool.com/rubrics/UnVicmljLTE5Mg==
+[rubric]: https://www.makeschool.com/rubrics/UnVicmljLTE5Mg==
+[Gradescope]: https://make.sc/bew2.4-gradescope
