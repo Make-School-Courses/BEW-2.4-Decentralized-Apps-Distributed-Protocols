@@ -25,7 +25,11 @@ Here are some ideas to get you started:
 
 ### Examples
 
-`TODO`: Add examples.
+#### ERC721
+
+- [CryptoKitties](https://www.cryptokitties.co/)
+- [Decentraland](https://market.decentraland.org/)
+- [Ethermon](https://www.etheremon.com/)
 
 ## Deliverables
 

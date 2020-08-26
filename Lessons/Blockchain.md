@@ -1,76 +1,101 @@
 <!-- Run this slideshow via the following command: -->
 <!-- reveal-md README.md -w -->
 
+![](https://blockruption.com/wp-content/uploads/2019/04/blockruption-blockchain-300h.png)
 
-<!-- .slide: data-background="./../Slides/images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
 # ⛓ Blockchain
-
-> [!NOTE]
-> This plan is a work in progress. Please check back at the start of class for updates.
 
 <!-- > -->
 
 <!-- omit in toc -->
 ## ⏱ Agenda {docsify-ignore}
 
-1. [[**00m**] 🏆 Objectives](#00m-%f0%9f%8f%86-objectives)
-2. [[**00m**] 📖 Overview](#00m-%f0%9f%93%96-overview)
-4. [[**00m**] 💻 Activity](#00m-%f0%9f%92%bb-activity)
-5. [[**10m**] 🌴 BREAK](#10m-%f0%9f%8c%b4-break)
-6. [🌃 After Class](#%f0%9f%8c%83-after-class)
-7. [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
+- [[**02m**] 🏆 Objectives](#02m-%f0%9f%8f%86-objectives)
+- [[**03m**] 🤔 Why Learn Blockchain?](#03m-%f0%9f%a4%94-why-learn-blockchain)
+- [[**20m**] 📚 Warm Up: Blockchain's Secret 1,000 Year History](#20m-%f0%9f%93%9a-warm-up-blockchains-secret-1000-year-history)
+- [[**20m**] 📖 Overview](#20m-%f0%9f%93%96-overview)
+- [[**60m**] 💻 Activity: Build a Blockchain in Python](#60m-%f0%9f%92%bb-activity-build-a-blockchain-in-python)
+- [[**15m**] 🌴 BREAK](#15m-%f0%9f%8c%b4-break-docsify-ignore)
+- [[**30m**] 💻 Review: Build a Blockchain in Python](#30m-%f0%9f%92%bb-review-build-a-blockchain-in-python)
+- [🌃 After Class](#%f0%9f%8c%83-after-class)
+- [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
 
 <!-- > -->
 
-## [**00m**] 🏆 Objectives
+## [**02m**] 🏆 Objectives
 
-|   Level   | Verbs |
-| --------- | ----- |
-| 6: Create | design, formulate, build, invent, create, compose, generate, derive, modify, develop |
-| 5: Evaluate | choose, support, relate, determine, defend, compare, contrast, justify, support, convince, select |
-| 4: Analyze | classify, break down, categorize, analyze, diagram, illustrate, criticize, simplify, associate |
-| 3: Apply | calculate, predict, apply, solve, illustrate, use, demonstrate, determine, model, perform, present |
-| 2: Understand | describe, explain, paraphrase, restate, summarize, contrast, interpret, discuss |
-| 1: Remember | list, recite, outline, define, name, match, quote, recall, identify, label, recognize |
+1. Define the terms **blockchain** and **ledger**.
+1. Understand the structure and properties of the blockchain and the blocks within it.
+1. Build a small **blockchain library** in Python.
 
-<!-- > -->
+## [**03m**] 🤔 Why Learn Blockchain?
 
-## [**00m**] 📖 Overview
-
-`TODO`
+> Blockchain is a powerful technology with applications in fields such as cryptocurrency, healthcare, insurance, government, music, identification, supply chain, data management, and many more. By understanding the fundamental mechanisms that power blockchain, you can join the conversation and discover use cases for blockchain in your own life and work. - [**Codecademy**](https://www.codecademy.com/learn/introduction-to-blockchain)
 
 <!-- > -->
 
-## [**00m**] ✓ Review
+## [**20m**] 📚 Warm Up: Blockchain's Secret 1,000 Year History
 
-<details><summary>SHOW CODE</summary>
-<p>
+![yap currency](https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F501253093%2F960x0.jpg%3Ffit%3Dscale)
 
-```python
-print("hello world!")
-```
+Read [Blockchain's Secret 1,000 Year History](https://www.forbes.com/sites/oliversmith/2018/03/23/blockchains-secret-1000-year-history), then write down the answers to the following questions.
 
-</p>
-</details>
+- Is the Yap currency **centralized** or **decentralized**?
+- Through which medium was the ledger **distributed**?
+
+**Finish early**? Learn more about the Yap here _(~8 min read)_: [How the Island of Stone Money Can Teach Us About Blockchain](https://medium.com/@BountyBase/how-the-island-of-stone-money-can-teach-us-about-blockchain-5362a69d6d73).
+
+
+
+
+
+## [**20m**] 📖 Overview
+
+### Blockchain: Spreadsheet in the Sky
+
+![blockchain: spreadsheet in the sky](https://media.blockchainhub.net/wp-content/uploads/2019/07/What-is-Blockchain_SpreadsheetInTheCloud.png)
+
+A **blockchain** is a **distributed software network** that functions as:
+
+- A digital **ledger** that exists over a peer-to-peer network.
+- A mechanism enabling the **secure transfer of assets without an intermediary**.
+- A **permanent forensic record of transactions** and a single version of the truth. Digital signatures and cryptography are used to prove identity, authenticity, and enforce rights to read and write to the chain. Ensures it's hard to change historical records, or at least make it easy to detect when someone is attempting to.
+- Facilitates the exchange of value or financial transaction represented in digital units.
 
 <!-- > -->
 
-## [**00m**] 💻 Activity
+## [**60m**] 💻 Activity: Build a Blockchain in Python
 
-`TODO`
+![](https://101blockchains.com/wp-content/uploads/2020/01/How-to-Build-A-Blockchain-In-Python.png)
+
+1. Complete the [Blockchain in Python](https://www.codecademy.com/learn/introduction-to-blockchain/modules/blockchain-in-python) tutorial with your breakout group.
+1. Add all the code you wrote to a Git repository, then push it to GitHub.
+1. Upload your completed tutorial code to [Gradescope](https://make.sc/bew2.4-gradescope).
+
+## [**15m**] 🌴 BREAK {docsify-ignore}
 
 <!-- > -->
 
-## [**10m**] 🌴 BREAK {docsify-ignore} {docsify-ignore}
+## [**30m**] 💻 Review: Build a Blockchain in Python
+
+Instructor will ask students demonstrate code for the following, providing answers to questions along the way:
+
+- Structure of a block
+- Important functions
 
 <!-- > -->
 
 ## 🌃 After Class
 
-`TODO`
+- Next class period, you'll have a quiz on protocols. The [study guide](../Resources/StudyGuide.md) will be updated by Friday.
+- Be sure to turn in today's assignment on [Gradescope](https://make.sc/bew2.4-gradescope) by 11:59pm on Day 4.
+- Presentations graded on [Gradescope]. Nice work folks!
+- Did you miss the last class? Request a make-up assignment from the instructor.
 
 <!-- > -->
 
 ## 📚 Resources & Credits
 
-`TODO`
+- [SEC.gov: Brief Intro to Blockchain](https://www.sec.gov/spotlight/investor-advisory-committee-2012/slides-nancy-liao-brief-intro-to-blockchain-iac-101217.pdf)
+- [An Intro to Blockchain](https://www.blockchainresearchinstitute.org/an-intro-to-blockchain/#)
+- [Learn the Basics of Blockchain with Python | Codecademy](https://www.codecademy.com/learn/introduction-to-blockchain)
