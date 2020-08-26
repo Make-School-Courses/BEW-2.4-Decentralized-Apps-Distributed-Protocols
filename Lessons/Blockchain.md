@@ -13,13 +13,14 @@
 - [[**02m**] 🏆 Objectives](#02m-%f0%9f%8f%86-objectives)
 - [[**03m**] 🤔 Why Learn Blockchain?](#03m-%f0%9f%a4%94-why-learn-blockchain)
 - [[**20m**] 📚 Warm Up: Blockchain's Secret 1,000 Year History](#20m-%f0%9f%93%9a-warm-up-blockchains-secret-1000-year-history)
-- [[**20m**] 📖 Overview](#20m-%f0%9f%93%96-overview)
-- [[**60m**] 💻 Activity: Build a Blockchain in Python](#60m-%f0%9f%92%bb-activity-build-a-blockchain-in-python)
+- [[**15m**] 📖 Overview: What is a Blockchain?](#15m-%f0%9f%93%96-overview-what-is-a-blockchain)
+- [[**15m**] 👥 Breakouts: Blockchain Vocabulary](#15m-%f0%9f%91%a5-breakouts-blockchain-vocabulary)
+- [[**15m**] ⭐️ Demo: MVP Blockchain in Python](#15m-%e2%ad%90%ef%b8%8f-demo-mvp-blockchain-in-python)
 - [[**15m**] 🌴 BREAK](#15m-%f0%9f%8c%b4-break-docsify-ignore)
+- [[**60m**] 💻 Activity: Build a Blockchain in Python](#60m-%f0%9f%92%bb-activity-build-a-blockchain-in-python)
 - [[**30m**] 💻 Review: Build a Blockchain in Python](#30m-%f0%9f%92%bb-review-build-a-blockchain-in-python)
 - [🌃 After Class](#%f0%9f%8c%83-after-class)
 - [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
-
 <!-- > -->
 
 ## [**02m**] 🏆 Objectives
@@ -49,7 +50,7 @@ Read [Blockchain's Secret 1,000 Year History](https://www.forbes.com/sites/olive
 
 
 
-## [**20m**] 📖 Overview
+## [**15m**] 📖 Overview: What is a Blockchain?
 
 ### Blockchain: Spreadsheet in the Sky
 
@@ -62,19 +63,43 @@ A **blockchain** is a **distributed software network** that functions as:
 - A **permanent forensic record of transactions** and a single version of the truth. Digital signatures and cryptography are used to prove identity, authenticity, and enforce rights to read and write to the chain. Ensures it's hard to change historical records, or at least make it easy to detect when someone is attempting to.
 - Facilitates the exchange of value or financial transaction represented in digital units.
 
+## [**15m**] 👥 Breakouts: Blockchain Vocabulary
+
+Define the following terms in your breakout groups.
+
+Use [Blockchain for Beginners](https://101blockchains.com/blockchain-for-beginners/) as a guide.
+
+### Terms
+
+- Transaction
+- Block
+- Mining
+- Consensus
+
+We will discuss these terms together after the breakout.
+
+<!-- > -->
+
+## [**15m**] ⭐️ Demo: MVP Blockchain in Python
+
+Instructor will demonstrate and walk through the code in the [blockchain-walkthrough](https://github.com/mchrupcala/blockchain-walkthrough) repo.
+
+<!-- > -->
+
+
+
+
+## [**15m**] 🌴 BREAK {docsify-ignore}
+
 <!-- > -->
 
 ## [**60m**] 💻 Activity: Build a Blockchain in Python
 
 ![](https://101blockchains.com/wp-content/uploads/2020/01/How-to-Build-A-Blockchain-In-Python.png)
 
-1. Complete the [Blockchain in Python](https://www.codecademy.com/learn/introduction-to-blockchain/modules/blockchain-in-python) tutorial with your breakout group.
+1. Complete the [Blockchain in Python](https://101blockchains.com/build-a-blockchain-in-python/) tutorial with your breakout group.
 1. Add all the code you wrote to a Git repository, then push it to GitHub.
 1. Upload your completed tutorial code to [Gradescope](https://make.sc/bew2.4-gradescope).
-
-## [**15m**] 🌴 BREAK {docsify-ignore}
-
-<!-- > -->
 
 ## [**30m**] 💻 Review: Build a Blockchain in Python
 

@@ -149,7 +149,7 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 [Final Presentations]: Project/presentations.md
 [Gradescope]: https:/make.sc/bew2.4-gradescope
 [Introduction to Protocols]: Lessons/IntroProtocols.md
-[Fantastic Protocols & Where to Find Them]: https://docs.google.com/presentation/d/1KtQYUB2DpkuKwtmvfSaV9GHAbS7VtKh6GlBdMRLWmV0/edit#slide=id.g9289045c3b_2_69
+[Fantastic Protocols & Where to Find Them]: https://docs.google.com/presentation/d/1KtQYUB2DpkuKwtmvfSaV9GHAbS7VtKh6GlBdMRLWmV0
 [Deploying Smart Contracts]: Lessons/Deploy.md
 [Writing Smart Contracts]: Lessons/SmartContracts.md
 [Solidity]: Lessons/Solidity.md
