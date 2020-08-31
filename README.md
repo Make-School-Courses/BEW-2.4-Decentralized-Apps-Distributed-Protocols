@@ -72,7 +72,7 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |   1   | Thu, Aug 20  |        [Introduction to Protocols]         |
 |   2   | Tue, Aug 25  | [Fantastic Protocols & Where to Find Them] |
 |   3   | Thu, Aug 27  |                [Blockchain]                |
-|   4   | Tue, Sept 1  |    Protocols Quiz / Lab: Start Tutorial    |
+|   4   | Tue, Sept 1  |    Lab: Start Tutorial    |
 |   5   | Thu, Sept 3  |          [How to Design a Token]           |
 |   -   | Tue, Sept 8  |          **Holiday - Labor Day**           |
 |   6   | Thu, Sept 10 |          [Ethereum] & [Solidity]           |
@@ -102,13 +102,6 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 We will be using [Gradescope] this term, which allows us to provide fast and accurate feedback on your work. All assigned work will be submitted through [Gradescope], and assignment and exam grades will be returned through [Gradescope]. As soon as grades are posted, you will be notified immediately so that you can log in and see your feedback. You may also submit regrade requests if you feel we have made a mistake.
 
 Your [Gradescope] login is your Make School email, and your password can be changed at [https://gradescope.com/reset_password](https://gradescope.com/reset_password). The same link can be used if you need to set your password for the first time.
-
-### Assessments
-
-| Section | Quiz 1: Protocols ([Study Guide](Resources/StudyGuide.md#Quiz1)) | Quiz 2: Contracts ([Study Guide](Resources/StudyGuide.md#Quiz2)) |
-| ------: | :--------------------------------------------------------------: | :--------------------------------------------------------------: |
-|       🅰️ |                        Monday, August 31                         |                       Monday, September 21                       |
-|       🅱️ |                       Tuesday, September 1                       |                      Tuesday, September 22                       |
 
 ### Final Project
 
