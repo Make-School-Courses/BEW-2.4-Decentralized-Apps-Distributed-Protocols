@@ -51,7 +51,7 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |   4   | Mon, Aug 31  |    Lab: Start Tutorial    |
 |   5   | Wed, Sept 2  |     Lab: Finish Tutorial               |
 |   -   | Mon, Sept 7  |          **Holiday - Labor Day**           |
-|   6   | Wed, Sept 9  |         [Introduction to Solidity]            |
+|   6   | Wed, Sept 9  |         [Ethereum]           |
 |   7   | Mon, Sept 14 |      [Writing Smart Contracts]: Day 1      |
 |   8   | Wed, Sept 16 |      [Writing Smart Contracts]: Day 2      |
 |   9   | Mon, Sept 21 |   [Metadata APIs] / Smart Contracts Quiz   |
@@ -74,7 +74,7 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |   3   | Thu, Aug 27  |                [Blockchain]                |
 |   4   | Tue, Sept 1  |    Lab: Start Tutorial    |
 |   5   | Thu, Sept 3  |   Lab: Finish Tutorial                |
-|   -   | Tue, Sept 8  |[How to Design a Token]                      |
+|   -   | Tue, Sept 8  | [Ethereum]                      |
 |   6   | Thu, Sept 10 |          [Introduction to Solidity]              |
 |   7   | Tue, Sept 15 |      [Writing Smart Contracts]: Day 1      |
 |   8   | Thu, Sept 17 |      [Writing Smart Contracts]: Day 2      |
