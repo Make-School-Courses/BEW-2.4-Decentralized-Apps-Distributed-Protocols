@@ -48,10 +48,10 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |   1   | Wed, Aug 19  |        [Introduction to Protocols]         |
 |   2   | Mon, Aug 24  | [Fantastic Protocols & Where to Find Them] |
 |   3   | Wed, Aug 26  |                [Blockchain]                |
-|   4   | Mon, Aug 31  |    Protocols Quiz / Lab: Start Tutorial    |
-|   5   | Wed, Sept 2  |           [How to Design a Token]          |
+|   4   | Mon, Aug 31  |    Lab: Start Tutorial    |
+|   5   | Wed, Sept 2  |     Lab: Finish Tutorial               |
 |   -   | Mon, Sept 7  |          **Holiday - Labor Day**           |
-|   6   | Wed, Sept 9  |          [Ethereum] & [Solidity]           |
+|   6   | Wed, Sept 9  |         [Introduction to Solidity]            |
 |   7   | Mon, Sept 14 |      [Writing Smart Contracts]: Day 1      |
 |   8   | Wed, Sept 16 |      [Writing Smart Contracts]: Day 2      |
 |   9   | Mon, Sept 21 |   [Metadata APIs] / Smart Contracts Quiz   |
@@ -73,9 +73,9 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |   2   | Tue, Aug 25  | [Fantastic Protocols & Where to Find Them] |
 |   3   | Thu, Aug 27  |                [Blockchain]                |
 |   4   | Tue, Sept 1  |    Lab: Start Tutorial    |
-|   5   | Thu, Sept 3  |          [How to Design a Token]           |
-|   -   | Tue, Sept 8  |          **Holiday - Labor Day**           |
-|   6   | Thu, Sept 10 |          [Ethereum] & [Solidity]           |
+|   5   | Thu, Sept 3  |   Lab: Finish Tutorial                |
+|   -   | Tue, Sept 8  |[How to Design a Token]                      |
+|   6   | Thu, Sept 10 |          [Introduction to Solidity]              |
 |   7   | Tue, Sept 15 |      [Writing Smart Contracts]: Day 1      |
 |   8   | Thu, Sept 17 |      [Writing Smart Contracts]: Day 2      |
 |   9   | Tue, Sept 22 |   [Metadata APIs] / Smart Contracts Quiz   |
@@ -145,7 +145,7 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 [Fantastic Protocols & Where to Find Them]: https://docs.google.com/presentation/d/1KtQYUB2DpkuKwtmvfSaV9GHAbS7VtKh6GlBdMRLWmV0
 [Deploying Smart Contracts]: Lessons/Deploy.md
 [Writing Smart Contracts]: Lessons/SmartContracts.md
-[Solidity]: Lessons/Solidity.md
+[Introduction to Solidity]: Lessons/Solidity.md
 [Ethereum]: Lessons/Ethereum.md
 [Metadata APIs]: Lessons/APIs.md
 [MakeCoin Project]: Project/MakeCoin.md

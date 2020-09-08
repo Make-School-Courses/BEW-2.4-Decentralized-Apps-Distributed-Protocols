@@ -1,8 +1,4 @@
 # ⛓ Introduction to Solidity
-
-> [!NOTE]
-> This plan is a work in progress. Please check back at the start of class for updates.
-
 <!-- > -->
 
 <!-- omit in toc -->
@@ -19,6 +15,8 @@
 
 ## [**00m**] 🏆 Objectives
 
+1. Review the tutorial and clarify any outstanding questions.
+
 |   Level   | Verbs |
 | --------- | ----- |
 | 6: Create | design, formulate, build, invent, create, compose, generate, derive, modify, develop |
@@ -30,23 +28,15 @@
 
 <!-- > -->
 
-## [**00m**] 📖 Overview
+## [**60m**] ✓ Review
 
-`TODO`
+In breakout groups, please answer the questions [in this survey](https://PollEv.com/surveys/jyp1GowLZ4w2W5TlshLPF/respond). You may discuss the answers with your partner, and use any resources available to figure out each question --- but you must submit your own answers!
 
 <!-- > -->
 
-## [**00m**] ✓ Review
+## [**00m**] 📖 Overview
 
-<details><summary>SHOW CODE</summary>
-<p>
-
-```python
-print("hello world!")
-```
-
-</p>
-</details>
+`TODO`
 
 <!-- > -->
 
