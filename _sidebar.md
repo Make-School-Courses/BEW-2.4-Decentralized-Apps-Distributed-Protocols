@@ -1,5 +1,5 @@
 - [Day 1: Intro to Protocols](Lessons/IntroProtocols.md)
 - [Day 2: Fantastic Protocols & Where to Find Them](https://docs.google.com/presentation/d/1KtQYUB2DpkuKwtmvfSaV9GHAbS7VtKh6GlBdMRLWmV0/edit#slide=id.g9289045c3b_2_69)
 - [Day 3: Blockchain](Lessons/Blockchain.md)
-- [Day 6: Etherium](Lessons/Ethereum.md)
+- [Day 6: Ethereum](Lessons/Ethereum.md)
 - [Final Project: MakeCoin](Project/MakeCoin.md)
