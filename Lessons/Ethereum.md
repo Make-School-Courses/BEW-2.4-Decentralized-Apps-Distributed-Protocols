@@ -26,7 +26,7 @@
 
 ## [**60m**] ✓ CryptoZombies Review
 
-In breakout groups, please answer the questions [in this survey](https://PollEv.com/surveys/jyp1GowLZ4w2W5TlshLPF/respond). You may discuss the answers with your partner, and use any resources available to figure out each question --- but you must submit your own answers!
+In breakout groups, please answer the questions [in this survey](https://PollEv.com/surveys/NZ6NSobqP47eQra4QklBW/respond). You may discuss the answers with your partner, and use any resources available to figure out each question --- but you must submit your own answers!
 
 <!-- > -->
 
