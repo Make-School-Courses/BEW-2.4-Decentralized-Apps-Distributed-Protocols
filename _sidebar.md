@@ -2,4 +2,5 @@
 - [Day 2: Fantastic Protocols & Where to Find Them](https://docs.google.com/presentation/d/1KtQYUB2DpkuKwtmvfSaV9GHAbS7VtKh6GlBdMRLWmV0/edit#slide=id.g9289045c3b_2_69)
 - [Day 3: Blockchain](Lessons/Blockchain.md)
 - [Day 6: Ethereum](Lessons/Ethereum.md)
+- [Day 7: Smart Contracts](Lessons/SmartContracts.md)
 - [Final Project: MakeCoin](Project/MakeCoin.md)

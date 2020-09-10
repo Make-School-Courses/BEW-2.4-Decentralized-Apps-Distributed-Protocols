@@ -48,14 +48,14 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |   1   | Wed, Aug 19  |        [Introduction to Protocols]         |
 |   2   | Mon, Aug 24  | [Fantastic Protocols & Where to Find Them] |
 |   3   | Wed, Aug 26  |                [Blockchain]                |
-|   4   | Mon, Aug 31  |    Lab: Start Tutorial    |
-|   5   | Wed, Sept 2  |     Lab: Finish Tutorial               |
+|   4   | Mon, Aug 31  |            Lab: Start Tutorial             |
+|   5   | Wed, Sept 2  |            Lab: Finish Tutorial            |
 |   -   | Mon, Sept 7  |          **Holiday - Labor Day**           |
-|   6   | Wed, Sept 9  |         [Ethereum]           |
-|   7   | Mon, Sept 14 |      [Writing Smart Contracts]: Day 1      |
-|   8   | Wed, Sept 16 |      [Writing Smart Contracts]: Day 2      |
-|   9   | Mon, Sept 21 |   [Metadata APIs] / Smart Contracts Quiz   |
-|  10   | Wed, Sept 23 |    [Using Contracts in Web Apps]     |
+|   6   | Wed, Sept 9  |                 [Ethereum]                 |
+|   7   | Mon, Sept 14 |    [Developing Smart Contracts]: Day 1     |
+|   8   | Wed, Sept 16 |    [Developing Smart Contracts]: Day 2     |
+|   9   | Mon, Sept 21 |              [Metadata APIs]               |
+|  10   | Wed, Sept 23 |       [Using Contracts in Web Apps]        |
 |  11   | Mon, Sept 28 |         [Testing Smart Contracts]          |
 |  12   | Wed, Sept 30 |        [Deploying Smart Contracts]         |
 |  13   |  Mon, Oct 5  |               Lab Day / TBD                |
@@ -72,17 +72,17 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |   1   | Thu, Aug 20  |        [Introduction to Protocols]         |
 |   2   | Tue, Aug 25  | [Fantastic Protocols & Where to Find Them] |
 |   3   | Thu, Aug 27  |                [Blockchain]                |
-|   4   | Tue, Sept 1  |    Lab: Start Tutorial    |
-|   5   | Thu, Sept 3  |   Lab: Finish Tutorial                |
-|   -   | Tue, Sept 8  | [Ethereum]                      |
-|   6   | Thu, Sept 10 |          [Introduction to Solidity]              |
-|   7   | Tue, Sept 15 |      [Writing Smart Contracts]: Day 1      |
-|   8   | Thu, Sept 17 |      [Writing Smart Contracts]: Day 2      |
-|   9   | Tue, Sept 22 |   [Metadata APIs] / Smart Contracts Quiz   |
-|  10   | Thu, Sept 24 |    [Using Contracts in Web Apps]     |
-|  11   | Tue, Sept 29 |         [Testing Smart Contracts]          |
-|  12   | Thu, Oct 1   |        [Deploying Smart Contracts]         |
-|  13   | Tue, Oct 6   |               Lab Day / TBD                |
+|   4   | Tue, Sept 1  |            Lab: Start Tutorial             |
+|   5   | Thu, Sept 3  |            Lab: Finish Tutorial            |
+|   -   | Tue, Sept 8  |                 [Ethereum]                 |
+|   6   | Thu, Sept 10 |    [Developing Smart Contracts]: Day 1     |
+|   7   | Tue, Sept 15 |    [Developing Smart Contracts]: Day 2     |
+|   8   | Thu, Sept 17 |              [Metadata APIs]               |
+|   9   | Tue, Sept 22 |       [Using Contracts in Web Apps]        |
+|  10   | Thu, Sept 24 |         [Testing Smart Contracts]          |
+|  11   | Tue, Sept 29 |        [Deploying Smart Contracts]         |
+|  12   | Thu, Oct 1   |               Lab Day / TBD                |
+|  13   | Tue, Oct 6   |                    TBD                     |
 |  14   | Thu, Oct 8   |            Final Presentations             |
 
 <!-- tabs:end -->
@@ -144,7 +144,7 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 [Introduction to Protocols]: Lessons/IntroProtocols.md
 [Fantastic Protocols & Where to Find Them]: https://docs.google.com/presentation/d/1KtQYUB2DpkuKwtmvfSaV9GHAbS7VtKh6GlBdMRLWmV0
 [Deploying Smart Contracts]: Lessons/Deploy.md
-[Writing Smart Contracts]: Lessons/SmartContracts.md
+[Developing Smart Contracts]: Lessons/SmartContracts.md
 [Introduction to Solidity]: Lessons/Solidity.md
 [Ethereum]: Lessons/Ethereum.md
 [Metadata APIs]: Lessons/APIs.md
