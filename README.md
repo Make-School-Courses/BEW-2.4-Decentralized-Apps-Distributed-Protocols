@@ -111,7 +111,7 @@ Your [Gradescope] login is your Make School email, and your password can be chan
 
 **To pass this course you must meet the following requirements**:
 
-- Complete all required [tutorials](#tutorials), [assignments](#assignments), [assessments](#assessments), and [projects](#final-project).
+- Complete all required [tutorials](#tutorials), [assignments](#assignments), and [projects](#final-project).
 - Score `>36` points on the [MakeCoin Project], according to the [MakeCoin Rubric].
 - Actively participate in class and abide by the attendance policy.
 - Make up all classwork from all absences.
