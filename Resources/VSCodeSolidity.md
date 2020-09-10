@@ -9,6 +9,7 @@
 1. Install the [Solidity](https://marketplace.visualstudio.com/items?itemName=juanblanco.solidity) extension in VSCode.
 1. Press `Command` + `Shift` + `P` to open the Command Palette.
 1. Type in `Preferences: Open Settings (JSON)` and press `Enter`.
+<!--
 1. Add the following JSON to the bottom of `settings.json`:
 
     ```json
@@ -18,3 +19,4 @@
       "avoid-sha3": "warn"
     }
     ```
+    -->
