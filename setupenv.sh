@@ -21,9 +21,6 @@ function check_node() {
         brew link --force --overwrite node@12
     fi
 
-    # Less verbose output when installing via npm:
-    npm config set loglevel error
-
     # Blank if `v12` not found in output
     check_version="$(node -v | grep 'v12')"
     if [[ -z $check_version ]]; then
@@ -44,9 +41,11 @@ function check_node() {
 
 function install_ganache() {
     if ! command -v ganache-cli &>/dev/null; then
+        # Less verbose output when installing via npm:
+        npm config set loglevel silent
+
         log "⚠️" "Ganache CLI missing; installing now..."
-        export CI=true
-        npm install ganache-cli --global --quiet --silent --no-warnings >>/dev/null
+        npm install ganache-cli --global --silent --no-warning >>/dev/null
     fi
 }
 
