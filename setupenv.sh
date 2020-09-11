@@ -19,8 +19,6 @@ function check_cli_tools() {
     else
         log "⚠️" "XCode Command Line Tools missing; installing now..."
         log "⚠️" "Choose install to download and install the command line developer tools now."
-        instructions 2>/dev/null
-        sleep 45
         xcode-select --install
     fi
 }
