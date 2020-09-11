@@ -61,7 +61,7 @@ Brownie is a **Python-based development and testing framework for smart contract
 
 ## [**15m**] 💻 Activity: Install Brownie & Ganache
 
-### Prerequisites
+### Step 1: Install Prerequisites
 
 **_You only need to run these commands once per computer._**
 
@@ -69,20 +69,31 @@ Brownie is a **Python-based development and testing framework for smart contract
 1. Run `npm install -g ganache-cli` to install Ganache globally.
 1. Run `pip3 install eth-brownie` to install Brownie globally.
 
-### Installation Guide
+### Step 2: Create First Project
+
+**_You only need to run these commands once per project._**
+
+#### Command List
+
+```bash
+$ cd ~/dev
+
+$ brownie bake token
+Brownie v1.11.2 - Python development framework for Ethereum
+
+Downloading from https://github.com/brownie-mix/token-mix/archive/master.zip...
+100%|█████████████████████████████████████████████████████████████████████████████| 9.13k/9.13k [00:00<00:00, 2.60MiB/s]
+SUCCESS: Brownie mix 'token' has been initiated at /Users/dani/dev/token
+
+$ code token
+```
+
+#### Command Description
 
 1. Navigate to the directory where you keep your projects.
 1. Run `brownie bake token` to create your first project.
 1. Run `code token` or `atom token` to open the project directory in your IDE.
 1. **Wait for further instruction.**
-
-### Command List
-
-```bash
-$ cd ~/dev
-$ brownie bake token
-$ code token
-```
 
 <!-- > -->
 
