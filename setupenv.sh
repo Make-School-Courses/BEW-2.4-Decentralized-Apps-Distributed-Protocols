@@ -13,16 +13,6 @@ function banner() {
     echo "" && echo $SEPARATOR && echo -e "$1  $2" && echo $SEPARATOR && echo ""
 }
 
-function check_cli_tools() {
-    if type xcode-select 2>/dev/null >&- && xpath=$(xcode-select --print-path) 2>/dev/null && test -d "${xpath}" 2>/dev/null && test -x "${xpath}" 2>/dev/null; then
-        sleep 3
-    else
-        log "⚠️" "XCode Command Line Tools missing; installing now..."
-        log "⚠️" "Choose install to download and install the command line developer tools now."
-        xcode-select --install
-    fi
-}
-
 function check_node() {
     # If Node isn't installed at all, install v12:
     if ! command -v node &>/dev/null; then
@@ -77,9 +67,6 @@ function show_versions() {
 
 # Show 'wait' message to user:
 banner "⚙️" "Configuring your environment for DApp development, please wait..."
-
-# Check XCode Command Line Tools:
-check_cli_tools
 
 # Check installed Node version:
 check_node
