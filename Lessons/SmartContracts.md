@@ -63,16 +63,14 @@ Brownie is a **Python-based development and testing framework for smart contract
 
 ### Step 1: Install Prerequisites
 
-**_You only need to run these commands once per computer._**
+:1234: **_You only need to run these commands once per computer. Install each in the order listed below:_**
 
-1. You must have XCode installed, along with the command line tools. To install the XCode command line tools, run `xcode-select --install` in your Terminal.
-1. You must use Node v12 in order to execute `ganache-cli`. Check your Node version using `node -v`, then follow the applicable step below:
-   1. **If `node -v` returns `12`**:
-      1. Run `npm install -g ganache-cli` to install Ganache globally.
-   1. **Else**:
-      1. `nvm install 12`
-      1. `nvm use 12 && npm install ganache-cli -g`
-1. Run `pip3 install eth-brownie` to install Brownie globally.
+|         Program | Version  |         Verify          | Install                                                       |
+| --------------: | :------: | :---------------------: | ------------------------------------------------------------- |
+|       **XCode** | _Latest_ |    `xcode-select -v`    | :one: Install via App Store<br>:two: `xcode-select --install` |
+|        **Node** |   `12`   |        `node -v`        | :one: `nvm install 12`<br>:two: `nvm use 12`                  |
+| **Ganache CLI** | _Latest_ | `ganache-cli --version` | :one: `npm install -g ganache-cli`                            |
+|     **Brownie** | _Latest_ |   `brownie --version`   | :one: `pip3 install eth-brownie`                              |
 
 ### Step 2: Create First Project
 
