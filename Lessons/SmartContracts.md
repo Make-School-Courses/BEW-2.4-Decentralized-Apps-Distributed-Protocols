@@ -67,36 +67,68 @@ Brownie is a **Python-based development and testing framework for smart contract
 
 |         Program | Version  |         Verify          | Install                                                       |
 | --------------: | :------: | :---------------------: | ------------------------------------------------------------- |
-|       **XCode** | _Latest_ |    `xcode-select -v`    | :one: Install via App Store<br>:two: `xcode-select --install` |
+|       **XCode** | _Latest_ |    `xcode-select -v`    | :one: [**App Store**: XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12)<br>:two: `xcode-select --install` |
 |        **Node** |   `12`   |        `node -v`        | :one: `nvm install 12`<br>:two: `nvm use 12`                  |
 | **Ganache CLI** | _Latest_ | `ganache-cli --version` | :one: `npm install -g ganache-cli`                            |
 |     **Brownie** | _Latest_ |   `brownie --version`   | :one: `pip3 install eth-brownie`                              |
 
 ### Step 2: Create First Project
 
-**_You only need to run these commands once per project._**
+#### 🛑 Read Before Starting
 
-#### Command List
+- If you **experience any errors** during the project creation process, please **exit the breakout room** for a one on one check in with the instructor.
+- **_You only need to run these commands once per project._**
 
-```bash
-$ cd ~/dev
+#### :1234: Step by Step
 
-$ brownie bake token
-Brownie v1.11.2 - Python development framework for Ethereum
+1. **Run `brownie bake token` to create your first project in a directory that does not contain spaces or periods**:
 
-Downloading from https://github.com/brownie-mix/token-mix/archive/master.zip...
-100%|█████████████████████████████████████████████████████████████████████████████| 9.13k/9.13k [00:00<00:00, 2.60MiB/s]
-SUCCESS: Brownie mix 'token' has been initiated at /Users/dani/dev/token
+    ```bash
+    $ cd ~/dev
+    $ brownie bake token
+    Brownie v1.11.2 - Python development framework for Ethereum
 
-$ code token
-```
+    Downloading from https://github.com/brownie-mix/token-mix/archive/master.zip...
+    100%|█████████████████████████████████████████████████████████████████████████████| 9.13k/9.13k [00:00<00:00, 2.60MiB/s]
+    SUCCESS: Brownie mix 'token' has been initiated at /Users/dani/dev/token
+    ```
 
-#### Command Description
+1. **Navigate to the new `token` directory**:
 
-1. Navigate to the directory where you keep your projects.
-1. Run `brownie bake token` to create your first project.
-1. Run `code token` or `atom token` to open the project directory in your IDE.
-1. **Wait for further instruction.**
+    ```bash
+    cd token
+    ```
+
+1. **Make sure the project is set up correctly by running the Brownie console**:
+
+    ```bash
+    $ brownie console
+    Brownie v1.11.2 - Python development framework for Ethereum
+
+    Compiling contracts...
+      Solc version: 0.6.12
+      Optimizer: Enabled  Runs: 200
+      EVM Version: Istanbul
+    Generating build data...
+    - Token...
+    - SafeMath...
+
+    TokenProject is the active project.
+
+    Launching 'ganache-cli --port 8545 --gasLimit 12000000 --accounts 10 --hardfork istanbul --mnemonic brownie'...
+    Brownie environment is ready.
+    >>>
+    ```
+
+1. **Type `exit()` in the Brownie console, then press `<ENTER>` to quit the Brownie console**.
+
+    ```bash
+    Brownie environment is ready.
+    >>> exit()
+    ```
+
+1. **Open the project directory in your IDE** in order to prepare for the next activity.
+1. **Exit the breakout room when done!**
 
 <!-- > -->
 
