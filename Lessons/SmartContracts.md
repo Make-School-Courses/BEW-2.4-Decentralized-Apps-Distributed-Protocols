@@ -170,8 +170,10 @@ Instructor will answer student questions in the main room before dismissing stud
 
 ## [**03m**] 🌃 After Class: Read the Docs
 
-- **When you've completed the tutorial, visit [Gradescope] and click on the assignment titled [[Day 7] Your First Token](https://www.gradescope.com/courses/160564/assignments/662647). Upload the `Token.json` file, located in the build directory of your `token` project. You MUST successfully run brownie compile inside of the token directory for this file to exist!**
-
+- **When you've completed the tutorial**:
+    1. Visit [Gradescope](https://www.gradescope.com/courses/160564) and click on the assignment titled [[Day 7] Your First Token](https://www.gradescope.com/courses/160564/assignments/662647).
+    1. Upload the `Token.json` file, located in the `build` directory of your `token` project.
+        - **You MUST successfully run `brownie compile` inside of the `token` directory for this file to exist!**
 - **Spend at least `30 minutes` reviewing the [Brownie Documentation](https://eth-brownie.readthedocs.io/en/stable/#features).** Get familiar with the features. Be sure to write down any questions you have so we can discuss them together during the next class!
 
 <!-- > -->
