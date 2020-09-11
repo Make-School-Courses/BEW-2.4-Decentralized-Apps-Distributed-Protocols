@@ -66,7 +66,12 @@ Brownie is a **Python-based development and testing framework for smart contract
 **_You only need to run these commands once per computer._**
 
 1. You must have XCode installed, along with the command line tools. To install the XCode command line tools, run `xcode-select --install` in your Terminal.
-1. Run `npm install -g ganache-cli` to install Ganache globally.
+1. You must use Node v12 in order to execute `ganache-cli`. Check your Node version using `node -v`, then follow the applicable step below:
+   1. **If `node -v` returns `12`**:
+      1. Run `npm install -g ganache-cli` to install Ganache globally.
+   1. **Else**:
+      1. `nvm install 12`
+      1. `nvm use 12 && npm install ganache-cli -g`
 1. Run `pip3 install eth-brownie` to install Brownie globally.
 
 ### Step 2: Create First Project
@@ -180,6 +185,12 @@ Instructor will answer student questions in the main room before dismissing stud
 
 <!-- omit in toc -->
 ## 📚 Resources & Credits
+
+### Student Contributions
+
+- :tada: Shoutout to [@aucoeur](https://github.com/aucoeur) for finding an issue with `ganache-cli` installed alongside Node != v12: [GitHub Issue](https://github.com/trufflesuite/ganache-cli/issues/732#issuecomment-623782405) :tada:
+
+### Referenced Material
 
 - [thecryptoshed/eth-dapp-developer-roadmap](https://github.com/thecryptoshed/eth-dapp-developer-roadmap)
 - [Brownie — Brownie 1.10.4 documentation](https://eth-brownie.readthedocs.io/en/stable/#features)
