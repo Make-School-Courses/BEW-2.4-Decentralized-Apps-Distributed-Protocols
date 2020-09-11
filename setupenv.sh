@@ -45,7 +45,7 @@ function install_ganache() {
         npm config set loglevel silent
 
         log "⚠️" "Ganache CLI missing; installing now..."
-        npm install ganache-cli --global --silent --no-warning
+        npm install ganache-cli --global --silent
     fi
 }
 
