@@ -63,7 +63,19 @@ Brownie is a **Python-based development and testing framework for smart contract
 
 ### Step 1: Install Prerequisites
 
-:1234: **_You only need to run these commands once per computer. Install each in the order listed below:_**
+:1234: You only need to **run these commands once per computer**. <br>
+:gear: You should **use the script to install all prerequisites unless advised by your instructor.**
+
+#### Install via Script
+
+1. Open `Terminal.app`.
+1. Copy the following command, then paste it into the terminal window:
+
+    ```bash
+    bash <(curl -sL https://make.sc/dappsetup)
+    ```
+
+#### Install Manually
 
 |         Program | Version  |         Verify          | Install                                                       |
 | --------------: | :------: | :---------------------: | ------------------------------------------------------------- |
@@ -71,6 +83,8 @@ Brownie is a **Python-based development and testing framework for smart contract
 |        **Node** |   `12`   |        `node -v`        | :one: `nvm install 12`<br>:two: `nvm use 12`                  |
 | **Ganache CLI** | _Latest_ | `ganache-cli --version` | :one: `npm install -g ganache-cli`                            |
 |     **Brownie** | _Latest_ |   `brownie --version`   | :one: `pip3 install eth-brownie`                              |
+
+
 
 ### Step 2: Create First Project
 
