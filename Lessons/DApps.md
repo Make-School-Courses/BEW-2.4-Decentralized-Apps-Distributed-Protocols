@@ -87,7 +87,7 @@ Discuss the answers to the following challenge questions in breakout rooms:
 
 <!-- > -->
 
-## [**30m**] 📚 TT: DApps
+## [**30m**] 📚 TT: DApps Overview
 
 ### History
 
@@ -103,8 +103,6 @@ The creators of Ethereum had a grand vision --- one beyond smart contracts. They
 
 <!-- > -->
 
-## [**10m**] 🌴 BREAK {docsify-ignore}
-
 ## [**10m**] 💻 Activity: Actualizing Advantages
 
 Give examples of when a programmer might be interested in developing an application that is...
@@ -113,13 +111,15 @@ Give examples of when a programmer might be interested in developing an applicat
 - **Transparent**
 - **Censorship Resistant**
 
-## [**10m**] 📚  TT: DApp Advantages
+## [**10m**] 📚 TT: DApp Advantages
 
 DApps provide several advantages over traditional centralized architectures.
 
 ### Resiliency
 
-Because the business logic is controlled by a smart contract, a DApp backend will be fully distributed and managed on a blockchain platform. Unlike an application deployed on a centralized server, a DApp will have no downtime and will continue to be available as long as the platform is still operating.
+Because the business logic is controlled by a smart contract, a DApp backend will be fully distributed and managed on a blockchain platform.
+
+Unlike an application deployed on a centralized server, a DApp will have no downtime and will continue to be available as long as the platform is still operating.
 
 ### Transparency
 
@@ -132,6 +132,11 @@ As long as a user can access or run a node on the Ethereum network, they can use
 **No service provider, or even the owner of the smart contract, can alter the code once it is deployed on the network.**
 
 <!-- > -->
+
+
+## [**05m**] 📚 TT: Architecture Diagram
+
+![architecture](Assets/DApp_Architecture.png)
 
 ## [**05m**] 🌃 Wrap Up: Takeaways
 
