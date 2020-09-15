@@ -10,12 +10,15 @@
 <!-- omit in toc -->
 ## ⏱ Agenda {docsify-ignore}
 
-1. [[**00m**] 🏆 Objectives](#00m-%f0%9f%8f%86-objectives)
-2. [[**00m**] 📖 Overview](#00m-%f0%9f%93%96-overview)
-4. [[**00m**] 💻 Activity](#00m-%f0%9f%92%bb-activity)
-5. [[**10m**] 🌴 BREAK](#10m-%f0%9f%8c%b4-break)
-6. [🌃 After Class](#%f0%9f%8c%83-after-class)
-7. [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
+- [[**00m**] 🏆 Objectives](#00m-%f0%9f%8f%86-objectives)
+- [[**10m**] ☀️ Warm Up: Make Sure Environment is Set Up](#10m-%e2%98%80%ef%b8%8f-warm-up-make-sure-environment-is-set-up)
+- [[**20m**]  💻 Activity: Smart Contracts vs DApps](#20m-%f0%9f%92%bb-activity-smart-contracts-vs-dapps)
+- [[**10m**] 💬 Discuss: Smart Contracts vs DApps](#10m-%f0%9f%92%ac-discuss-smart-contracts-vs-dapps)
+- [[**20m**] 💻 Activity: Architecture Distributions](#20m-%f0%9f%92%bb-activity-architecture-distributions)
+- [[**30m**] 📚 TT: DApps](#30m-%f0%9f%93%9a-tt-dapps)
+- [[**10m**] 🌴 BREAK](#10m-%f0%9f%8c%b4-break-docsify-ignore-docsify-ignore)
+- [🌃 After Class](#%f0%9f%8c%83-after-class)
+- [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
 
 <!-- > -->
 
@@ -32,7 +35,12 @@
 
 <!-- > -->
 
-## [**15m**] ☀️ Warm Up: Smart Contracts vs DApps
+
+## [**10m**] ☀️ Warm Up: Make Sure Environment is Set Up
+
+In breakout rooms, double check that both you and your partner can successfully run `brownie compile` and `brownie run token` commands in the starter project from [last class](SmartContracts.md).
+
+## [**20m**]  💻 Activity: Smart Contracts vs DApps
 
 Watch [Difference between DApps and Smart Contracts? Programmer explains.
 ](https://www.youtube.com/watch?v=4rczD8xKPJc) and answer the following questions:
@@ -43,11 +51,11 @@ Watch [Difference between DApps and Smart Contracts? Programmer explains.
 
 **When you're done, post your list on Slack in the `#bew2-4-dapps` channel.**
 
-## [**10m**] 💬 Discuss: Smart Contracts vs DApps
+## [**10m**] 💬  Discuss: Smart Contracts vs DApps
 
 Ask students to share answers and discuss.
 
-## [**20m**] 💻 Activity: Full Stack Architecture
+## [**20m**] 💻 Activity: Architecture Distributions
 
 Most projects require the following categories in order to be considered full stack applications:
 
@@ -57,20 +65,40 @@ Most projects require the following categories in order to be considered full st
 1. Messaging / notification system
 1. Name resolution
 
-Discuss the answers to the following questions in breakout rooms:
+**Each** could be somewhat centralized or somewhat decentralized.
+
+### Examples
+
+- a frontend web app that runs on a centralized server, or a mobile app
+- backend and data storage on private servers / proprietary databases, or you could use a smart contract and P2P storage
+
+### Challenges
+
+Discuss the answers to the following challenge questions in breakout rooms:
 
 - Which of these categories are **commonly _decentralized_**?
 - For each category, provide at least one example of each that occurs in real life...
-  -  a _centralized_ example
-  -  a _decentralized_ example
+    -  a _centralized_ example
+    -  a _decentralized_ example
 
-Use Google and your experience to help!
+
+**When you're done, post your list on Slack in the `#bew2-4-dapps` channel.**
 
 <!-- > -->
 
-## [**00m**] 💻 Activity
+## [**30m**] 📚 TT: DApps
 
-`TODO`
+### History
+
+> [!NOTE]
+> Web 2.0 began when Web users started to drastically change the way they were using the Web on a day-to-day basis. The main trends that shaped Web 2.0 include content sharing, creativity, segmentation, social components, and a large move from static web sites and tools to more dynamic ones.
+
+The creators of Ethereum had a grand vision --- one beyond smart contracts. They wanted to **invent a new web full of decentralized applications**, and **named this concept `web3`**.
+
+### Key Terms
+
+- **Smart Contracts** are a way to decentralize the controlling logic and payment functions of applications.
+- **Web3 DApps**: are web applications that are mostly or completely decentralized. They decentralize all other aspects of an application: storage, messaging, naming, etc using smart contracts on the backend.
 
 <!-- > -->
 
