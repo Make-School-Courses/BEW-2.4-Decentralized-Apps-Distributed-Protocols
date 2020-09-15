@@ -100,14 +100,6 @@ The creators of Ethereum had a grand vision --- one beyond smart contracts. They
 - **Smart Contracts** are a way to decentralize the controlling logic and payment functions of applications.
 - **Web3 DApps**: are web applications that are mostly or completely decentralized. They decentralize all other aspects of an application: storage, messaging, naming, etc using smart contracts on the backend.
 
-<!-- ### Advantages
-
-#### Resilient
-
-#### Transparent
-
-#### Censorship Resistant -->
-
 <!-- > -->
 
 ## [**10m**] 🌴 BREAK {docsify-ignore}
@@ -119,6 +111,16 @@ Give examples of when a programmer might be interested in developing an applicat
 - **Resilient**
 - **Transparent**
 - **Censorship Resistant**
+
+## [**10m**] 📚  TT: DApp Advantages
+
+DApps provide several advantages over traditional centralized architectures.
+
+### Resiliency
+
+### Transparency
+
+### Censorship Resistance
 
 <!-- > -->
 
