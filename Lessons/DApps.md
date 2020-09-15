@@ -11,14 +11,14 @@
 ## ⏱ Agenda {docsify-ignore}
 
 - [[**10m**] ☀️ Warm Up: Make Sure Environment is Set Up](#10m-%e2%98%80%ef%b8%8f-warm-up-make-sure-environment-is-set-up)
-- [[**20m**]  💻 Activity: Smart Contracts vs DApps](#20m-%f0%9f%92%bb-activity-smart-contracts-vs-dapps)
+- [[**20m**] 💻 Activity: Smart Contracts vs DApps](#20m-%f0%9f%92%bb-activity-smart-contracts-vs-dapps)
 - [[**10m**] 💬  Discuss: Smart Contracts vs DApps](#10m-%f0%9f%92%ac-discuss-smart-contracts-vs-dapps)
 - [[**20m**] 💻 Activity: Architecture Distributions](#20m-%f0%9f%92%bb-activity-architecture-distributions)
-- [[**30m**] 📚 TT: DApps](#30m-%f0%9f%93%9a-tt-dapps)
-- [[**10m**] 🌴 BREAK {docsify-ignore}](#10m-%f0%9f%8c%b4-break-docsify-ignore)
+- [[**30m**] 📚 TT: DApps Overview](#30m-%f0%9f%93%9a-tt-dapps-overview)
 - [[**10m**] 💻 Activity: Actualizing Advantages](#10m-%f0%9f%92%bb-activity-actualizing-advantages)
-- [[**10m**] 📚  TT: DApp Advantages](#10m-%f0%9f%93%9a-tt-dapp-advantages)
-- [🌃 After Class](#%f0%9f%8c%83-after-class)
+- [[**10m**] 📚 TT: DApp Advantages](#10m-%f0%9f%93%9a-tt-dapp-advantages)
+- [[**05m**] 📚 TT: Architecture Diagram](#05m-%f0%9f%93%9a-tt-architecture-diagram)
+- [[**05m**] 🌃 Wrap Up: Takeaways](#05m-%f0%9f%8c%83-wrap-up-takeaways)
 - [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
 
 <!-- > -->
