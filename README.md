@@ -8,10 +8,12 @@
 ## Table of Contents
 
 - [Course Description](#course-description)
+- [Course Specifics](#course-specifics)
 - [Learning Outcomes](#learning-outcomes)
 - [Schedule](#schedule)
 - [Class Assignments](#class-assignments)
 - [Evaluation](#evaluation)
+- [Make School Course Policies](#make-school-course-policies)
 
 ## Course Description
 
@@ -58,8 +60,8 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |   5   | Wed, Sept 2  |            Lab: Finish Tutorial            |
 |   -   | Mon, Sept 7  |          **Holiday - Labor Day**           |
 |   6   | Wed, Sept 9  |                 [Ethereum]                 |
-|   7   | Mon, Sept 14 |    [Developing Smart Contracts]: Day 1     |
-|   8   | Wed, Sept 16 |    [Developing Smart Contracts]: Day 2     |
+|   7   | Mon, Sept 14 |        [Developing Smart Contracts]        |
+|   8   | Wed, Sept 16 |              [Intro to DApps]              |
 |   9   | Mon, Sept 21 |              [Metadata APIs]               |
 |  10   | Wed, Sept 23 |       [Using Contracts in Web Apps]        |
 |  11   | Mon, Sept 28 |         [Testing Smart Contracts]          |
@@ -81,10 +83,10 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |   4   | Tue, Sept 1  |            Lab: Start Tutorial             |
 |   5   | Thu, Sept 3  |            Lab: Finish Tutorial            |
 |   -   | Tue, Sept 8  |                 [Ethereum]                 |
-|   6   | Thu, Sept 10 |    [Developing Smart Contracts]: Day 1     |
-|   7   | Tue, Sept 15 |    [Developing Smart Contracts]: Day 2     |
+|   6   | Thu, Sept 10 |        [Developing Smart Contracts]        |
+|   7   | Tue, Sept 15 |              [Intro to DApps]              |
 |   8   | Thu, Sept 17 |              [Metadata APIs]               |
-|   9   | Tue, Sept 22 |       [Using Contracts in Web Apps]        |
+|   9   | Tue, Sept 22 |                    TBD                     |
 |  10   | Thu, Sept 24 |         [Testing Smart Contracts]          |
 |  11   | Tue, Sept 29 |        [Deploying Smart Contracts]         |
 |  12   | Thu, Oct 1   |               Lab Day / TBD                |
@@ -101,7 +103,6 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
   - You must choose the Solidity version of the tutorial. **DO NOT CHOOSE LIBRA**!
   - **Complete** the **Solidity Path** and the **Hands on Path**.
   - **_Plasma Path is optional._**
-<!-- - **[OpenSea]**: This tutorial will teach you how to build an ERC721 from start to finish, with immediate integration on a popular asset marketplace, [OpenSea](https://opensea.io). -->
 
 ### Assignments
 
@@ -163,6 +164,6 @@ Any additional resources you may need (online books, etc.) can be found here. Yo
 [MakeCoin Project]: Project/MakeCoin.md
 [Testing Smart Contracts]: Lessons/Testing.md
 [MakeCoin Rubric]: https://www.makeschool.com/rubrics/UnVicmljLTE5Mg==
-[Using Contracts in Web Apps]: Lessons/DApps.md
+[Intro to DApps]: Lessons/DApps.md
 [Blockchain]: Lessons/Blockchain.md
 [How to Design a Token]: Lessons/NewToken.md

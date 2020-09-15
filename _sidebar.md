@@ -3,4 +3,5 @@
 - [Day 3: Blockchain](Lessons/Blockchain.md)
 - [Day 6: Ethereum](Lessons/Ethereum.md)
 - [Day 7: Smart Contracts](Lessons/SmartContracts.md)
+- [Day 8: DApps](Lessons/DApps.md)
 - [Final Project: MakeCoin](Project/MakeCoin.md)

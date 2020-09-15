@@ -3,10 +3,7 @@
 
 
 <!-- .slide: data-background="./../Slides/images/header.svg" data-background-repeat="none" data-background-size="40% 40%" data-background-position="center 10%" class="header" -->
-# ⛓ Integrating Contracts in Web Apps
-
-> [!NOTE]
-> This plan is a work in progress. Please check back at the start of class for updates.
+# ⛓ Introduction to DApps
 
 <!-- > -->
 
@@ -35,23 +32,39 @@
 
 <!-- > -->
 
-## [**00m**] 📖 Overview
+## [**15m**] ☀️ Warm Up: Smart Contracts vs DApps
 
-`TODO`
+Watch [Difference between DApps and Smart Contracts? Programmer explains.
+](https://www.youtube.com/watch?v=4rczD8xKPJc) and answer the following questions:
 
-<!-- > -->
+1. In your notebook, **list everything you know** about **Smart Contracts** and **DApps**.
+1. How are the two terms **similar**?
+1. How are they **different**?
 
-## [**00m**] ✓ Review
+**When you're done, post your list on Slack in the `#bew2-4-dapps` channel.**
 
-<details><summary>SHOW CODE</summary>
-<p>
+## [**10m**] 💬 Discuss: Smart Contracts vs DApps
 
-```python
-print("hello world!")
-```
+Ask students to share answers and discuss.
 
-</p>
-</details>
+## [**20m**] 💻 Activity: Full Stack Architecture
+
+Most projects require the following categories in order to be considered full stack applications:
+
+1. Backend
+1. Frontend
+1. Data storage
+1. Messaging / notification system
+1. Name resolution
+
+Discuss the answers to the following questions in breakout rooms:
+
+- Which of these categories are **commonly _decentralized_**?
+- For each category, provide at least one example of each that occurs in real life...
+  -  a _centralized_ example
+  -  a _decentralized_ example
+
+Use Google and your experience to help!
 
 <!-- > -->
 
