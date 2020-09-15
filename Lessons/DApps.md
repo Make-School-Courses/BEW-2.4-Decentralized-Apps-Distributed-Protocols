@@ -133,9 +133,12 @@ As long as a user can access or run a node on the Ethereum network, they can use
 
 <!-- > -->
 
-## 🌃 After Class
+## [**05m**] 🌃 Wrap Up: Takeaways
 
-`TODO`
+- DApps are the **culmination of the Ethereum vision**; explored in the earliest design phases of Ethereum.
+- Many apps call themselves “DApps” today --- _**most are NOT 100% decentralized**_.
+- **Today**, it's 100% possible to write applications that are nearly entirely decentralized.
+- **In the future**, as the technology matures further, more and more of our applications can be decentralized, resulting in a more resilient, censorship-resistant, and free web.
 
 <!-- > -->
 
