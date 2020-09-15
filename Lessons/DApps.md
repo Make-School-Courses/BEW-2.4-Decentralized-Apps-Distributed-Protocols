@@ -112,7 +112,7 @@ The creators of Ethereum had a grand vision --- one beyond smart contracts. They
 
 ## [**10m**] 🌴 BREAK {docsify-ignore}
 
-## [**20m**] 💻 Activity: Actualizing Advantages
+## [**10m**] 💻 Activity: Actualizing Advantages
 
 Give examples of when a programmer might be interested in developing an application that is...
 
