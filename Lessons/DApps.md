@@ -63,7 +63,7 @@ Most projects require the following categories in order to be considered full st
 1. Backend
 1. Frontend
 1. Data storage
-1. Messaging / notification system
+1. Inter-process messaging
 1. Name resolution
 
 **Each** could be somewhat centralized or somewhat decentralized.
@@ -119,9 +119,17 @@ DApps provide several advantages over traditional centralized architectures.
 
 ### Resiliency
 
+Because the business logic is controlled by a smart contract, a DApp backend will be fully distributed and managed on a blockchain platform. Unlike an application deployed on a centralized server, a DApp will have no downtime and will continue to be available as long as the platform is still operating.
+
 ### Transparency
 
+The on-chain nature of a DApp allows everyone to inspect the code and be more sure about its function. Any interaction with the DApp will be stored forever in the blockchain.
+
 ### Censorship Resistance
+
+As long as a user can access or run a node on the Ethereum network, they can use DApps without interference from any centralized control.
+
+**No service provider, or even the owner of the smart contract, can alter the code once it is deployed on the network.**
 
 <!-- > -->
 
@@ -133,4 +141,7 @@ DApps provide several advantages over traditional centralized architectures.
 
 ## 📚 Resources & Credits
 
-`TODO`
+### Books
+
+- **Mastering Ethereum**: _Building Smart Contracts and DApps_; Andreas M. Antonopoulos. _Published 2019_.
+
