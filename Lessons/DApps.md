@@ -10,13 +10,14 @@
 <!-- omit in toc -->
 ## ⏱ Agenda {docsify-ignore}
 
-- [[**00m**] 🏆 Objectives](#00m-%f0%9f%8f%86-objectives)
 - [[**10m**] ☀️ Warm Up: Make Sure Environment is Set Up](#10m-%e2%98%80%ef%b8%8f-warm-up-make-sure-environment-is-set-up)
 - [[**20m**]  💻 Activity: Smart Contracts vs DApps](#20m-%f0%9f%92%bb-activity-smart-contracts-vs-dapps)
-- [[**10m**] 💬 Discuss: Smart Contracts vs DApps](#10m-%f0%9f%92%ac-discuss-smart-contracts-vs-dapps)
+- [[**10m**] 💬  Discuss: Smart Contracts vs DApps](#10m-%f0%9f%92%ac-discuss-smart-contracts-vs-dapps)
 - [[**20m**] 💻 Activity: Architecture Distributions](#20m-%f0%9f%92%bb-activity-architecture-distributions)
 - [[**30m**] 📚 TT: DApps](#30m-%f0%9f%93%9a-tt-dapps)
-- [[**10m**] 🌴 BREAK](#10m-%f0%9f%8c%b4-break-docsify-ignore-docsify-ignore)
+- [[**10m**] 🌴 BREAK {docsify-ignore}](#10m-%f0%9f%8c%b4-break-docsify-ignore)
+- [[**10m**] 💻 Activity: Actualizing Advantages](#10m-%f0%9f%92%bb-activity-actualizing-advantages)
+- [[**10m**] 📚  TT: DApp Advantages](#10m-%f0%9f%93%9a-tt-dapp-advantages)
 - [🌃 After Class](#%f0%9f%8c%83-after-class)
 - [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
 
