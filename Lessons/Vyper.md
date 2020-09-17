@@ -97,22 +97,11 @@ This [Ether faucet](https://faucet.rinkeby.io) is running on the Rinkeby network
 
 #### Run the Deploy Command
 
-Add the following network configuration to `brownie-config.yaml`:
-
-```yaml
-network:
-  default: rinkeby
-  networks:
-    rinkeby:
-      host: http://rinkeby.infura.io/v3/$WEB3_INFURA_PROJECT_ID
-```
-
 Then **run the following commands** in order:
 
 ```bash
 $ export WEB3_INFURA_PROJECT_ID=projectid
-$ brownie --network rinkeby
-$ brownie run token
+$ brownie run token --network rinkeby
 Brownie v1.11.3 - Python development framework for Ethereum
 
 TokenProject is the active project.
