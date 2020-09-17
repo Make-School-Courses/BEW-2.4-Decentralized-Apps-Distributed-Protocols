@@ -4,5 +4,6 @@
 - [Day 6: Ethereum](Lessons/Ethereum.md)
 - [Day 7: Smart Contracts](Lessons/SmartContracts.md)
 - [Day 8: DApps](Lessons/DApps.md)
+- [Day 9: More Ways to Write Contracts](Lessons/Vyper.md)
 - [MetaMask Tips and Tricks](Lessons/MetaMask.md)
 - [Final Project: MakeCoin](Project/MakeCoin.md)

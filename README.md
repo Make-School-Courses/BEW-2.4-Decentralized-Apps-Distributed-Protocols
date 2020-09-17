@@ -12,6 +12,9 @@
 - [Learning Outcomes](#learning-outcomes)
 - [Schedule](#schedule)
 - [Class Assignments](#class-assignments)
+  - [Tutorials](#tutorials)
+  - [Assignments](#assignments)
+  - [Final Project](#final-project)
 - [Evaluation](#evaluation)
 - [Make School Course Policies](#make-school-course-policies)
 
@@ -62,8 +65,8 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |   6   | Wed, Sept 9  |                 [Ethereum]                 |
 |   7   | Mon, Sept 14 |        [Developing Smart Contracts]        |
 |   8   | Wed, Sept 16 |              [Intro to DApps]              |
-|   9   | Mon, Sept 21 |              [Metadata APIs]               |
-|  10   | Wed, Sept 23 |       [Using Contracts in Web Apps]        |
+|   9   | Mon, Sept 21 |       [More Ways to Write Contracts]       |
+|  10   | Wed, Sept 23 |              [Metadata APIs]               |
 |  11   | Mon, Sept 28 |         [Testing Smart Contracts]          |
 |  12   | Wed, Sept 30 |        [Deploying Smart Contracts]         |
 |  13   |  Mon, Oct 5  |               Lab Day / TBD                |
@@ -85,8 +88,8 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |   -   | Tue, Sept 8  |                 [Ethereum]                 |
 |   6   | Thu, Sept 10 |        [Developing Smart Contracts]        |
 |   7   | Tue, Sept 15 |              [Intro to DApps]              |
-|   8   | Thu, Sept 17 |              [Metadata APIs]               |
-|   9   | Tue, Sept 22 |                    TBD                     |
+|   8   | Thu, Sept 17 |       [More Ways to Write Contracts]       |
+|   9   | Tue, Sept 22 |              [Metadata APIs]               |
 |  10   | Thu, Sept 24 |         [Testing Smart Contracts]          |
 |  11   | Tue, Sept 29 |        [Deploying Smart Contracts]         |
 |  12   | Thu, Oct 1   |               Lab Day / TBD                |
@@ -167,3 +170,4 @@ Any additional resources you may need (online books, etc.) can be found here. Yo
 [Intro to DApps]: Lessons/DApps.md
 [Blockchain]: Lessons/Blockchain.md
 [How to Design a Token]: Lessons/NewToken.md
+[More Ways to Write Contracts]: Lessons/Vyper.md
