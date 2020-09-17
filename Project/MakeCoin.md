@@ -9,10 +9,17 @@ _Design and mint your very own [ERC-20](https://docs.openzeppelin.com/contracts/
 ## Table of Contents {docsify-ignore}
 
 - [:one: Overview](#1%ef%b8%8f%e2%83%a3-overview)
+  - [Guidelines](#guidelines)
 - [:two: Getting Started](#2%ef%b8%8f%e2%83%a3-getting-started)
+  - [Ideas](#ideas)
+  - [Examples](#examples)
 - [:three: Deliverables](#3%ef%b8%8f%e2%83%a3-deliverables)
+  - [Code](#code)
+  - [Demo](#demo)
 - [:four: Evaluation](#4%ef%b8%8f%e2%83%a3-evaluation)
 - [:five: Resources](#5%ef%b8%8f%e2%83%a3-resources)
+  - [🤑 Get ETH: Faucets](#%f0%9f%a4%91-get-eth-faucets)
+  - [:genie: Frontend: DApp Generators](#genie-frontend-dapp-generators)
 
 ## :one: Overview
 
@@ -45,11 +52,11 @@ Here are some ideas to get you started:
 > [!DANGER]
 > Both deliverables must be submitted to pass the project.
 
-### 1️⃣ Code
+### Code
 
 Your codebase must be submitted on [Gradescope] no later than **Friday, October 10**<sup>th</sup> @ **11:59PM PST**.
 
-### 2️⃣ Demo
+### Demo
 
 On the last day of the course, each team is required to present a **pre-recorded demonstration** (6 - 9 mins) of their ÐApp.
 
