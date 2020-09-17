@@ -6,13 +6,22 @@ _Design and mint your very own [ERC-20](https://docs.openzeppelin.com/contracts/
 > This document is a work in progress.
 
 <!-- omit in toc -->
-## Project Information {docsify-ignore}
+## Table of Contents {docsify-ignore}
 
-- [Getting Started](#getting-started)
-- [Deliverables](#deliverables)
-- [Evaluation](#evaluation)
+- [:one: Overview](#1%ef%b8%8f%e2%83%a3-overview)
+- [:two: Getting Started](#2%ef%b8%8f%e2%83%a3-getting-started)
+- [:three: Deliverables](#3%ef%b8%8f%e2%83%a3-deliverables)
+- [:four: Evaluation](#4%ef%b8%8f%e2%83%a3-evaluation)
+- [:five: Resources](#5%ef%b8%8f%e2%83%a3-resources)
 
-## Getting Started
+## :one: Overview
+
+### Guidelines
+
+- You can work **solo** or **in pairs** with another student.
+- You may partner with students in other sections of this course.
+
+## :two: Getting Started
 
 `TODO`: Introduce project.
 
@@ -31,7 +40,7 @@ Here are some ideas to get you started:
 - [Decentraland](https://market.decentraland.org/)
 - [Ethermon](https://www.etheremon.com/)
 
-## Deliverables
+## :three: Deliverables
 
 > [!DANGER]
 > Both deliverables must be submitted to pass the project.
@@ -42,7 +51,7 @@ Your codebase must be submitted on [Gradescope] no later than **Friday, October 
 
 ### 2️⃣ Demo
 
-On the last day of the course, each team is required to present a demonstration (6 - 9 mins) of their ÐApp.
+On the last day of the course, each team is required to present a **pre-recorded demonstration** (6 - 9 mins) of their ÐApp.
 
 **_All presentations should include..._**
 
@@ -57,7 +66,7 @@ On the last day of the course, each team is required to present a demonstration 
    1. Next steps for the project
    1. Each partner writes a custom shoutout for one another
 
-## Evaluation
+## :four: Evaluation
 
 > [!DANGER]
 > Must score `>36` points on this project to pass the course.
@@ -66,3 +75,14 @@ Both your project and presentation will be scored according to the MakeCoin [rub
 
 [rubric]: https://www.makeschool.com/rubrics/UnVicmljLTE5Mg==
 [Gradescope]: https://make.sc/bew2.4-gradescope
+
+## :five: Resources
+
+### 🤑 Get ETH: Faucets
+
+- <https://faucet.rinkeby.io>
+
+### :genie: Frontend: DApp Generators
+
+- <https://oneclickdapp.com>
+- <https://www.dapphero.io>

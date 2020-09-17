@@ -3,6 +3,20 @@
 > [!NOTE]
 > This plan is a work in progress. Please check back at the start of class for updates.
 
+## Sync Browser Extension and Mobile App
+
+:link: **SOURCE**: [metamask.zendesk.com](https://metamask.zendesk.com/hc/en-us/articles/360032378452-How-to-Sync-with-MetaMask-Extension)
+
+1. **Select `Sync or import your wallet` the first time MetaMask launches on your mobile device.**
+1. On your computer, **open the extension** in your browser.
+1. Go to `Settings` > `Advanced`
+1. Click on `Sync with Mobile`
+1. **Scan the QR Code to start syncing**
+
+Alternatively, you can tap "Import using seed phrase" or go back and tap "Start exploring" to use a new wallet.
+
+NOTE: Only accounts tied to the seed phrase, and loose accounts imported via private key or json will sync.  If you have a hardware wallet connected to MetaMask, that will not sync at this time.
+
 ## Basic Safety Tips
 
 :link: **SOURCE**: [metamask.zendesk.com](https://metamask.zendesk.com/hc/en-us/articles/360015489591-Basic-Safety-Tips)
@@ -16,9 +30,9 @@
 
 ### Back Up Your Seed Phrase
 
-The use of seed phrase is a standard most crypto\-wallets use. It's generated randomly when you create a MetaMask account, which is unique, and serves to generate addresses.
+The use of seed phrase is a standard most crypto wallets use. It's generated randomly when you create a MetaMask account, which is unique, and serves to generate addresses.
 
-When you create a MetaMask wallet, you will be given your 12\-word seed phrase. MetaMask does not control any of your personal/private data on our servers. Everything is encrypted on your browser and protected via your MetaMask password. So, when you lose your MetaMask accounts, and need to restore MetaMask, you could only do that with your seed phrase.
+When you create a MetaMask wallet, you will be given your 12 word seed phrase. MetaMask does not control any of your personal/private data on our servers. Everything is encrypted on your browser and protected via your MetaMask password. So, when you lose your MetaMask accounts, and need to restore MetaMask, you could only do that with your seed phrase.
 
 [How To Reveal (and save) Your Seed Phrase](/hc/en-us/articles/360015290032-How-to-Reveal-Your-Seed-Phrase)
 
@@ -63,7 +77,7 @@ While this is possible using our UI with the Add Token button, that process can 
 
 :link: **SOURCE**: [docs.metamask.io](https://docs.metamask.io/guide/registering-function-names.html#registering-your-contract-s-method-names)
 
-MetaMask uses the Parity on\-chain registry of function signatures to display method names on the confirm screen. For many common method names, like token methods, this allows MetaMask to successfully look up the method names by their [method signature](https://solidity.readthedocs.io/en/v0.4.21/abi-spec.html) . However, sometimes you're using a method that is not in that on\-chain registry, and MetaMask will simply display `Contract Interaction` to the user.
+MetaMask uses the Parity on chain registry of function signatures to display method names on the confirm screen. For many common method names, like token methods, this allows MetaMask to successfully look up the method names by their [method signature](https://solidity.readthedocs.io/en/v0.4.21/abi-spec.html) . However, sometimes you're using a method that is not in that on chain registry, and MetaMask will simply display `Contract Interaction` to the user.
 
 To add your contract's function names to this registry so it shows in the MetaMask interface, follow the below steps.
 
