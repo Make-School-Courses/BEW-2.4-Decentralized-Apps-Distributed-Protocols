@@ -12,9 +12,6 @@
 - [Learning Outcomes](#learning-outcomes)
 - [Schedule](#schedule)
 - [Class Assignments](#class-assignments)
-  - [Tutorials](#tutorials)
-  - [Assignments](#assignments)
-  - [Final Project](#final-project)
 - [Evaluation](#evaluation)
 - [Make School Course Policies](#make-school-course-policies)
 
@@ -66,9 +63,9 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |   7   | Mon, Sept 14 |        [Developing Smart Contracts]        |
 |   8   | Wed, Sept 16 |              [Intro to DApps]              |
 |   9   | Mon, Sept 21 |       [More Ways to Write Contracts]       |
-|  10   | Wed, Sept 23 |              [Metadata APIs]               |
+|  10   | Wed, Sept 23 |         [Testnets & Deployment]            |
 |  11   | Mon, Sept 28 |         [Testing Smart Contracts]          |
-|  12   | Wed, Sept 30 |        [Deploying Smart Contracts]         |
+|  12   | Wed, Sept 30 |        [Metadata APIs]       |
 |  13   |  Mon, Oct 5  |               Lab Day / TBD                |
 |  14   |  Wed, Oct 7  |            Final Presentations             |
 
@@ -89,9 +86,9 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 |   6   | Thu, Sept 10 |        [Developing Smart Contracts]        |
 |   7   | Tue, Sept 15 |              [Intro to DApps]              |
 |   8   | Thu, Sept 17 |       [More Ways to Write Contracts]       |
-|   9   | Tue, Sept 22 |              [Metadata APIs]               |
+|   9   | Tue, Sept 22 |         [Testnets & Deployment]               |
 |  10   | Thu, Sept 24 |         [Testing Smart Contracts]          |
-|  11   | Tue, Sept 29 |        [Deploying Smart Contracts]         |
+|  11   | Tue, Sept 29 |        [Metadata APIs]        |
 |  12   | Thu, Oct 1   |               Lab Day / TBD                |
 |  13   | Tue, Oct 6   |                    TBD                     |
 |  14   | Thu, Oct 8   |            Final Presentations             |
@@ -159,7 +156,7 @@ Any additional resources you may need (online books, etc.) can be found here. Yo
 [Gradescope]: https:/make.sc/bew2.4-gradescope
 [Introduction to Protocols]: Lessons/IntroProtocols.md
 [Fantastic Protocols & Where to Find Them]: https://docs.google.com/presentation/d/1KtQYUB2DpkuKwtmvfSaV9GHAbS7VtKh6GlBdMRLWmV0
-[Deploying Smart Contracts]: Lessons/Deploy.md
+[Testnets & Deployment]: Lessons/Deploy.md
 [Developing Smart Contracts]: Lessons/SmartContracts.md
 [Introduction to Solidity]: Lessons/Solidity.md
 [Ethereum]: Lessons/Ethereum.md
