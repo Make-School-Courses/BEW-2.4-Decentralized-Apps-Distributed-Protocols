@@ -154,9 +154,21 @@ Why do you think we imported an existing account instead of creating a new one?
     $ brownie console --network rinkeby
     ```
 
-    💰  **CHALLENGE**: Using the Brownie console, find your account and print out the balance.
+## [**35m**] Activity: Deployment Challenges
 
-1. Run `brownie run token --network rinkeby` to **deploy**!
+1. Using the Brownie console, **find your account and print out the balance**.
+
+    🤔 **HINT**: Use [**`Accounts.load()`**](https://eth-brownie.readthedocs.io/en/stable/api-network.html#Accounts.load)!
+
+1. Using the code you just wrote, change the deployment script in `deploy/token.py`: to load your account, then use it to deploy the contract.
+1. Run `brownie run token --network rinkeby` to **deploy** and see if your modifications worked!
+1. If you receive an error like below, keep working on the code. You haven't loaded an account successfully yet!
+
+    ```bash
+        File "brownie/network/account.py", line 101, in __getitem__
+          return self._accounts[key]
+      IndexError: list index out of range
+      ```
 
 <!-- > -->
 
