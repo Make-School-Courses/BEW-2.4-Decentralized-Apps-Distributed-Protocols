@@ -43,6 +43,9 @@ Alongside automated test cases, it’s **important to run your ÐApp on a test n
 1. Sign up for [Infura](https://infura.io).
 1. Create a new project (name it anything you want --- you can delete it later).
 1. Find the project ID and write it down in your notes for use later on in today's activities.
+1. Use the video below if you get stuck:
+
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/z-lRuKBimW8" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## [**30m**] 📖 Overview: Test Networks
 
