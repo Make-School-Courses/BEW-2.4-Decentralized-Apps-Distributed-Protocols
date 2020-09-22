@@ -2,13 +2,13 @@
 
 ## ⏱ Agenda
 
-1. [⏱ Agenda](#%E2%8F%B1-Agenda)
-2. [🏆 [5m] Learning Objectives](#%F0%9F%8F%86-5m-Learning-Objectives)
-3. [📖 [15m] Overview](#%F0%9F%93%96-15m-Overview)
-4. [💻 [60m] In Class Activity](#%F0%9F%92%BB-60m-In-Class-Activity)
-5. [🌴 [10m] BREAK](#%F0%9F%8C%B4-10m-BREAK)
-6. [📖 [20m] Code Walkthrough](#%F0%9F%93%96-20m-Code-Walkthrough)
-7. [📚 Resources & Credits](#%F0%9F%93%9A-Resources--Credits)
+- [⏱ Agenda](#%e2%8f%b1-agenda)
+- [🏆 [5m] Learning Objectives](#%f0%9f%8f%86-5m-learning-objectives)
+- [📖 [15m] Overview](#%f0%9f%93%96-15m-overview)
+- [💻 [60m] In Class Activity](#%f0%9f%92%bb-60m-in-class-activity)
+- [🌴 [10m] BREAK](#%f0%9f%8c%b4-10m-break)
+- [📖 [20m] Code Walkthrough](#%f0%9f%93%96-20m-code-walkthrough)
+- [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
 
 ## 🏆 [5m] Learning Objectives
 

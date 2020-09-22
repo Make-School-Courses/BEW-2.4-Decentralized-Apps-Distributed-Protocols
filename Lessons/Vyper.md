@@ -61,8 +61,6 @@
 
 <!-- ## [**20m**] :speech_balloon: **TT**: Topic -->
 
-## [**15m**] :palm_tree: **BREAK** {docsify-ignore}
-
 <!-- > -->
 
 <!-- ## [**10m**] :arrows_counterclockwise: **Recap**: Today's Takeaways -->
@@ -72,55 +70,6 @@
 <!-- > -->
 
 <!-- omit in toc -->
-
-## [**25m**] :eyes: **Demo**: Deploying on Rinkeby
-
-### :one: Get Gas Money
-
-This [Ether faucet](https://faucet.rinkeby.io) is running on the Rinkeby network. To prevent malicious actors from exhausting all available funds or accumulating enough Ether to mount long running spam attacks, requests are tied to common 3rd party social network accounts. Anyone having a Twitter or Facebook account may request funds within the permitted limits.
-
-- First, copy your Ethereum address from MetaMask.
-- To request funds via **Twitter**:
-  - Make a [tweet](https://twitter.com/intent/tweet?text=Requesting%20faucet%20funds%20into%200x0000000000000000000000000000000000000000%20on%20the%20%23Rinkeby%20%23Ethereum%20test%20network.) with your MetaMask Ethereum address pasted into the contents (surrounding text doesn't matter).
-  - Copy-paste the tweet URL into the input box at the top and press `Give Me Ether`.
-- To request funds via **Facebook**:
-  - Publish a new **public** post with your MetaMask Ethereum address embedded into the content (surrounding text doesn't matter).
-  - Copy-paste the post URL into the input box at the top and press `Give Me Ether`.
-
-### :two: Deploy the Token
-
-#### Set Up Cloud Hosting
-
-- Sign up for [https://infura.io]
-- Create a new project
-- Copy the project ID
-
-#### Run the Deploy Command
-
-Then **run the following commands** in order:
-
-```bash
-$ export WEB3_INFURA_PROJECT_ID=projectid
-$ brownie run token --network rinkeby
-Brownie v1.11.3 - Python development framework for Ethereum
-
-TokenProject is the active project.
-
-Launching 'ganache-cli --port 8545 --gasLimit 12000000 --accounts 10 --hardfork istanbul --mnemonic brownie'...
-
-Running 'scripts/token.py::main'...
-Transaction sent: 0x3d0f3b5233166dc034ed698b9982f7e67fd67063c10140ccaf9764e30a0e2f66
-  Gas price: 0.0 gwei   Gas limit: 12000000
-  Token.constructor confirmed - Block: 1   Gas used: 516375 (4.30%)
-  Token deployed at: 0x3194cBDC3dbcd3E11a07892e7bA5c3394048Cc87
-
-Terminating local RPC client...
-```
-
-### :three: Generate a Web3 Front End
-
-- <https://oneclickdapp.com>
-- <https://www.dapphero.io>
 
 ## 📚 Resources & Credits
 
