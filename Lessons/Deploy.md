@@ -165,13 +165,30 @@ Why do you think we imported an existing account instead of creating a new one?
 
 1. Using the code you just wrote, change the deployment script in `deploy/token.py`: to load your account, then use it to deploy the contract.
 1. Run `brownie run token --network rinkeby` to **deploy** and see if your modifications worked!
-1. If you receive an error like below, keep working on the code. You haven't loaded an account successfully yet!
+
+    :green_circle: If you receive output like this, it worked!
+
+    ```bash
+    $ Brownie v1.11.3 - Python development framework for Ethereum
+
+   TokenProject is the active project.
+   Enter the password to unlock this account:
+
+   Running 'scripts/token.py::main'...
+   Transaction sent: 0xea1ff5050a8ab83069d643a1c147753578f5be1267130dc1eab81e84c085cccf
+     Gas price: 1.0 gwei   Gas limit: 568012
+   Waiting for confirmation...
+     Token.constructor confirmed - Block: 7243486   Gas used: 516375 (90.91%)
+     Token deployed at: 0x7E1c0953A72659DD64d05f98dA302D93491E3601
+    ```
+
+    :red_circle: **If you receive an error like below, keep working on the code**. You haven't loaded an account successfully yet!
 
     ```bash
         File "brownie/network/account.py", line 101, in __getitem__
           return self._accounts[key]
       IndexError: list index out of range
-      ```
+   ```
 
 <!-- > -->
 
