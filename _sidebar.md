@@ -5,6 +5,6 @@
 - [Day 07: Smart Contracts](Lessons/SmartContracts.md)
 - [Day 08: DApps](Lessons/DApps.md)
 - [Day 09: More Ways to Write Contracts](Lessons/Vyper.md)
-- [Day 10: Testnets & Deployment](Lessons/Vyper.md)
+- [Day 10: Testnets & Deployment](Lessons/Deploy.md)
 - [MetaMask Tips and Tricks](Lessons/MetaMask.md)
 - [Final Project: MakeCoin](Project/MakeCoin.md)
