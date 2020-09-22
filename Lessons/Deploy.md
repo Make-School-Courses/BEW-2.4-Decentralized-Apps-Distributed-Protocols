@@ -109,6 +109,12 @@ This [Ether faucet](https://faucet.rinkeby.io) is running on the Rinkeby network
   - Publish a new **public** post with your MetaMask Ethereum address embedded into the content (surrounding text doesn't matter).
   - Copy-paste the post URL into the input box at the top and press `Give Me Ether`.
 
+<!-- > -->
+
+## [**15m**] 🌴 BREAK
+
+<!-- > -->
+
 ## [**25m**] 💻 Activity: Import Account to Brownie
 
 ### Import Instructions
@@ -138,12 +144,11 @@ Why do you think we imported an existing account instead of creating a new one?
 
 <!-- > -->
 
-## [**15m**] 🌴 BREAK
 
-<!-- > -->
 
 ## [**30m**] 📖 Overview: Deployment
 
+1. If missing inside the `contracts` folder, add `Token.sol` to the project again: [code here](https://gist.github.com/droxey/b7764944b39973fbe4f5275e4bb5b584).
 1. Select a testnet. In class, we'll use **Rinkeby** --- where we just received funds from the faucet.
 1. **Export `WEB3_INFURA_PROJECT_ID`** for use by Brownie. Replace `YOUR_PROJECT_ID` with the one you copied during today's warmup:
 
