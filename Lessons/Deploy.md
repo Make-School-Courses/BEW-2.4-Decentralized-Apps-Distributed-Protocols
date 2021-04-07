@@ -10,9 +10,10 @@
 - [[**20m**] ☀️ Warm Up: Set Up Testnet Access](#20m-%e2%98%80%ef%b8%8f-warm-up-set-up-testnet-access)
 - [[**30m**] 📖 Overview: Test Networks](#30m-%f0%9f%93%96-overview-test-networks)
 - [[**20m**] 💻 Activity: Get Gas Money](#20m-%f0%9f%92%bb-activity-get-gas-money)
-- [[**25m**] 💻 Activity: Import Account to Brownie](#25m-%f0%9f%92%bb-activity-import-account-to-brownie)
 - [[**15m**] 🌴 BREAK](#15m-%f0%9f%8c%b4-break)
+- [[**25m**] 💻 Activity: Import Account to Brownie](#25m-%f0%9f%92%bb-activity-import-account-to-brownie)
 - [[**30m**] 📖 Overview: Deployment](#30m-%f0%9f%93%96-overview-deployment)
+- [[**35m**] Activity: Deployment Challenges](#35m-activity-deployment-challenges)
 - [📚 Resources & Credits](#%f0%9f%93%9a-resources--credits)
 
 <!-- > -->
