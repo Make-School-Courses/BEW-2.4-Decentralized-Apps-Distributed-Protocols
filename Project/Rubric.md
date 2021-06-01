@@ -5,7 +5,7 @@
 |   ≤ `32`    | Greater than `32` ≤ `42` | Greater than `42` ≤ `52` | Greater than `52` ≤ `64` |       `00` |
 
 
-|                                               Category |             0              |                              1                               |                              2                               |                              3                               | Score |
+|                                               Category |         0: Missing         |                              1                               |                              2                               |                              3                               | Score |
 | -----------------------------------------------------: | :------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | ----: |
 |                             **Contract &<br /> Token** |        No contract.        | Project contains a valid ERC-20, ERC-721, or ERC-1155 token with one function defined in the Smart Contract. |              Two functions defined in contract.              | Three or more functions defined in contract and/or more than one token used in project. |   `0` |
 |                                      **Test Coverage** |         No tests.          |          Fewer tests than smart contract functions.          |        One test written per smart contract function.         |    Two or more tests written per smart contract function.    |   `0` |

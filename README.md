@@ -7,13 +7,17 @@
 <!-- omit in toc -->
 ## Table of Contents
 
-- [Course Description](#course-description)
-- [Course Specifics](#course-specifics)
-- [Learning Outcomes](#learning-outcomes)
-- [Schedule](#schedule)
-- [Class Assignments](#class-assignments)
-- [Evaluation](#evaluation)
-- [Make School Course Policies](#make-school-course-policies)
+1. [Course Description](#course-description)
+1. [Prerequisites](#prerequisites)
+1. [Course Specifics](#course-specifics)
+1. [Learning Outcomes](#learning-outcomes)
+1. [Schedule](#schedule)
+1. [Class Assignments](#class-assignments)
+   1. [Tutorials](#tutorials)
+   1. [Assignments](#assignments)
+   1. [Final Project](#final-project)
+1. [Evaluation](#evaluation)
+1. [Make School Course Policies](#make-school-course-policies)
 
 ## Course Description
 
@@ -21,15 +25,14 @@ In this course, students will learn how to utilize a fresh, exciting new develop
 
 Students will learn how to write smart contracts, tokens, and other cryptographic assets using smart contracts written in Solidity --- quickly enabling each student to invent and produce the decentralized holdings of their dreams!
 
-<!-- omit in toc -->
-### Prerequisites
+## Prerequisites
 
-- [BEW 1.2](https://make.sc/bew1.2)
+- [BEW 1.3](https://make.sc/bew1.3)
+- [CS 1.3](https://make.sc/cs1.3)
 
 ## Course Specifics
 
-**Course Delivery**: online | 7 weeks | 14 sessions
-
+**Course Delivery**: online | 7 weeks | 14 sessions<br>
 **Course Credits**: 3 units | 37.5 Seat Hours | 75 Total Hours
 
 ## Learning Outcomes
@@ -44,56 +47,28 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 
 ## Schedule
 
-<!-- tabs:start -->
 <!-- omit in toc -->
-### **🅰️ Section A: Monday + Wednesday**
+### Class Sessions
 
-**Course Dates:** Wednesday, August 19 through Wednesday, October 7, 2020  _(7 weeks)_<br>
-**Class Times:** Monday &amp; Wednesday from 2:30 to 5:15pm _(14 class sessions)_
+**Course Dates:** Tuesday, June 1 through Thursday, July 15, 2021  _(7 weeks)_<br>
+**Class Times:** Tuesday  &amp; Thursday from 2:30pm to 4:00pm PST _(14 class sessions)_
 
-| Class |     Date     |                   Topics                   |
-| :---: | :----------: | :----------------------------------------: |
-|   1   | Wed, Aug 19  |        [Introduction to Protocols]         |
-|   2   | Mon, Aug 24  | [Fantastic Protocols & Where to Find Them] |
-|   3   | Wed, Aug 26  |                [Blockchain]                |
-|   4   | Mon, Aug 31  |            Lab: Start Tutorial             |
-|   5   | Wed, Sept 2  |            Lab: Finish Tutorial            |
-|   -   | Mon, Sept 7  |          **Holiday - Labor Day**           |
-|   6   | Wed, Sept 9  |                 [Ethereum]                 |
-|   7   | Mon, Sept 14 |        [Developing Smart Contracts]        |
-|   8   | Wed, Sept 16 |              [Intro to DApps]              |
-|   9   | Mon, Sept 21 |       [More Ways to Write Contracts]       |
-|  10   | Wed, Sept 23 |         [Testnets & Deployment]            |
-|  11   | Mon, Sept 28 |         [Testing Smart Contracts]          |
-|  12   | Wed, Sept 30 |        [Metadata APIs]       |
-|  13   |  Mon, Oct 5  |               Lab Day / TBD                |
-|  14   |  Wed, Oct 7  |            Final Presentations             |
-
-<!-- omit in toc -->
-### **🅱️ Section B: Tuesday + Thursday**
-
-**Course Dates:** Thursday, August 20 through Tuesday, October 6, 2020 _(7 weeks)_<br>
-**Class Times:** Tuesday &amp; Thursday from 2:30 to 5:15pm _(14 class sessions)_
-
-| Class | Date         |                   Topics                   |
-| :---: | ------------ | :----------------------------------------: |
-|   1   | Thu, Aug 20  |        [Introduction to Protocols]         |
-|   2   | Tue, Aug 25  | [Fantastic Protocols & Where to Find Them] |
-|   3   | Thu, Aug 27  |                [Blockchain]                |
-|   4   | Tue, Sept 1  |            Lab: Start Tutorial             |
-|   5   | Thu, Sept 3  |            Lab: Finish Tutorial            |
-|   -   | Tue, Sept 8  |                 [Ethereum]                 |
-|   6   | Thu, Sept 10 |        [Developing Smart Contracts]        |
-|   7   | Tue, Sept 15 |              [Intro to DApps]              |
-|   8   | Thu, Sept 17 |       [More Ways to Write Contracts]       |
-|   9   | Tue, Sept 22 |         [Testnets & Deployment]               |
-|  10   | Thu, Sept 24 |         [Testing Smart Contracts]          |
-|  11   | Tue, Sept 29 |        [Metadata APIs]        |
-|  12   | Thu, Oct 1   |               Lab Day / TBD                |
-|  13   | Tue, Oct 6   |                    TBD                     |
-|  14   | Thu, Oct 8   |            Final Presentations             |
-
-<!-- tabs:end -->
+| Class |          Date        |                 Topics                 |
+|:-----:|----------------------|----------------------------------------|
+| `01` |  _Tuesday, June 1_         | [Day 01: Intro to Protocols](Lessons/IntroProtocols.md) |
+| `02` |  _Thursday, June 3_        | [Day 02: Fantastic Protocols & Where to Find Them](https://docs.google.com/presentation/d/1KtQYUB2DpkuKwtmvfSaV9GHAbS7VtKh6GlBdMRLWmV0/edit#slide=id.g9289045c3b_2_69)|
+| `03` |  _Tuesday, June 8_         |  [Day 03: Blockchain](Lessons/Blockchain.md) |
+| `04` |  _Thursday, June 10_       | TBD |
+| `05` |  _Tuesday, June 15_        | TBD |
+| `06` |  _Thursday, June 17_       | [Day 06: Ethereum](Lessons/Ethereum.md)|
+| `07` |  _Tuesday, June 22_        | [Day 07: Smart Contracts](Lessons/SmartContracts.md) |
+| `08` |  _Thursday, June 24_       | [Day 08: DApps](Lessons/DApps.md) |
+| `09` |  _Tuesday, June 29_        |[Day 09: More Ways to Write Contracts](Lessons/Vyper.md)  |
+| `10` |  _Thursday, July 1_        | [Day 10: Testnets & Deployment](Lessons/Deploy.md) |
+| `11` |  _Tuesday, July 6_         |  [MetaMask Tips and Tricks](Lessons/MetaMask.md) |
+| `12` |  _Thursday, July 8_        |  [Final Project: MakeCoin](Project/MakeCoin.md) |
+| `13` |  _Tuesday, July 13_        | [Final Project: MakeCoin](Project/MakeCoin.md) |
+| `14` |  _Thursday, July 15_       | Final Presentations |
 
 ## Class Assignments
 
@@ -141,7 +116,7 @@ Any additional resources you may need (online books, etc.) can be found here. Yo
 - [Disability Services (Academic Accommodations)](https://make.sc/disability-services) - Services and accommodations we provide for students
 - [Student Handbook](https://make.sc/student-handbook) - Guidelines, policies, and resources for all Make School students
 
-[Gradescope]: https://make.sc/bew2.4-gradescope
+[Gradescope]: https://www.gradescope.com/courses/271765
 [Start the CryptoZombies Tutorial]: https://cryptozombies.io
 [History of Cryptocurrency]: Lessons/Lesson2.md
 [Contracts + Solidity (pt 1)]: Lessons/Lesson3.md
@@ -152,8 +127,6 @@ Any additional resources you may need (online books, etc.) can be found here. Yo
 [Testing]: Lessons/Lesson8.md
 [Deploying with Truffle]: Lessons/Lesson9.md
 [Web3.js]: https://www.zastrin.com/tutorials/build-an-ethereum-dapp-using-ethersjs
-[Final Presentations]: Project/presentations.md
-[Gradescope]: https:/make.sc/bew2.4-gradescope
 [Introduction to Protocols]: Lessons/IntroProtocols.md
 [Fantastic Protocols & Where to Find Them]: https://docs.google.com/presentation/d/1KtQYUB2DpkuKwtmvfSaV9GHAbS7VtKh6GlBdMRLWmV0
 [Testnets & Deployment]: Lessons/Deploy.md
