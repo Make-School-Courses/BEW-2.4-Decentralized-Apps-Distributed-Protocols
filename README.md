@@ -58,7 +58,7 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 | `01` |  _Tuesday, June 1_         | [Day 01: Intro to Protocols](Lessons/IntroProtocols.md) |
 | `02` |  _Thursday, June 3_        | [Day 02: Fantastic Protocols & Where to Find Them](https://docs.google.com/presentation/d/1KtQYUB2DpkuKwtmvfSaV9GHAbS7VtKh6GlBdMRLWmV0/edit#slide=id.g9289045c3b_2_69)|
 | `03` |  _Tuesday, June 8_         |  [Day 03: Blockchain](Lessons/Blockchain.md) |
-| `04` |  _Thursday, June 10_       | TBD |
+| `04` |  _Thursday, June 10_       | [Day 04: Introducing CryptoZombies](https://cryptozombies.io) |
 | `05` |  _Tuesday, June 15_        | TBD |
 | `06` |  _Thursday, June 17_       | [Day 06: Ethereum](Lessons/Ethereum.md)|
 | `07` |  _Tuesday, June 22_        | [Day 07: Smart Contracts](Lessons/SmartContracts.md) |
