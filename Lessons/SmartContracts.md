@@ -38,7 +38,7 @@ Answer the warm up questions below in breakout rooms:
 
 ## 📖 **30m**: Overview
 
-<p align="center"><img src="../Resources/truffle.svg" height="100"><br><a href="https://www.trufflesuite.com/docs/truffle/quickstart"><strong>🔗 Quickstart</strong></a></p>
+<p align="center"><img src="/Resources/truffle.svg" height="100"><br><a href="https://www.trufflesuite.com/docs/truffle/quickstart"><strong>🔗 Quickstart</strong></a></p>
 
 A **world class development environment**, **testing framework**, and **asset pipeline** for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
 
@@ -55,7 +55,7 @@ A **world class development environment**, **testing framework**, and **asset pi
 
 ---
 
-<p align="center"><img src="../Resources/ganache.svg" height="100"><br><a href="https://www.trufflesuite.com/docs/ganache/quickstart"><strong>🔗 Quickstart</strong></a></p>
+<p align="center"><img src="/Resources/ganache.svg" height="100"><br><a href="https://www.trufflesuite.com/docs/ganache/quickstart"><strong>🔗 Quickstart</strong></a></p>
 
 ### Ganache Features
 
@@ -65,7 +65,7 @@ It is available as **both a desktop application** as well as a **command-line to
 
 ---
 
-<p align="center"><img src="../Resources/drizzle.svg" height="100"><br><a href="https://www.trufflesuite.com/docs/drizzle/quickstart"><strong>🔗 Quickstart</strong></a></p>
+<p align="center"><img src="/Resources/drizzle.svg" height="100"><br><a href="https://www.trufflesuite.com/docs/drizzle/quickstart"><strong>🔗 Quickstart</strong></a></p>
 
 Drizzle is a **collection of front-end libraries that make writing dapp front-ends easier and more predictable**.
 
@@ -73,7 +73,7 @@ Takes care of synchronizing contract data, transaction data, and more. Things st
 
 ---
 
-<p align="center"><img src="../Resources/openzeppelin.png" width="400"><br><a href="https://docs.openzeppelin.org/v2.3.0/get-started"><strong>🔗 Quickstart</strong></a></p>
+<p align="center"><img src="/Resources/openzeppelin.png" width="400"><br><a href="https://docs.openzeppelin.org/v2.3.0/get-started"><strong>🔗 Quickstart</strong></a></p>
 
 
 OpenZeppelin is a library for secure smart contract development. It provides implementations of standards like ERC20 and ERC721 which you can deploy as-is or extend to suit your needs, as well as Solidity components to build custom contracts and more complex decentralized systems.
