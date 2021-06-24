@@ -1,249 +1,108 @@
-# ⛓ Developing Smart Contracts in Python
-
-<!-- > -->
+# 📜 Day 6: Architecting & Implementing Token Based Applications in Node.js
 
 <!-- omit in toc -->
-## ⏱ Agenda
+## ⏱ Agenda {docsify-ignore}
 
-- [[**02m**] 🏆 Objectives](#02m-%f0%9f%8f%86-objectives)
-- [[**25m**] ☀️ Warm Up: DApp Developer Roadmap](#25m-%e2%98%80%ef%b8%8f-warm-up-dapp-developer-roadmap)
-- [[**10m**] 📖 TT: Introduction to Brownie](#10m-%f0%9f%93%96-tt-introduction-to-brownie)
-- [[**15m**] 💻 Activity: Install Brownie](#15m-%f0%9f%92%bb-activity-install-brownie)
-- [[**10m**] 📖 TT: Project Structure](#10m-%f0%9f%93%96-tt-project-structure)
-- [[**15m**] 💻 Activity: Common Brownie Commands](#15m-%f0%9f%92%bb-activity-common-brownie-commands)
-- [[**10m**] 📖 TT: Introduction to the Console](#10m-%f0%9f%93%96-tt-introduction-to-the-console)
-- [[**10m**] 🌴 BREAK](#10m-%f0%9f%8c%b4-break-docsify-ignore)
-- [[**20m**] 💡Tutorial: Your First Token (Part 1 of 2)](#20m-%f0%9f%92%a1tutorial-your-first-token-part-1-of-2)
-- [[**05m**] 💬 Check In: Tutorial Q&A (Part 1 of 2)](#05m-%f0%9f%92%ac-check-in-tutorial-qa-part-1-of-2)
-- [[**20m**] 💡Tutorial: Your First Token (Part 2 of 2)](#20m-%f0%9f%92%a1tutorial-your-first-token-part-2-of-2)
-- [[**05m**] 💬 Check In: Tutorial Q&A (Part 2 of 2)](#05m-%f0%9f%92%ac-check-in-tutorial-qa-part-2-of-2)
-- [[**03m**] 🌃 After Class: Read the Docs](#03m-%f0%9f%8c%83-after-class-read-the-docs)
+1. [🏆 **02m**: Learning Objectives](#%F0%9F%8F%86-%2a%2a02m%2a%2a%3A-learning-objectives)
+1. [🤔 **03m**: Why You Should Know This](#%F0%9F%A4%94-%2a%2a03m%2a%2a%3A-why-you-should-know-this)
+1. [☀️ **20m**: Warm Up](#%E2%98%80%EF%B8%8F-%2a%2a20m%2a%2a%3A-warm-up)
+1. [📖 **30m**: Overview](#%F0%9F%93%96-%2a%2a30m%2a%2a%3A-overview)
+   1. [Truffle Features](#truffle-features)
+   1. [Ganache Features](#ganache-features)
+   1. [OpenZeppelin Features](#openzeppelin-features)
+1. [**30m**: Make Progress on Tutorial](#%2a%2a30m%2a%2a%3A-make-progress-on-tutorial)
+1. [📚 Resources & Credits](#%F0%9F%93%9A-resources-%26-credits)
 
-<!-- > -->
+## 🏆 **02m**: Learning Objectives
 
-## [**02m**] 🏆 Objectives
+1. Analyze the full-stack ecosystem that enables the development of smart contracts and distributed applications in Node.
+2. Identify and leverage existing boilerplate applications to establish a strong initial foundation in projects.
+3. Begin proposing, designing, and planning your own token based coin using the Truffle framework!
 
-1. Illustrate course progress using the DApps developer roadmap.
-1. Install and configure a local Python environment suitable for writing DApps.
-1. Compile your first smart contract using the Brownie framework.
+## 🤔 **03m**: Why You Should Know This
 
-<!-- > -->
+Frameworks boost programmer productivity by initializing a standards-based foundation with which to develop a product.
 
-## [**25m**] ☀️ Warm Up: DApp Developer Roadmap
+Truffle Suite provides the scaffolding to our projects, similar to [Create React App](https://github.com/facebook/create-react-app) or [Django](https://djangoproject.com).
 
-Review the DApps developer roadmap with students.
 
-![DApp Developer Roadmap](https://raw.githubusercontent.com/thecryptoshed/eth-dapp-developer-roadmap/master/dapp-developer-roadmap.png)
+## ☀️ **20m**: Warm Up
 
-In breakout rooms (10 minutes), ask students to **identify where we are as a class on the roadmap**. When the breakout ends, use the remaining time to discuss and respond to student's answers.
+Answer the warm up questions below in breakout rooms:
 
-<!-- > -->
+*You may answer the questions solo or in a pair.*
 
-## [**10m**] 📖 TT: Introduction to Brownie
+1. **Challenge 1**: What is the difference between *Ether* and *Ethereum*?
+2. **Challenge 2**: What is an *unsigned integer*?
+3. **Challenge 3**: What is *Natspec*? How is it used? Write out an example using an unsigned integer!
 
-Brownie is a **Python-based development and testing framework for smart contracts** targeting the Ethereum Virtual Machine.
+## 📖 **30m**: Overview
 
-### Use Cases
+<p align="center"><img src="../Resources/truffle.svg" height="100"><br><a href="https://www.trufflesuite.com/docs/truffle/quickstart"><strong>🔗 Quickstart</strong></a></p>
 
-- **Deployment**: Automate the deployment of many contracts onto the blockchain, and any transactions needed to initialize or integrate them.
-- **Interaction**: Write scripts or use the console to interact with your contracts on the mainnet, or for quick testing in a local environment.
-- **Debugging**: Get detailed information when a transaction reverts, to help you pinpoint the issue quickly.
-- **Testing**: Write unit tests in python and evaluate test coverage based on stack trace analysis. We make no promises.
+A **world class development environment**, **testing framework**, and **asset pipeline** for blockchains using the Ethereum Virtual Machine (EVM), aiming to make life as a developer easier.
 
-### Features
+### Truffle Features
 
-- Full support for [Solidity](https://github.com/ethereum/solidity) and [Vyper](https://github.com/vyperlang/vyper)
-- Contract testing via [pytest](https://github.com/pytest-dev/pytest), including trace-based coverage evaluation
-- Property-based and stateful testing via [hypothesis](https://github.com/HypothesisWorks/hypothesis/tree/master/hypothesis-python)
-- Powerful debugging tools, including python-style tracebacks and custom error strings
-- Built-in console for quick project interaction
-- Support for [ethPM](https://www.ethpm.com/) packages
+- Built-in **smart contract compilation**, **linking**, **deployment** and **binary management**.
+- **Automated contract testing** for rapid development.
+- **Scriptable, extensible deployment** and **migrations** framework.
+- **Network management**: deploy to any number of public and private networks.
+- **Package management** via `ethpm` and `npm`, using the `ERC190` standard.
+- **Interactive console** for direct contract communication.
+- **Configurable build pipeline** with support for tight integration.
+- **External script runner** that executes scripts within a Truffle environment.
 
-## [**15m**] 💻 Activity: Install Brownie & Ganache
+---
 
-### Step 1: Install Prerequisites
+<p align="center"><img src="../Resources/ganache.svg" height="100"><br><a href="https://www.trufflesuite.com/docs/ganache/quickstart"><strong>🔗 Quickstart</strong></a></p>
 
-:1234: You only need to **run these commands once per computer**. <br>
-:gear: You should **use the script to install all prerequisites unless advised by your instructor.**
+### Ganache Features
 
-#### Install via Script
+Ganache is a **personal blockchain for Ethereum development** you can use to deploy contracts, develop your applications, and run tests.
 
-1. Open `Terminal.app`.
-1. Copy the following command, then paste it into the terminal window:
+It is available as **both a desktop application** as well as a **command-line too**l *(formerly known as the TestRPC)*.
 
-    ```bash
-    bash <(curl -sL https://make.sc/dappsetup)
-    ```
+---
 
-#### Install Manually
+<p align="center"><img src="../Resources/drizzle.svg" height="100"><br><a href="https://www.trufflesuite.com/docs/drizzle/quickstart"><strong>🔗 Quickstart</strong></a></p>
 
-|         Program | Version  |         Verify          | Install                                                       |
-| --------------: | :------: | :---------------------: | ------------------------------------------------------------- |
-|       **XCode** | _Latest_ |    `xcode-select -v`    | :one: [**App Store**: XCode](https://apps.apple.com/us/app/xcode/id497799835?mt=12)<br>:two: `xcode-select --install` |
-|        **Node** |   `12`   |        `node -v`        | :one: `nvm install 12`<br>:two: `nvm use 12`                  |
-| **Ganache CLI** | _Latest_ | `ganache-cli --version` | :one: `npm install -g ganache-cli`                            |
-|     **Brownie** | _Latest_ |   `brownie --version`   | :one: `pip3 install eth-brownie`                              |
+Drizzle is a **collection of front-end libraries that make writing dapp front-ends easier and more predictable**.
 
+Takes care of synchronizing contract data, transaction data, and more. Things stay fast because you declare what to keep in sync.
 
+---
 
-### Step 2: Create First Project
+<p align="center"><img src="../Resources/openzeppelin.png" width="400"><br><a href="https://docs.openzeppelin.org/v2.3.0/get-started"><strong>🔗 Quickstart</strong></a></p>
 
-#### 🛑 Read Before Starting
 
-- If you **experience any errors** during the project creation process, please **exit the breakout room** for a one on one check in with the instructor.
-- **_You only need to run these commands once per project._**
+OpenZeppelin is a library for secure smart contract development. It provides implementations of standards like ERC20 and ERC721 which you can deploy as-is or extend to suit your needs, as well as Solidity components to build custom contracts and more complex decentralized systems.
 
-#### :1234: Step by Step
+### OpenZeppelin Features
 
-1. **Run `brownie bake token` to create your first project in a directory that does not contain spaces or periods**:
+- **Focused on Security**: Using industry standard contract security patterns and best practices, develop applications with reduced risk of vulnerabilities using standard, tested, community-reviewed code.
+- **Compatibility**: Runs on any EVM-compatible blockchain.
+- **Modular Approach**: Simple code, only basics. Easy collaboration and auditing.
+- **Open Source**: Community driven. Used by multiple organizations and individuals.
 
-    ```bash
-    $ cd ~/dev
-    $ brownie bake token
-    Brownie v1.11.2 - Python development framework for Ethereum
 
-    Downloading from https://github.com/brownie-mix/token-mix/archive/master.zip...
-    100%|█████████████████████████████████████████████████████████████████████████████| 9.13k/9.13k [00:00<00:00, 2.60MiB/s]
-    SUCCESS: Brownie mix 'token' has been initiated at /Users/dani/dev/token
-    ```
 
-1. **Navigate to the new `token` directory**:
+## **30m**: Make Progress on Tutorial
 
-    ```bash
-    cd token
-    ```
+Continue with the Pet Shop tutorial [here](https://www.trufflesuite.com/tutorials/pet-shop).
 
-1. **Make sure the project is set up correctly by running the Brownie console**:
+If you've already completed the Pet Shop tutorial, please work on the Election tutorial [here](http://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial). You can turn this in for extra credit, and the assignment is completely optional.
 
-    ```bash
-    $ brownie console
-    Brownie v1.11.2 - Python development framework for Ethereum
-
-    Compiling contracts...
-      Solc version: 0.6.12
-      Optimizer: Enabled  Runs: 200
-      EVM Version: Istanbul
-    Generating build data...
-    - Token...
-    - SafeMath...
-
-    TokenProject is the active project.
-
-    Launching 'ganache-cli --port 8545 --gasLimit 12000000 --accounts 10 --hardfork istanbul --mnemonic brownie'...
-    Brownie environment is ready.
-    >>>
-    ```
-
-1. **Type `exit()` in the Brownie console, then press `<ENTER>` to quit the Brownie console**.
-
-    ```bash
-    Brownie environment is ready.
-    >>> exit()
-    ```
-
-1. **Open the project directory in your IDE** in order to prepare for the next activity.
-1. **Exit the breakout room when done!**
-
-<!-- > -->
-
-## [**10m**] 📖 TT: Project Structure
-
-### Project Structure
-
-Each Brownie project uses the following structure:
-
-- `contracts/`: Contract sources
-- `interfaces/`: Interface sources
-- `scripts/`: Scripts for deployment and interaction
-- `tests/`: Scripts for testing the project
-
-The following directories are also created, and used internally by Brownie for managing the project.  **You should not edit or delete files within these folders.**
-
-- `build/`: Project data such as compiler artifacts and unit test results
-- `reports/`: JSON report files for use in the GUI
-
-## [**15m**] 💻 Activity: Common Brownie Commands
-
-**In the project you just created, run:**
-
-```bash
-brownie console
-```
-
-**Discuss and write down the answers to following questions**:
-
-- Have you seen similar consoles in the past?
-- What is the purpose of this console?
-- How to you exit this console?
-
-**After exiting the console, run this command:**
-
-```bash
-brownie compile
-```
-
-**What did this command do? Why is it important?**
-
-
-## [**10m**] 📖 TT: Introduction to the Console
-
-Brownie’s console provides a simple way to perform on-the-fly testing and debugging, as well as interacting with contracts on a local or remote blockchain.
-
-Check out this quick video for an example of the console's functionality:
-
-<iframe width="680" height="382" src="https://www.youtube.com/embed/NYBJwGqa0-o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-## [**10m**] 🌴 BREAK {docsify-ignore}
-
-<!-- > -->
-
-
-## [**20m**] 💡Tutorial: Your First Token (Part 1 of 2)
-
-In a brand new folder, complete the steps described in [Getting Started With Brownie (1 of 2)](https://medium.com/better-programming/getting-started-with-brownie-part-2-615a1eec167f), which will **walk you through creating your first token** using the Brownie framework.
-
-If you finish this section early, assist others in your breakout room
-
-
-## [**05m**] 💬 Check In: Tutorial Q&A (Part 1 of 2)
-
-Instructor will answer student questions in the main room before dismissing to work on the second half of the tutorial.
-
-## [**20m**] 💡Tutorial: Your First Token (Part 2 of 2)
-
-In the same folder, complete the steps described in [Getting Started With Brownie (2 of 2)](https://medium.com/better-programming/getting-started-with-brownie-part-3-ef6bfa9867d7), which will walk you through **interacting with your first token** using the Brownie framework.
-
-## [**05m**] 💬 Check In: Tutorial Q&A (Part 2 of 2)
-
-Instructor will answer student questions in the main room before dismissing students for the day.
-
-## [**03m**] 🌃 After Class: Read the Docs
-
-- **When you've completed the tutorial**:
-    1. Visit [Gradescope](https://www.gradescope.com/courses/160564) and click on the assignment titled [[Day 7] Your First Token](https://www.gradescope.com/courses/160564/assignments/662647).
-    1. Upload the `Token.json` file, located in the `build` directory of your `token` project.
-        - **You MUST successfully run `brownie compile` inside of the `token` directory for this file to exist!**
-- **Spend at least `30 minutes` reviewing the [Brownie Documentation](https://eth-brownie.readthedocs.io/en/stable/#features).** Get familiar with the features. Be sure to write down any questions you have so we can discuss them together during the next class!
-
-<!-- > -->
-
-<!-- omit in toc -->
 ## 📚 Resources & Credits
 
-### Student Contributions
-
-- :tada: Shoutout to [@aucoeur](https://github.com/aucoeur) for finding an issue with `ganache-cli` installed alongside Node != v12: [GitHub Issue](https://github.com/trufflesuite/ganache-cli/issues/732#issuecomment-623782405) :tada:
-
-### Referenced Material
-
-- [thecryptoshed/eth-dapp-developer-roadmap](https://github.com/thecryptoshed/eth-dapp-developer-roadmap)
-- [Brownie — Brownie 1.10.4 documentation](https://eth-brownie.readthedocs.io/en/stable/#features)
-- [Structure of a Project — Brownie 1.10.4 documentation](https://eth-brownie.readthedocs.io/en/stable/structure.html)
-- [Compiling Contracts — Brownie 1.10.4 documentation](https://eth-brownie.readthedocs.io/en/stable/compile.html)
-- [Interacting with your Contracts — Brownie 1.10.4 documentation](https://eth-brownie.readthedocs.io/en/stable/interaction.html)
-- [Brownie Package Manager — Brownie 1.10.4 documentation](https://eth-brownie.readthedocs.io/en/stable/package-manager.html)
-- [The Brownie GUI — Brownie 1.10.4 documentation](https://eth-brownie.readthedocs.io/en/stable/gui.html#)
-- [Brownie Turns 1.0.0!](https://medium.com/@iamdefinitelyahuman/brownie-turns-1-0-0-3d1f8d736f98)
-- [Getting Started with Brownie: Part 1 | by Ben Hauser | Medium](https://medium.com/@iamdefinitelyahuman/getting-started-with-brownie-part-1-9b2181f4cb99)
-- [Getting Started With Brownie (Part 2) | by Ben Hauser | Better Programming | Medium](https://medium.com/better-programming/getting-started-with-brownie-part-2-615a1eec167f)
-- [Getting Started With Brownie (Part 3) | by Ben Hauser | Better Programming | Medium](https://medium.com/better-programming/getting-started-with-brownie-part-3-ef6bfa9867d7)
+- **[Truffle Documentation](https://www.trufflesuite.com/docs)**
+    - [Announcing Our Fully Featured, Portable Solidity Debugger](https://www.trufflesuite.com/blog/announcing-full-portable-solidity-debugger)
+    - [Variable Inspection: Going Deeper with the Truffle Solidity Debugger](https://www.trufflesuite.com/tutorials/debugger-variable-inspection)
+- **[Ganache Documentation](https://www.trufflesuite.com/docs/ganache/overview)**
+    - [Linking a Truffle Project](https://www.trufflesuite.com/docs/ganache/truffle-projects/linking-a-truffle-project)
+- **[Drizzle Documentation](https://www.trufflesuite.com/docs/drizzle/overview)**
+    - [Drizzle and Contract Events](https://www.trufflesuite.com/tutorials/drizzle-and-contract-events)
+- **[OpenZeppelin Documentation](https://docs.openzeppelin.org/v2.3.0/get-started)**
+    - [ERC-721 on OpenZeppelin](https://docs.openzeppelin.org/v2.3.0/api/token/erc721)
+    - [OpenZeppelin on GitHub](https://github.com/OpenZeppelin/openzeppelin-solidity)
+    - [OpenZeppelin Community Forum](https://forum.zeppelin.solutions/)
