@@ -1,28 +1,42 @@
 # 📜 Day 6: Architecting & Implementing Token Based Applications in Node.js
 
+<!-- omit in toc -->
 ## ⏱ Agenda {docsify-ignore}
 
-1. [🏆 **5m**: Learning Objectives](#%F0%9F%8F%86-5m-Learning-Objectives)
-2. [📖 **20m**: Overview](#%F0%9F%93%96-20m-Overview)
-3. [🌴 **10m**: Break](#%F0%9F%8C%B4-10m-Break)
-4. [💻 **60m**: In Class Activity](#%F0%9F%92%BB-60m-In-Class-Activity)
-5. [📚 Resources & Credits](#%F0%9F%93%9A-Resources--Credits)
+1. [🏆 **02m**: Learning Objectives](#%F0%9F%8F%86-%2a%2a02m%2a%2a%3A-learning-objectives)
+1. [🤔 **03m**: Why You Should Know This](#%F0%9F%A4%94-%2a%2a03m%2a%2a%3A-why-you-should-know-this)
+1. [☀️ **20m**: Warm Up](#%E2%98%80%EF%B8%8F-%2a%2a20m%2a%2a%3A-warm-up)
+1. [📖 **30m**: Overview](#%F0%9F%93%96-%2a%2a30m%2a%2a%3A-overview)
+   1. [Truffle Features](#truffle-features)
+   1. [Ganache Features](#ganache-features)
+   1. [OpenZeppelin Features](#openzeppelin-features)
+1. [**30m**: Make Progress on Tutorial](#%2a%2a30m%2a%2a%3A-make-progress-on-tutorial)
+1. [📚 Resources & Credits](#%F0%9F%93%9A-resources-%26-credits)
 
-## 🏆 **5m**: Learning Objectives
+## 🏆 **02m**: Learning Objectives
 
 1. Analyze the full-stack ecosystem that enables the development of smart contracts and distributed applications in Node.
 2. Identify and leverage existing boilerplate applications to establish a strong initial foundation in projects.
-3. Propose, design, and plan your own token based coin using Truffle, Ganache, and Drizzle.
+3. Begin proposing, designing, and planning your own token based coin using the Truffle framework!
 
-## 📖 **20m**: Overview
-
-### Why You Should Know This
+## 🤔 **03m**: Why You Should Know This
 
 Frameworks boost programmer productivity by initializing a standards-based foundation with which to develop a product.
 
 Truffle Suite provides the scaffolding to our projects, similar to [Create React App](https://github.com/facebook/create-react-app) or [Django](https://djangoproject.com).
 
----
+
+## ☀️ **20m**: Warm Up
+
+Answer the warm up questions below in breakout rooms:
+
+*You may answer the questions solo or in a pair.*
+
+1. **Challenge 1**: What is the difference between *Ether* and *Ethereum*?
+2. **Challenge 2**: What is an *unsigned integer*?
+3. **Challenge 3**: What is *Natspec*? How is it used? Write out an example using an unsigned integer!
+
+## 📖 **30m**: Overview
 
 <p align="center"><img src="../Resources/truffle.svg" height="100"><br><a href="https://www.trufflesuite.com/docs/truffle/quickstart"><strong>🔗 Quickstart</strong></a></p>
 
@@ -57,17 +71,9 @@ Drizzle is a **collection of front-end libraries that make writing dapp front-en
 
 Takes care of synchronizing contract data, transaction data, and more. Things stay fast because you declare what to keep in sync.
 
-#### Drizzle Features
-
-- **State, Events and Transactions**: Fully reactive contract data
-- **Declarative**: Doesn't waste time on valuable cycles if data is unneeded.
-- **Flexible**: Maintains access to underlying functionality.
-    - Web3 and your contract's methods are still there, untouched.
-
 ---
 
 <p align="center"><img src="../Resources/openzeppelin.png" width="400"><br><a href="https://docs.openzeppelin.org/v2.3.0/get-started"><strong>🔗 Quickstart</strong></a></p>
-
 
 
 OpenZeppelin is a library for secure smart contract development. It provides implementations of standards like ERC20 and ERC721 which you can deploy as-is or extend to suit your needs, as well as Solidity components to build custom contracts and more complex decentralized systems.
@@ -80,27 +86,12 @@ OpenZeppelin is a library for secure smart contract development. It provides imp
 - **Open Source**: Community driven. Used by multiple organizations and individuals.
 
 
-## 🌴 **10m**: Break
 
-## 💻 **60m**: In Class Activity
+## **30m**: Make Progress on Tutorial
 
-### Full Stack dApp
+Continue with the Pet Shop tutorial [here](https://www.trufflesuite.com/tutorials/pet-shop).
 
-Create the initial architecture for your project during today's class.
-
-#### Requirements (Due End of Class)
-
-1. **Choose Your Own Adventure**: Solo or pair dApps project?
-      1. **Pairs**: Generate ideas.
-2. Create a new GitHub repo and add it to the [Course Tracker](https://make.sc/trackbew2.4)
-      1. Clone the repo locally and create an `example` branch.
-      2. **Pairs**: Invite partner as a collaborator.
-3. Use the following [Guide to Writing and Testing Real World Contracts](https://hashnode.com/post/the-2018-guide-to-writing-and-testing-real-world-crowdsale-contracts-cjcs8dfes00apmdwthw03c2jq) to get set up with a project that will serve as the structure for your end-of-term project.
-      1. Comment out `Migrations.sol` and the first migration in the migrations folder.
-4. **Stretch Challenge**: Invent and develop an `ERC721` token contract with the Truffle Suite.
-5. **Stretch Challenge**: Add OpenZeppelin
-      1. Get it working within the `example` branch.
-      2. Write tests for the `Addition.sol` contract.
+If you've already completed the Pet Shop tutorial, please work on the Election tutorial [here](http://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial). You can turn this in for extra credit, and the assignment is completely optional.
 
 ## 📚 Resources & Credits
 
