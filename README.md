@@ -53,22 +53,22 @@ Students will learn how to write smart contracts, tokens, and other cryptographi
 **Course Dates:** Tuesday, June 1 through Thursday, July 15, 2021  _(7 weeks)_<br>
 **Class Times:** Tuesday  &amp; Thursday from 2:30pm to 4:00pm PST _(14 class sessions)_
 
-| Class |          Date        |                 Topics                 |
-|:-----:|----------------------|----------------------------------------|
-| `01` |  _Tuesday, June 1_         | [Day 01: Intro to Protocols](Lessons/IntroProtocols.md) |
-| `02` |  _Thursday, June 3_        | [Day 02: Fantastic Protocols & Where to Find Them](https://docs.google.com/presentation/d/1KtQYUB2DpkuKwtmvfSaV9GHAbS7VtKh6GlBdMRLWmV0/edit#slide=id.g9289045c3b_2_69)|
-| `03` |  _Tuesday, June 8_         |  [Day 03: Blockchain](Lessons/Blockchain.md) |
-| `04` |  _Thursday, June 10_       | [Day 04: Introducing CryptoZombies](https://cryptozombies.io) |
-| `05` |  _Tuesday, June 15_        | TBD |
-| `06` |  _Thursday, June 17_       | [Day 06: Ethereum](Lessons/Ethereum.md)|
-| `07` |  _Tuesday, June 22_        | [Day 07: Smart Contracts](Lessons/SmartContracts.md) |
-| `08` |  _Thursday, June 24_       | [Day 08: DApps](Lessons/DApps.md) |
-| `09` |  _Tuesday, June 29_        |[Day 09: More Ways to Write Contracts](Lessons/Vyper.md)  |
-| `10` |  _Thursday, July 1_        | [Day 10: Testnets & Deployment](Lessons/Deploy.md) |
-| `11` |  _Tuesday, July 6_         |  [MetaMask Tips and Tricks](Lessons/MetaMask.md) |
-| `12` |  _Thursday, July 8_        |  [Final Project: MakeCoin](Project/MakeCoin.md) |
-| `13` |  _Tuesday, July 13_        | [Final Project: MakeCoin](Project/MakeCoin.md) |
-| `14` |  _Thursday, July 15_       | Final Presentations |
+| Class | Date                | Topics                                                                                                                                                                 |
+| :---: | ------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `01`  | _Tuesday, June 1_   | [Day 01: Intro to Protocols](Lessons/IntroProtocols.md)                                                                                                                |
+| `02`  | _Thursday, June 3_  | [Day 02: Fantastic Protocols & Where to Find Them](https://docs.google.com/presentation/d/1KtQYUB2DpkuKwtmvfSaV9GHAbS7VtKh6GlBdMRLWmV0/edit#slide=id.g9289045c3b_2_69) |
+| `03`  | _Tuesday, June 8_   | [Day 03: Blockchain](Lessons/Blockchain.md)                                                                                                                            |
+| `04`  | _Thursday, June 10_ | [Day 04: Introducing CryptoZombies](https://cryptozombies.io)                                                                                                          |
+| `05`  | _Tuesday, June 15_  | TBD                                                                                                                                                                    |
+| `06`  | _Thursday, June 17_ | [Day 06: Ethereum](Lessons/Ethereum.md)                                                                                                                                |
+| `07`  | _Tuesday, June 22_  | [Day 07: Smart Contracts](Lessons/SmartContracts.md)                                                                                                                   |
+| `08`  | _Thursday, June 24_ | [Day 08: DApps](Lessons/DApps.md)                                                                                                                                      |
+| `09`  | _Tuesday, June 29_  | [Make a New NFT: Backend](https://grain.co/share/recording/96121eac-f405-4c29-af73-b2af46677889/5AMUm4hymrQvE9CJdqXJcW2epHCicX13csUolSie)                              |
+| `10`  | _Thursday, July 1_  | Make a New NFT: Frontend + [MakeCoin Kickoff](Project/MakeCoin.md)                                                                                                     |
+| `11`  | _Tuesday, July 6_   | Storing Custom Metadata + Images on IPFS                                                                                                                               |
+| `12`  | _Thursday, July 8_  | Freezing + Shipping Distributed Apps                                                                                                                                   |
+| `13`  | _Tuesday, July 13_  | Selling Your NFT                                                                                                                                                       |
+| `14`  | _Thursday, July 15_ | Final Presentations                                                                                                                                                    |
 
 ## Class Assignments
 
