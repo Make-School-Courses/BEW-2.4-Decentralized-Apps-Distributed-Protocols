@@ -5,13 +5,18 @@ _Design and mint your very own [ERC-20](https://docs.openzeppelin.com/contracts/
 <!-- omit in toc -->
 ## Table of Contents {docsify-ignore}
 
-- [1️⃣ Overview](#1%ef%b8%8f%e2%83%a3-overview)
-- [2️⃣ Getting Started](#2%ef%b8%8f%e2%83%a3-getting-started)
-- [3️⃣ Deliverables](#3%ef%b8%8f%e2%83%a3-deliverables)
-- [4️⃣ Evaluation](#4%ef%b8%8f%e2%83%a3-evaluation)
-- [5️⃣ Where to Get Help](#5%ef%b8%8f%e2%83%a3-where-to-get-help)
-- [6️⃣ Resources](#6%ef%b8%8f%e2%83%a3-resources)
-- [7️⃣ Credits](#7%ef%b8%8f%e2%83%a3-credits)
+1. [1️⃣ Overview](#1%EF%B8%8F%E2%83%A3-overview)
+   1. [Guidelines](#guidelines)
+1. [2️⃣ Getting Started](#2%EF%B8%8F%E2%83%A3-getting-started)
+1. [3️⃣ Deliverables](#3%EF%B8%8F%E2%83%A3-deliverables)
+   1. [Code](#code)
+   1. [Demo](#demo)
+1. [4️⃣ Evaluation](#4%EF%B8%8F%E2%83%A3-evaluation)
+1. [5️⃣ Where to Get Help](#5%EF%B8%8F%E2%83%A3-where-to-get-help)
+1. [6️⃣ Resources](#6%EF%B8%8F%E2%83%A3-resources)
+   1. [🔗 Example DApps](#%F0%9F%94%97-example-dapps)
+   1. [🤑 Get ETH: Faucets](#%F0%9F%A4%91-get-eth%3A-faucets)
+1. [7️⃣ Credits](#7%EF%B8%8F%E2%83%A3-credits)
 
 ## 1️⃣ Overview
 
@@ -92,16 +97,11 @@ Both your project and presentation will be scored according to the MakeCoin [rub
 
 ### 🤑 Get ETH: Faucets
 
-| 🌐 Network | 🚰 Faucet | Limit |
-| --- | --- | --- |
-| **MetaMask** | <https://faucet.metamask.io> | 5 requests/hour |
-| **Rinkeby** | <https://faucet.rinkeby.io> | 1 request/day |
-| **Goerli** | <https://faucet.goerli.mudit.blog> | 1 request/day |
-
-### 🧞‍♀️ Frontend: DApp Generators
-
-- <https://oneclickdapp.com>
-- <https://www.dapphero.io>
+| 🌐 Network    | 🚰 Faucet                           | Limit           |
+| ------------ | ---------------------------------- | --------------- |
+| **MetaMask** | <https://faucet.metamask.io>       | 5 requests/hour |
+| **Rinkeby**  | <https://faucet.rinkeby.io>        | 1 request/day   |
+| **Goerli**   | <https://faucet.goerli.mudit.blog> | 1 request/day   |
 
 
 ## 7️⃣ Credits
